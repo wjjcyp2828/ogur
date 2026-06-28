@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://xn--dkw0c.v.nxog.top/m/t/",
-    "logo": "https://raw.githubusercontent.com/wjjcyp2828/ogur/refs/heads/main/lib/louisbaby3.jpg",
+    "logo": "./lib/louisbaby2.png",
     "spider": "./lib/jar.jar;md5;bf41f250b11d19bb5a8aa90f977f4dd7",
     "warningText": "欧歌提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "sites": [
