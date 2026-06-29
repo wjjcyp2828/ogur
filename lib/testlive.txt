@@ -1,0 +1,48 @@
+#EXTM3U
+
+
+#EXTINF:-1  group-title="娛樂綜合",民視第一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=1
+#EXTINF:-1  group-title="娛樂綜合",民視台灣台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=255
+#EXTINF:-1  group-title="娛樂綜合",民視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=3
+#EXTINF:-1  group-title="娛樂綜合",中視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=4
+#EXTINF:-1  group-title="娛樂綜合",華視
+https://ha.msbot.dpdns.org/4gtv_api.php?id=6
+#EXTINF:-1  group-title="娛樂綜合",三立綜合台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=169
+#EXTINF:-1  group-title="娛樂綜合",八大綜藝台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=114
+#EXTINF:-1  group-title="娛樂綜合",TVBS精彩台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=227
+#EXTINF:-1  group-title="娛樂綜合",靖天綜合台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=21
+#EXTINF:-1  group-title="娛樂綜合",NICE TV 靖天歡樂台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=119
+#EXTINF:-1  group-title="娛樂綜合",韓國娛樂台KMTV
+https://ha.msbot.dpdns.org/4gtv_api.php?id=446
+#EXTINF:-1  group-title="娛樂綜合",愛爾達寵物運動台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=19
+#EXTINF:-1  group-title="娛樂綜合",TVBS綜藝台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=476
+#EXTINF:-1  group-title="娛樂綜合",靖天日本台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=22
+
+
+#EXTINF:-1  group-title="新聞財經",鏡電視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=268
+#EXTINF:-1  group-title="新聞財經",東森新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+#EXTINF:-1  group-title="新聞財經",民視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+#EXTINF:-1  group-title="新聞財經",華視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+#EXTINF:-1  group-title="新聞財經",三立新聞INEWS
+https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+#EXTINF:-1  group-title="新聞財經",TVBS新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+#EXTINF:-1  group-title="新聞財經",東森財經新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+
