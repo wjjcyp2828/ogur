@@ -23,6 +23,166 @@
             "quickSearch": 1,
             "changeable": 1
         },
+        
+             {
+      "key": "drpyS_枫林影视",
+      "name": "🎋｜楓林｜高清",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+      "key": "drpyS_55影视",
+      "name": "5️⃣55影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+
+    {
+      "key": "drpyS_泥视频",
+      "name": "🌮泥视频(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "泥视频",
+      "author": "eylinsir",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    }, 
+
+    {
+      "key": "hipy_py_一起看[Ayq]",
+      "name": "🍻一起看[Ayq](hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
+        "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
+        "appkey": "70af67d2b6cf47679b397ea4c1886877",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.flotimingo.ts",
+        "source": "1001_default",
+        "version": "1.3.10",
+        "versionCode": 1104
+      }
+    },
+    {
+      "key": "hipy_py_橘子TV[Ayq]",
+      "name": "🍊橘子TV[Ayq](hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "AppYqk",
+      "lang": "hipy",
+      "ext": {
+        "host": "https://gapi0725.5p8jcjc.com/config.json,https://gapi0725.olrv5gz.com/config.json,https://gapi0725.mvljeat.com/config.json,https://jzapp-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://juzi-config-1360051343.cos.ap-shanghai.myqcloud.com/config.json",
+        "appId": "fea23e11fc1241409682880e15fb2851",
+        "appkey": "f384b87cc9ef41e4842dda977bae2c7f",
+        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
+        "bundlerId": "com.voraguzzee.ts",
+        "source": "1003_default",
+        "version": "1.0.1",
+        "versionCode": 1000
+                   }
+          },
+      
+          {
+      "key": "drpyS_可视影院",
+      "name": "🌜可视影院(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "可视影院",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    
+        {
+      "key": "drpyS_非凡采集[采]",
+      "name": "🛷非凡采集[采](DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/非凡采集[采]?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "非凡采集[采]",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+    
+        {
+      "key": "hipy_py_新浪资源",
+      "name": "🏖新浪资源(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新浪资源",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_新韩剧网",
+      "name": "🍋‍🟩新韩剧网(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "新韩剧网",
+      "lang": "hipy",
+      "ext": ""
+    },
+    {
+      "key": "hipy_py_爱瓜APP",
+      "name": "🍈爱瓜APP(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "爱瓜APP",
+      "lang": "hipy",
+      "ext": ""
+    },
+    
+        {
+      "key": "hipy_py_瓜子",
+      "name": "🥥瓜子(hipy)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "title": "瓜子",
+      "lang": "hipy",
+      "ext": ""
+    },
 
                 {
             "name": "☕韩剧|秒播",
@@ -348,12 +508,9 @@
             "jar": "./lib/fcat.jar",                   
             "api": "csp_SP360"
         }
-    
-
+               
 
     ],
-
-
 
 
 
@@ -451,20 +608,12 @@
         }
     ],
     "lives": [
-    
-         {
-            "name": "🛸4gtv",
-            "type": 0,
-            "url": "./lib/testlive.txt",
-            "playerType": 2,
-            "timeout": 10
-        },    
-    
+   
     
          {
             "name": "🎏4gm3u",
             "type": 0,
-            "url": "./lib/testlive2.txt",
+            "url": "./lib/finallive.txt",
             "playerType": 2,
             "timeout": 10
         },
@@ -498,36 +647,27 @@
             "playerType": 2,
             "timeout": 10
         },
-          {
-            "name": "🐙網頁版4GTV(梯子台湾节点)",
-            "type": 0,
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
-            "playerType": 2,
-            "timeout": 10
+        
+       {
+              "name": "㊙️543-18+",
+              "url": "http://tv543.cc/18+.m3u"
         },
+        
+       {
+      "name": "543四季",
+      "url": "https://iptv543.com/bbb.php",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+
           {
             "name": "網頁版4gtv",
             "type": 0,
             "url": "https://codeberg.org/wjjcyp/ppwh/raw/branch/main/Dog4g.txt",
             "playerType": 2,
             "timeout": 10
-        },
-        {
-            "name": "欧歌",
-            "type": 0,
-            "url": "https://xn--dkw0c.v.nxog.top/m/tv/?ou=e3",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "logo": "https://gitee.com/mytv-android/myTVlogo/raw/main/img/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        {
-            "name": "冰茶",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://bc.188766.xyz/?ip=&json=true",
-            "ua": "bingcha/1.1(mianfeifenxiang)"
         }
+
     ],
     "headers": [
         {
