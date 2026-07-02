@@ -1,79 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="新聞財經",TVBS新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=291
-#EXTINF:-1 group-title="新聞財經",TVBS新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=473
-#EXTINF:-1 group-title="新聞財經",東森新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=234
-#EXTINF:-1 group-title="新聞財經",東森新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=292
-#EXTINF:-1 group-title="新聞財經",東森財經新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=293
-#EXTINF:-1 group-title="新聞財經",東森財經新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=211
-#EXTINF:-1 group-title="新聞財經",華視新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=256
-#EXTINF:-1 group-title="新聞財經",華視新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=34
-#EXTINF:-1 group-title="新聞財經",中視新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=33
-#EXTINF:-1 group-title="新聞財經",中視新聞
-https://ha.msbot.dpdns.org/4gtv_api.php?id=258
-#EXTINF:-1 group-title="新聞財經",民視新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=31
-#EXTINF:-1 group-title="新聞財經",民視新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=257
-#EXTINF:-1 group-title="新聞財經",民視新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=467
-#EXTINF:-1 group-title="新聞財經",三立新聞iNEWS
-https://ha.msbot.dpdns.org/4gtv_api.php?id=229
-#EXTINF:-1 group-title="新聞財經",中天新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=260
-#EXTINF:-1 group-title="新聞財經",中天新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=30
-#EXTINF:-1 group-title="新聞財經",寰宇新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=262
-#EXTINF:-1 group-title="新聞財經",寰宇新聞台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=36
-#EXTINF:-1 group-title="新聞財經",寰宇新聞台灣台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=280
-#EXTINF:-1 group-title="新聞財經",非凡新聞(125)
-http://125.227.210.55:1086/VideoInput/play.ts
-#EXTINF:-1 group-title="新聞財經",三立新聞(125)
-http://125.227.210.55:3022/VideoInput/play.ts
-
-#EXTINF:-1 group-title="體育",緯來體育(125)
-http://125.227.210.55:7155/VideoInput/play.ts
-#EXTINF:-1 group-title="體育",愛爾達寵物運動台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=19
-#EXTINF:-1 group-title="體育",博斯高球二台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=494
-#EXTINF:-1 group-title="體育",博斯高球台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=486
-#EXTINF:-1 group-title="體育",博斯高球台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=264
-#EXTINF:-1 group-title="體育",博斯無限二台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=496
-#EXTINF:-1 group-title="體育",博斯無限台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=266
-#EXTINF:-1 group-title="體育",博斯無限台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=489
-#EXTINF:-1 group-title="體育",博斯運動一台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=487
-#EXTINF:-1 group-title="體育",博斯運動一台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=265
-#EXTINF:-1 group-title="體育",博斯運動二台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=495
-#EXTINF:-1 group-title="體育",博斯網球台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=488
-#EXTINF:-1 group-title="體育",博斯網球台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=267
-#EXTINF:-1 group-title="體育",博斯魅力台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=493
-#EXTINF:-1 group-title="體育",智林體育台
-https://ha.msbot.dpdns.org/4gtv_api.php?id=58
-
 #EXTINF:-1 group-title="娛樂綜合",華視
 https://ha.msbot.dpdns.org/4gtv_api.php?id=6
 #EXTINF:-1 group-title="娛樂綜合",華視好劇-FastTV飛速看
@@ -167,6 +93,83 @@ http://125.227.210.55:1085/VideoInput/play.ts
 http://125.227.210.55:1087/VideoInput/play.ts
 #EXTINF:-1 group-title="娛樂綜合",三立台灣(125)
 http://125.227.210.55:3020/VideoInput/play.ts
+
+
+#EXTINF:-1 group-title="新聞財經",TVBS新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=291
+#EXTINF:-1 group-title="新聞財經",TVBS新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=473
+#EXTINF:-1 group-title="新聞財經",東森新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=234
+#EXTINF:-1 group-title="新聞財經",東森新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=292
+#EXTINF:-1 group-title="新聞財經",東森財經新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=293
+#EXTINF:-1 group-title="新聞財經",東森財經新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=211
+#EXTINF:-1 group-title="新聞財經",華視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=256
+#EXTINF:-1 group-title="新聞財經",華視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=34
+#EXTINF:-1 group-title="新聞財經",中視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=33
+#EXTINF:-1 group-title="新聞財經",中視新聞
+https://ha.msbot.dpdns.org/4gtv_api.php?id=258
+#EXTINF:-1 group-title="新聞財經",民視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=31
+#EXTINF:-1 group-title="新聞財經",民視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=257
+#EXTINF:-1 group-title="新聞財經",民視新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=467
+#EXTINF:-1 group-title="新聞財經",三立新聞iNEWS
+https://ha.msbot.dpdns.org/4gtv_api.php?id=229
+#EXTINF:-1 group-title="新聞財經",中天新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=260
+#EXTINF:-1 group-title="新聞財經",中天新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=30
+#EXTINF:-1 group-title="新聞財經",寰宇新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=262
+#EXTINF:-1 group-title="新聞財經",寰宇新聞台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=36
+#EXTINF:-1 group-title="新聞財經",寰宇新聞台灣台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=280
+#EXTINF:-1 group-title="新聞財經",非凡新聞(125)
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 group-title="新聞財經",三立新聞(125)
+http://125.227.210.55:3022/VideoInput/play.ts
+
+#EXTINF:-1 group-title="體育",緯來體育(125)
+http://125.227.210.55:7155/VideoInput/play.ts
+#EXTINF:-1 group-title="體育",愛爾達寵物運動台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=19
+#EXTINF:-1 group-title="體育",博斯高球二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=494
+#EXTINF:-1 group-title="體育",博斯高球台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=486
+#EXTINF:-1 group-title="體育",博斯高球台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=264
+#EXTINF:-1 group-title="體育",博斯無限二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=496
+#EXTINF:-1 group-title="體育",博斯無限台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=266
+#EXTINF:-1 group-title="體育",博斯無限台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=489
+#EXTINF:-1 group-title="體育",博斯運動一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=487
+#EXTINF:-1 group-title="體育",博斯運動一台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=265
+#EXTINF:-1 group-title="體育",博斯運動二台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=495
+#EXTINF:-1 group-title="體育",博斯網球台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=488
+#EXTINF:-1 group-title="體育",博斯網球台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=267
+#EXTINF:-1 group-title="體育",博斯魅力台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=493
+#EXTINF:-1 group-title="體育",智林體育台
+https://ha.msbot.dpdns.org/4gtv_api.php?id=58
+
+
 
 #EXTINF:-1 group-title="戲劇電影",靖天映畫
 https://ha.msbot.dpdns.org/4gtv_api.php?id=42
