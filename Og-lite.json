@@ -614,6 +614,8 @@
             "name": "🎏4gm3u",
             "type": 0,
             "url": "./lib/finallive.txt",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
             "timeout": 10
         },
@@ -622,6 +624,8 @@
             "name": "🎊livem3u",
             "type": 0,
             "url": "./lib/livem3u.txt",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
             "timeout": 10
         },        
