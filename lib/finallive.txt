@@ -138,6 +138,12 @@ http://125.227.210.55:1086/VideoInput/play.ts
 #EXTINF:-1 group-title="新聞財經",三立新聞(125)
 http://125.227.210.55:3022/VideoInput/play.ts
 
+#EXTINF:-1 tvg-id="stream-a3bbc289-039d-45c4-87c4-32eec67f4144" tvg-name="Elta体育1台" group-title="體育",Elta体育1台
+http://192.129.226.68:5678/live/stream-a3bbc289-039d-45c4-87c4-32eec67f4144/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+#EXTINF:-1 tvg-id="stream-0d5534c1-b787-4043-9a8b-b48d8060e51f" tvg-name="Elta體育2台" group-title="體育",Elta體育2台
+http://192.129.226.68:5678/live/stream-0d5534c1-b787-4043-9a8b-b48d8060e51f/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+#EXTINF:-1 tvg-id="stream-116c1dc2-a90b-4b7f-9f40-203419b7b352" tvg-name="Elta體育3台" group-title="體育",Elta體育3台
+http://192.129.226.68:5678/live/stream-116c1dc2-a90b-4b7f-9f40-203419b7b352/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 #EXTINF:-1 group-title="體育",緯來體育(125)
 http://125.227.210.55:7155/VideoInput/play.ts
 #EXTINF:-1 group-title="體育",愛爾達寵物運動台
