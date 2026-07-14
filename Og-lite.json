@@ -608,10 +608,20 @@
         }
     ],
     "lives": [
+    
+        {
+            "name": "🍡final4g2",
+            "type": 0,
+            "url": "./lib/finallive2.txt",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
    
     
          {
-            "name": "🎏4gm3u",
+            "name": "🎏final4g",
             "type": 0,
             "url": "./lib/finallive.txt",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
