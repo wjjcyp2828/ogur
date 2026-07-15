@@ -185,17 +185,6 @@
     },
 
                 {
-            "name": "☕韩剧|秒播",
-            "key": "Hxq",
-            "type": 3,
-             "jar": "./lib/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",
-            "api": "csp_HxqAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-                {
             "name": "🪁杜北|秒播",
             "key": "Dubk",
             "type": 3,
@@ -330,12 +319,6 @@
             "type": 3,
             "api": "./lib/apiv1253爱看机器人.js"
         },
-        {
-            "key": "月光影视",
-            "name": "🥇月光┃影视",
-            "type": 3,
-            "api": "./lib/apiv1267月光影视.js"
-        },
 
         {
             "key": "久久影视",
@@ -345,16 +328,7 @@
             "playerType": 2,
             "ext": "http://99cms.jj99.icu:8199/api.php/app/"
         },
-    {
-      "key": "csp_Qiyou",
-      "name": "🦌奇优",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",      
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "剧圈圈",
       "name": "⭕剧圈圈",
