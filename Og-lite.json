@@ -24,44 +24,6 @@
             "changeable": 1
         },
         
-             {
-      "key": "drpyS_枫林影视",
-      "name": "🎋｜楓林｜高清",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-
-    {
-      "key": "drpyS_55影视",
-      "name": "5️⃣55影视(DS)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
-      "searchable": 2,
-      "filterable": 0,
-      "quickSearch": 1,
-      "title": "55影视",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    },
-
-    {
-      "key": "drpyS_泥视频",
-      "name": "🌮泥视频(DS)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "泥视频",
-      "author": "eylinsir",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    }, 
 
     {
       "key": "hipy_py_一起看[Ayq]",
@@ -158,6 +120,7 @@
       "lang": "hipy",
       "ext": ""
     },
+    
     {
       "key": "hipy_py_爱瓜APP",
       "name": "🍈爱瓜APP(hipy)",
@@ -171,18 +134,45 @@
       "ext": ""
     },
     
-        {
-      "key": "hipy_py_瓜子",
-      "name": "🥥瓜子(hipy)",
+       {
+      "key": "drpyS_枫林影视",
+      "name": "🎋｜楓林｜高清",
       "type": 4,
-      "api": "http://192.129.140.23:5757/api/瓜子?do=py&pwd=dzyyds",
+      "api": "http://192.129.140.23:5757/api/枫林影视?pwd=dzyyds",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
+    {
+      "key": "drpyS_55影视",
+      "name": "5️⃣55影视(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/55影视?pwd=dzyyds",
+      "searchable": 2,
+      "filterable": 0,
+      "quickSearch": 1,
+      "title": "55影视",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
+
+    {
+      "key": "drpyS_泥视频",
+      "name": "🌮泥视频(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/泥视频?pwd=dzyyds",
       "searchable": 1,
       "filterable": 1,
       "quickSearch": 1,
-      "title": "瓜子",
-      "lang": "hipy",
+      "title": "泥视频",
+      "author": "eylinsir",
+      "类型": "影视",
+      "lang": "ds",
       "ext": ""
-    },
+    }, 
+    
 
                 {
             "name": "🪁杜北|秒播",
@@ -584,7 +574,7 @@
     "lives": [
     
         {
-            "name": "🍡final4g2",
+            "name": "🍡finallive",
             "type": 0,
             "url": "./lib/finallive3.txt",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -593,16 +583,6 @@
             "timeout": 10
         },
    
-    
-         {
-            "name": "🎏final4g",
-            "type": 0,
-            "url": "./lib/finallive.txt",
-             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
         
          {
             "name": "🎊livem3u",
@@ -646,15 +626,8 @@
       "url": "https://iptv543.com/bbb.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-
-          {
-            "name": "網頁版4gtv",
-            "type": 0,
-            "url": "https://codeberg.org/wjjcyp/ppwh/raw/branch/main/Dog4g.txt",
-            "playerType": 2,
-            "timeout": 10
         }
+
 
     ],
     "headers": [
