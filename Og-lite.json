@@ -586,7 +586,7 @@
         {
             "name": "🍡final4g2",
             "type": 0,
-            "url": "./lib/finallive2.txt",
+            "url": "./lib/finallive3.txt",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
