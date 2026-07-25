@@ -173,6 +173,19 @@
       "ext": ""
     }, 
     
+        {
+      "key": "drpyS_七猫短剧",
+      "name": "🍭七猫短剧(DS)",
+      "type": 4,
+      "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 0,
+      "title": "七猫短剧",
+      "类型": "影视",
+      "lang": "ds",
+      "ext": ""
+    },
 
                 {
             "name": "🪁杜北|秒播",
@@ -583,7 +596,12 @@
             "timeout": 10
         },
    
-        
+        {
+            "name": "🐬4GTV(梯子任何节点)1080p",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
+        },
          {
             "name": "🎊livem3u",
             "type": 0,
