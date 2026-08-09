@@ -1,5 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="898" tvg-name="HBO_HD" group-title="台湾 (稀有源)",HBO_HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5clZXeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MDE0MTc2NWMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="543" tvg-name="三立台湾 Sanli Taiwan" group-title="台湾 (稀有源)",三立台湾 Sanli Taiwan
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5ueVZSMmc2Q3NnNldzNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MjY0M2Q5YmUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="496" tvg-name="CINEMAX" group-title="台湾 (稀有源)",CINEMAX
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduZ1ZScU1RWnliNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YTY1NWQ3ZjImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="825" tvg-name="年代新闻" group-title="台湾 (稀有源)",年代新闻
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldJZ1FVSTlRVWU0elo2bFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0yMWE5NTUyYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2049" tvg-name="纬来电影台" group-title="台湾 (稀有源)",纬来电影台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ekNhdTZSZWVqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWFlNWMzMDcxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="924" tvg-name="东森电影 ETTV Movie" group-title="台湾 (稀有源)",东森电影 ETTV Movie
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ek1WTnpnejNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MGEzNWM4YTImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="763" tvg-name="东森洋片 ETTV Western" group-title="台湾 (稀有源)",东森洋片 ETTV Western
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ek56Wm5CelpKNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9NTdiOGUyNzMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2046" tvg-name="MTV Live" group-title="台湾 (稀有源)",MTV Live
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldhQjZSeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MjVkYWUxZDUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2024" tvg-name="龙祥时代" group-title="台湾 (稀有源)",龙祥时代
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNmh2VXM0ek5TZ1ZVcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0wOWQwYWE3YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2936" tvg-name="Catchplay电影台" group-title="台湾 (稀有源)",Catchplay电影台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+
+
 
 #EXTINF:-1 group-title="娛樂綜合",民視第一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=1
