@@ -1,43 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title=" TW 三台",中視
-http://74.91.26.218:82/live/ctv.m3u8
-#EXTINF:-1 group-title=" TW 三台",中視新聞
-http://74.91.26.218:82/live/ctvnews.m3u8
-#EXTINF:-1 group-title=" TW 三台",中視經典
-http://74.91.26.218:82/live/ctvjd.m3u8
-#EXTINF:-1 group-title=" TW 三台",中視菁采
-http://74.91.26.218:82/live/ctvjc.m3u8
-#EXTINF:-1 group-title=" TW 三台",台視
-http://74.91.26.218:82/live/ttv.m3u8
-#EXTINF:-1 group-title=" TW 三台",台視新聞
-http://74.91.26.218:82/live/ttvnews.m3u8
-#EXTINF:-1 group-title=" TW 三台",台視綜合
-http://74.91.26.218:82/live/ttvzh.m3u8
-#EXTINF:-1 group-title=" TW 三台",台視財經
-http://74.91.26.218:82/live/ttvcj.m3u8
-#EXTINF:-1 group-title=" TW 三台",華視
-http://74.91.26.218:82/live/cts.m3u8
-#EXTINF:-1 group-title=" TW 三台",華視新聞資訊
-http://74.91.26.218:82/live/ctsnews.m3u8
-#EXTINF:-1 group-title=" TW 三台",華視教育體育文化
-http://74.91.26.218:82/live/ctsjy.m3u8
-#EXTINF:-1 group-title=" TW 三台",民視
-http://74.91.26.218:82/live/ftv.m3u8
-#EXTINF:-1 group-title=" TW 三台",民視新聞台
-http://74.91.26.218:82/live/ftvnews.m3u8
-#EXTINF:-1 group-title=" TW 三台",民視台灣台
-http://74.91.26.218:82/live/ftvtw.m3u8
-#EXTINF:-1 group-title=" TW 三台",民視第一台
-http://74.91.26.218:82/live/ftvdy.m3u8
-#EXTINF:-1 group-title=" TW 三台",公視
-http://74.91.26.218:82/live/pts.m3u8
-#EXTINF:-1 group-title=" TW 三台",公視台語台
-http://74.91.26.218:82/live/ptsty.m3u8
-#EXTINF:-1 group-title=" TW 三台",小公視
-http://74.91.26.218:82/live/ptsse.m3u8
-
 #EXTINF:-1 group-title="娛樂綜合",民視第一台
 https://ha.msbot.dpdns.org/4gtv_api.php?id=1
 #EXTINF:-1 group-title="娛樂綜合",民視第一台
@@ -562,142 +525,469 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=170
 #EXTINF:-1 group-title="(全部)4gtv",國會頻道2
 https://ha.msbot.dpdns.org/4gtv_api.php?id=171
 
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://logo.catvod.com/中视.png" group-title="稀有源",中视
-http://211.72.174.95:8113/0.ts
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://logo.catvod.com/华视.png" group-title="稀有源",华视
-http://211.72.174.95:8114/0.ts
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://logo.catvod.com/公视.png" group-title="稀有源",公视
-http://211.72.174.95:8116/0.ts
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://logo.catvod.com/民视.png" group-title="稀有源",民视
-http://211.72.174.95:8115/0.ts
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://logo.catvod.com/台视.png" group-title="稀有源",台视
-http://211.72.174.95:8112/0.ts
-#EXTINF:-1 tvg-name="CINEMAX(125)" tvg-logo="https://logo.catvod.com/CINEMAX(125).png" group-title="稀有源",CINEMAX(125)
-http://125.227.210.55:1001/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CNBC(125)" tvg-logo="https://logo.catvod.com/CNBC(125).png" group-title="稀有源",CNBC(125)
-http://125.227.210.55:1002/VideoInput/play.ts
-#EXTINF:-1 tvg-name="緯來電影(125)" tvg-logo="https://logo.catvod.com/緯來電影(125).png" group-title="稀有源",緯來電影(125)
-http://125.227.210.55:1082/VideoInput/play.ts
-#EXTINF:-1 tvg-name="緯來日本(125)" tvg-logo="https://logo.catvod.com/緯來日本(125).png" group-title="稀有源",緯來日本(125)
-http://125.227.210.55:1083/VideoInput/play.ts
-#EXTINF:-1 tvg-name="龍祥時代(125)" tvg-logo="https://logo.catvod.com/龍祥時代(125).png" group-title="稀有源",龍祥時代(125)
-http://125.227.210.55:1084/VideoInput/play.ts
-#EXTINF:-1 tvg-name="八大第一(125)" tvg-logo="https://logo.catvod.com/八大第一(125).png" group-title="稀有源",八大第一(125)
-http://125.227.210.55:1085/VideoInput/play.ts
-#EXTINF:-1 tvg-name="非凡新聞(125)" tvg-logo="https://logo.catvod.com/非凡新聞(125).png" group-title="稀有源",非凡新聞(125)
-http://125.227.210.55:1086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森超視(125)" tvg-logo="https://logo.catvod.com/東森超視(125).png" group-title="稀有源",東森超視(125)
-http://125.227.210.55:1087/VideoInput/play.ts
-#EXTINF:-1 tvg-name="HBO(125)" tvg-logo="https://logo.catvod.com/HBO(125).png" group-title="稀有源",HBO(125)
-http://125.227.210.55:3013/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民視新聞(125)" tvg-logo="https://logo.catvod.com/民視新聞(125).png" group-title="稀有源",民視新聞(125)
-http://125.227.210.55:3017/VideoInput/play.ts
-#EXTINF:-1 tvg-name="台視(125)" tvg-logo="https://logo.catvod.com/台視(125).png" group-title="稀有源",台視(125)
-http://125.227.210.55:3018/VideoInput/play.ts
-#EXTINF:-1 tvg-name="三立台灣(125)" tvg-logo="https://logo.catvod.com/三立台灣(125).png" group-title="稀有源",三立台灣(125)
-http://125.227.210.55:3020/VideoInput/play.ts
-#EXTINF:-1 tvg-name="三立新聞(125)" tvg-logo="https://logo.catvod.com/三立新聞(125).png" group-title="稀有源",三立新聞(125)
-http://125.227.210.55:3022/VideoInput/play.ts
-#EXTINF:-1 tvg-name="公視(125)" tvg-logo="https://logo.catvod.com/公視(125).png" group-title="稀有源",公視(125)
-http://125.227.210.55:3024/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CNN(125)" tvg-logo="https://logo.catvod.com/CNN(125).png" group-title="稀有源",CNN(125)
-http://125.227.210.55:3026/VideoInput/play.ts
-#EXTINF:-1 tvg-name="CN卡通頻道(125)" tvg-logo="https://logo.catvod.com/CN卡通頻道(125).png" group-title="稀有源",CN卡通頻道(125)
-http://125.227.210.55:3027/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中天娛樂(125)" tvg-logo="https://logo.catvod.com/中天娛樂(125).png" group-title="稀有源",中天娛樂(125)
-http://125.227.210.55:3044/VideoInput/play.ts
-#EXTINF:-1 tvg-name="TVBS新聞(125)" tvg-logo="https://logo.catvod.com/TVBS新聞(125).png" group-title="稀有源",TVBS新聞(125)
-http://125.227.210.55:3046/VideoInput/play.ts
-#EXTINF:-1 tvg-name="TVBS歡樂(125)" tvg-logo="https://logo.catvod.com/TVBS歡樂(125).png" group-title="稀有源",TVBS歡樂(125)
-http://125.227.210.55:3047/VideoInput/play.ts
-#EXTINF:-1 tvg-name="TVBS(125)" tvg-logo="https://logo.catvod.com/TVBS(125).png" group-title="稀有源",TVBS(125)
-http://125.227.210.55:3048/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中視(125)" tvg-logo="https://logo.catvod.com/中視(125).png" group-title="稀有源",中視(125)
-http://125.227.210.55:3049/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森電影(125)" tvg-logo="https://logo.catvod.com/東森電影(125).png" group-title="稀有源",東森電影(125)
-http://125.227.210.55:3052/VideoInput/play.ts
-#EXTINF:-1 tvg-name="動物星球(125)" tvg-logo="https://logo.catvod.com/動物星球(125).png" group-title="稀有源",動物星球(125)
-http://125.227.210.55:3054/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森洋片(125)" tvg-logo="https://logo.catvod.com/東森洋片(125).png" group-title="稀有源",東森洋片(125)
-http://125.227.210.55:3055/VideoInput/play.ts
-#EXTINF:-1 tvg-name="ANIMAX(125)" tvg-logo="https://logo.catvod.com/ANIMAX(125).png" group-title="稀有源",ANIMAX(125)
-http://125.227.210.55:3056/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯高球I(125)" tvg-logo="https://logo.catvod.com/博斯高球I(125).png" group-title="稀有源",博斯高球I(125)
-http://125.227.210.55:3059/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯網球(125)" tvg-logo="https://logo.catvod.com/博斯網球(125).png" group-title="稀有源",博斯網球(125)
-http://125.227.210.55:3060/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯運動II(125)" tvg-logo="https://logo.catvod.com/博斯運動II(125).png" group-title="稀有源",博斯運動II(125)
-http://125.227.210.55:3061/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森洋片(125)" tvg-logo="https://logo.catvod.com/東森洋片(125).png" group-title="稀有源",東森洋片(125)
-http://125.227.210.55:3078/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中視新聞(125)" tvg-logo="https://logo.catvod.com/中視新聞(125).png" group-title="稀有源",中視新聞(125)
-http://125.227.210.55:3079/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中視經典(125)" tvg-logo="https://logo.catvod.com/中視經典(125).png" group-title="稀有源",中視經典(125)
-http://125.227.210.55:3080/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中視菁采(125)" tvg-logo="https://logo.catvod.com/中視菁采(125).png" group-title="稀有源",中視菁采(125)
-http://125.227.210.55:3081/VideoInput/play.ts
-#EXTINF:-1 tvg-name="公視台語(125)" tvg-logo="https://logo.catvod.com/公視台語(125).png" group-title="稀有源",公視台語(125)
-http://125.227.210.55:3082/VideoInput/play.ts
-#EXTINF:-1 tvg-name="Taiwan Plus(125)" tvg-logo="https://logo.catvod.com/Taiwan Plus(125).png" group-title="稀有源",Taiwan Plus(125)
-http://125.227.210.55:3083/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民視第一台(125)" tvg-logo="https://logo.catvod.com/民視第一台(125).png" group-title="稀有源",民視第一台(125)
-http://125.227.210.55:3084/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民視台灣台(125)" tvg-logo="https://logo.catvod.com/民視台灣台(125).png" group-title="稀有源",民視台灣台(125)
-http://125.227.210.55:3085/VideoInput/play.ts
-#EXTINF:-1 tvg-name="小公視(125)" tvg-logo="https://logo.catvod.com/小公視(125).png" group-title="稀有源",小公視(125)
-http://125.227.210.55:3086/VideoInput/play.ts
-#EXTINF:-1 tvg-name="客家電視(125)" tvg-logo="https://logo.catvod.com/客家電視(125).png" group-title="稀有源",客家電視(125)
-http://125.227.210.55:3087/VideoInput/play.ts
-#EXTINF:-1 tvg-name="原住民電視(125)" tvg-logo="https://logo.catvod.com/原住民電視(125).png" group-title="稀有源",原住民電視(125)
-http://125.227.210.55:3088/VideoInput/play.ts
-#EXTINF:-1 tvg-name="台視新聞(125)" tvg-logo="https://logo.catvod.com/台視新聞(125).png" group-title="稀有源",台視新聞(125)
-http://125.227.210.55:3089/VideoInput/play.ts
-#EXTINF:-1 tvg-name="台視財經(125)" tvg-logo="https://logo.catvod.com/台視財經(125).png" group-title="稀有源",台視財經(125)
-http://125.227.210.55:3090/VideoInput/play.ts
-#EXTINF:-1 tvg-name="台視綜合(125)" tvg-logo="https://logo.catvod.com/台視綜合(125).png" group-title="稀有源",台視綜合(125)
-http://125.227.210.55:3091/VideoInput/play.ts
-#EXTINF:-1 tvg-name="華視教育體育文化(125)" tvg-logo="https://logo.catvod.com/華視教育體育文化(125).png" group-title="稀有源",華視教育體育文化(125)
-http://125.227.210.55:3092/VideoInput/play.ts
-#EXTINF:-1 tvg-name="華視新聞資訊(125)" tvg-logo="https://logo.catvod.com/華視新聞資訊(125).png" group-title="稀有源",華視新聞資訊(125)
-http://125.227.210.55:3093/VideoInput/play.ts
-#EXTINF:-1 tvg-name="國會頻道1(125)" tvg-logo="https://logo.catvod.com/國會頻道1(125).png" group-title="稀有源",國會頻道1(125)
-http://125.227.210.55:3094/VideoInput/play.ts
-#EXTINF:-1 tvg-name="國會頻道2(125)" tvg-logo="https://logo.catvod.com/國會頻道2(125).png" group-title="稀有源",國會頻道2(125)
-http://125.227.210.55:3095/VideoInput/play.ts
-#EXTINF:-1 tvg-name="[V]頻道(125)" tvg-logo="https://logo.catvod.com/[V]頻道(125).png" group-title="稀有源",[V]頻道(125)
-http://125.227.210.55:4043/VideoInput/play.ts
-#EXTINF:-1 tvg-name="cna(125)" tvg-logo="https://logo.catvod.com/cna(125).png" group-title="稀有源",cna(125)
-http://125.227.210.55:4044/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森新聞(125)" tvg-logo="https://logo.catvod.com/東森新聞(125).png" group-title="稀有源",東森新聞(125)
-http://125.227.210.55:4046/VideoInput/play.ts
-#EXTINF:-1 tvg-name="TLC旅遊生活(125)" tvg-logo="https://logo.catvod.com/TLC旅遊生活(125).png" group-title="稀有源",TLC旅遊生活(125)
-http://125.227.210.55:4047/VideoInput/play.ts
-#EXTINF:-1 tvg-name="中天綜合(125)" tvg-logo="https://logo.catvod.com/中天綜合(125).png" group-title="稀有源",中天綜合(125)
-http://125.227.210.55:4048/VideoInput/play.ts
-#EXTINF:-1 tvg-name="好萊塢電影(125)" tvg-logo="https://logo.catvod.com/好萊塢電影(125).png" group-title="稀有源",好萊塢電影(125)
-http://125.227.210.55:4049/VideoInput/play.ts
-#EXTINF:-1 tvg-name="AXN(125)" tvg-logo="https://logo.catvod.com/AXN(125).png" group-title="稀有源",AXN(125)
-http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森財經新聞(125)" tvg-logo="https://logo.catvod.com/東森財經新聞(125).png" group-title="稀有源",東森財經新聞(125)
-http://125.227.210.55:4051/VideoInput/play.ts
-#EXTINF:-1 tvg-name="東森幼幼(125)" tvg-logo="https://logo.catvod.com/東森幼幼(125).png" group-title="稀有源",東森幼幼(125)
-http://125.227.210.55:4052/VideoInput/play.ts
-#EXTINF:-1 tvg-name="緯來體育(125)" tvg-logo="https://logo.catvod.com/緯來體育(125).png" group-title="稀有源",緯來體育(125)
-http://125.227.210.55:7155/VideoInput/play.ts
-#EXTINF:-1 tvg-name="民視(125)" tvg-logo="https://logo.catvod.com/民視(125).png" group-title="稀有源",民視(125)
-http://125.227.210.55:8093/VideoInput/play.ts
-#EXTINF:-1 tvg-name="探索亞洲(125)" tvg-logo="https://logo.catvod.com/探索亞洲(125).png" group-title="稀有源",探索亞洲(125)
-http://125.227.210.55:8154/VideoInput/play.ts
-#EXTINF:-1 tvg-name="Bloomberg(125)" tvg-logo="https://logo.catvod.com/Bloomberg(125).png" group-title="稀有源",Bloomberg(125)
-http://125.227.210.55:8161/VideoInput/play.ts
-#EXTINF:-1 tvg-name="華視(125)" tvg-logo="https://logo.catvod.com/華視(125).png" group-title="稀有源",華視(125)
-http://125.227.210.55:8163/VideoInput/play.ts
-#EXTINF:-1 tvg-name="BBC NEWS(125)" tvg-logo="https://logo.catvod.com/BBC NEWS(125).png" group-title="稀有源",BBC NEWS(125)
-http://125.227.210.55:8165/VideoInput/play.ts
-#EXTINF:-1 tvg-name="博斯運動I(125)" tvg-logo="https://logo.catvod.com/博斯運動I(125).png" group-title="稀有源",博斯運動I(125)
-http://125.227.210.55:8173/VideoInput/play.ts
-#EXTINF:-1 tvg-id="stream-fdc09490-6aa5-4cfd-85c1-b1514ef2d0b5" tvg-name="年代新闻" group-title="稀有源",年代新闻
-http://192.129.226.68:5678/live/stream-fdc09490-6aa5-4cfd-85c1-b1514ef2d0b5/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
+
+#EXTINF:-1 tvg-id="1936" tvg-name="TVBS 歡樂台" group-title="台湾 (Catvod)",TVBS 歡樂台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TV1Fjbkc2VXM0VkNxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWNhY2U3MGZkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="735" tvg-name="TVBS HD" group-title="台湾 (Catvod)",TVBS HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TV1FjZHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YWNmMzc4MDYmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="529" tvg-name="中天娱乐 CTI Entertaiment" group-title="台湾 (Catvod)",中天娱乐 CTI Entertaiment
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQnZVcTQ2aWZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1kOTU5OWVkZSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="741" tvg-name="中天综合 CTI Metro" group-title="台湾 (Catvod)",中天综合 CTI Metro
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQnZaZ0dWV0ljdkMwdXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD05NjRkYWI4NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1967" tvg-name="中天亚洲台" group-title="台湾 (Catvod)",中天亚洲台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQnZVc2x2VXNiNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9NGVhZmYzMDImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="744" tvg-name="台视 TTV HD" group-title="台湾 (Catvod)",台视 TTV HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TQjZlZkJRVWVOUVVodXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0xZjgyMWJkNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="745" tvg-name="台视综合台" group-title="台湾 (Catvod)",台视综合台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TQjZjZ0dWV0ljdkMwdXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD03YmM1MmQ5NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1988" tvg-name="中视 HD" group-title="台湾 (Catvod)",中视 HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5nR1ZXSWNwV3lndkNTYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTdkNWY1NTkxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2479" tvg-name="民视 HD" group-title="台湾 (Catvod)",民视 HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald6QjZSeTlaTlN5dlo2eVZyZk9WQ3NJVkNlbDZpSU1kTjBofGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTRmYjAwYjUwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2033" tvg-name="民视台湾台" group-title="台湾 (Catvod)",民视台湾台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald6QjZjU3l2WjZ5VmVmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZTJjY2I5YTMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2032" tvg-name="华视 CTS HD" group-title="台湾 (Catvod)",华视 CTS HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQnBXeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9M2Q1YmM2OTEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="530" tvg-name="公视 CTV" group-title="台湾 (Catvod)",公视 CTV
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQjZMVGhaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZGIyMTVmMWEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="752" tvg-name="八大第一 GTV First" group-title="台湾 (Catvod)",八大第一 GTV First
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKeXpDc1J2WkpsNmlmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9NDhlY2Q3NTAmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="754" tvg-name="八大综合 GTV Metro" group-title="台湾 (Catvod)",八大综合 GTV Metro
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKeXpDc292Q2Y0eld5ZWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9NjhmNTMxZjEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="753" tvg-name="八大戏剧 GTV Drama" group-title="台湾 (Catvod)",八大戏剧 GTV Drama
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKeXpDczlwUnNNUTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZTc2YTEyN2ImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="110" tvg-name="八大娱乐 GTV Entertainment" group-title="台湾 (Catvod)",八大娱乐 GTV Entertainment
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKeXpDc2VWY1NlcGNTeXZVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ODdkMGMxNGEmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="898" tvg-name="HBO_HD" group-title="台湾 (Catvod)",HBO_HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5clZXeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MDE0MTc2NWMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1207" tvg-name="HBO_HITS" group-title="台湾 (Catvod)",HBO_HITS
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5clZXeWc2NW5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YTY3MzEyYzkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2868" tvg-name="HBO Signature Taiwan" group-title="台湾 (Catvod)",HBO Signature Taiwan
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5clZObmd6V0l5NjVxN3pxZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWVkZjBkZjU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="278" tvg-name="Hollywood Movies" group-title="台湾 (Catvod)",Hollywood Movies
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5dVZDMkk2V2Z1ekNhdTZSZWVwYWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD04MmVkMGI3ZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="543" tvg-name="三立台湾 Sanli Taiwan" group-title="台湾 (Catvod)",三立台湾 Sanli Taiwan
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5ueVZSMmc2Q3NnNldzNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MjY0M2Q5YmUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2236" tvg-name="三立戏剧台" group-title="台湾 (Catvod)",三立戏剧台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5ueVZSMmd4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YTIyZmM3NzUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="756" tvg-name="三立综合 Sanli Metro" group-title="台湾 (Catvod)",三立综合 Sanli Metro
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5ueVZSMmd4Unl1VlI2R3ozZk9WQ3NJVkNlbDZpSU1kTjBofGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWY5M2Y0Y2RhJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2026" tvg-name="三立都会台" group-title="台湾 (Catvod)",三立都会台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5ueVZSMmd6Q2ZhdjVxZ1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD01OGE4NDIwYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="118" tvg-name="东森综合 ETTV Metro" group-title="台湾 (Catvod)",东森综合 ETTV Metro
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1em92Q2Y0eld5ZWpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZmUxZTY0ZTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="546" tvg-name="东森戏剧 ETTV Drama" group-title="台湾 (Catvod)",东森戏剧 ETTV Drama
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ejlwUnNNUTNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9OTY1ZGY1YzkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2830" tvg-name="公视2" group-title="台湾 (Catvod)",公视2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQjZMSmI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1mOGNjMGQwNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="550" tvg-name="大爱1台" group-title="台湾 (Catvod)",大爱1台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTeVFVZWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1hMTY0MTQ1YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="811" tvg-name="龙华戏剧 Lunghua Drama" group-title="台湾 (Catvod)",龙华戏剧 Lunghua Drama
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNkc2VXNodlVnYVpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1jMmJhMjg3NSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2079" tvg-name="龙华经典台" group-title="台湾 (Catvod)",龙华经典台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNkc2VXNLdlVJY3pDZXlWZWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1jODE2YjhjNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="812" tvg-name="龙华偶像" group-title="台湾 (Catvod)",龙华偶像
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNkc2VXNnekNmOFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1mZjM3M2I4NCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="906" tvg-name="AXN Taiwan" group-title="台湾 (Catvod)",AXN Taiwan
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldzaFZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTg0YWFlYzEwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2018" tvg-name="靖天国际台" group-title="台湾 (Catvod)",靖天国际台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldnZ1ZSNkJ2VXM0dlVJQlZzZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWI5MTFmOGVlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="496" tvg-name="CINEMAX" group-title="台湾 (Catvod)",CINEMAX
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduZ1ZScU1RWnliNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YTY1NWQ3ZjImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="825" tvg-name="年代新闻" group-title="台湾 (Catvod)",年代新闻
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldJZ1FVSTlRVWU0elo2bFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0yMWE5NTUyYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2048" tvg-name="纬来日本台" group-title="台湾 (Catvod)",纬来日本台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ekNneXBDczRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTAxOWJjNzUzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2049" tvg-name="纬来电影台" group-title="台湾 (Catvod)",纬来电影台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ekNhdTZSZWVqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWFlNWMzMDcxJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2051" tvg-name="纬来体育台" group-title="台湾 (Catvod)",纬来体育台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ejVuT1ZOSkJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTkwODRmMjQ4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2053" tvg-name="纬来综合台" group-title="台湾 (Catvod)",纬来综合台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ejVndVZSNkd6M2ZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1jM2JjN2M1ZiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2470" tvg-name="纬来育乐" group-title="台湾 (Catvod)",纬来育乐
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ekNheXhpZk9WQ3NJVkNlbDZpSU1kTjBofGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWRkNmM4Y2U1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2472" tvg-name="纬来精彩" group-title="台湾 (Catvod)",纬来精彩
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak56Z3pDcXVWQ3M0ejVTV2pOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9OTgxNGE4M2YmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="440" tvg-name="DW (Deutsch)" group-title="台湾 (Catvod)",DW (Deutsch)
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTTlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1hZjcwMTU3OSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2023" tvg-name="好消息 2" group-title="台湾 (Catvod)",好消息 2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jalc2dVZXXzdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MjIwMDdjNGUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="508" tvg-name="大爱2台" group-title="台湾 (Catvod)",大爱2台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTeVFVOTdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YjUwODgwODQmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2035" tvg-name="亚洲美食" group-title="台湾 (Catvod)",亚洲美食
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldzUlFhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTA3MjJjNDc5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2055" tvg-name="亚洲旅游 TLC Asia" group-title="台湾 (Catvod)",亚洲旅游 TLC Asia
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TOFFhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWRlZWUzNDU0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="924" tvg-name="东森电影 ETTV Movie" group-title="台湾 (Catvod)",东森电影 ETTV Movie
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ek1WTnpnejNmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MGEzNWM4YTImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2080" tvg-name="阿里郎 Arirang" group-title="台湾 (Catvod)",阿里郎 Arirang
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldzN3ZaSnlWUjZiNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9NjZhMDg2YmImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2083" tvg-name="博斯运动 1" group-title="台湾 (Catvod)",博斯运动 1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKdXBXZWxwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWJhZWZjZTM2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2084" tvg-name="博斯运动 2" group-title="台湾 (Catvod)",博斯运动 2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKdXBXZWxwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTYxZmEyOGIyJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="763" tvg-name="东森洋片 ETTV Western" group-title="台湾 (Catvod)",东森洋片 ETTV Western
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ek56Wm5CelpKNGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9NTdiOGUyNzMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="810" tvg-name="龙华洋片 Lunghua Western" group-title="台湾 (Catvod)",龙华洋片 Lunghua Western
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNkc2VXNOelpuQnpaSjRaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9YzQ4ZGFmNTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2087" tvg-name="博斯无限" group-title="台湾 (Catvod)",博斯无限
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKdXBXZWFWUjJnVlVlQnpVU2I2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0zZjUyNzYwYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2046" tvg-name="MTV Live" group-title="台湾 (Catvod)",MTV Live
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldhQjZSeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MjVkYWUxZDUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2024" tvg-name="龙祥时代" group-title="台湾 (Catvod)",龙祥时代
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNmh2VXM0ek5TZ1ZVcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0wOWQwYWE3YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2100" tvg-name="EYETV 旅游" group-title="台湾 (Catvod)",EYETV 旅游
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxSXpaU1c2NUp5NlJxOFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1kN2Q0ZDRiOSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1585" tvg-name="靖天卡通台" group-title="台湾 (Catvod)",靖天卡通台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldnZ1ZSNkJ2VXM0UVdzNzZDZnVWZWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1iNmY2M2RjYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2101" tvg-name="EYETV 戏剧" group-title="台湾 (Catvod)",EYETV 戏剧
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxSXpaU1d4Q2VLNnFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZjA2ZWIzYzcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2078" tvg-name="华艺中文台" group-title="台湾 (Catvod)",华艺中文台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak42ZXZabkd2VW5HdlVJZXBXcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1iMTYyNmExYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="969" tvg-name="东森幼幼 Yoyo TV" group-title="台湾 (Catvod)",东森幼幼 Yoyo TV
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5ldXhVZmI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1kOGM1MTAyOCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2099" tvg-name="美亚电影" group-title="台湾 (Catvod)",美亚电影
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldhZXZaZXlWVWZXdlVxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWMwMDVmYmI3JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2043" tvg-name="爱尔达戏剧台" group-title="台湾 (Catvod)",爱尔达戏剧台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxODZDczlwUnNNUXFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MTg4MTMxMDImY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="738" tvg-name="TVBS News 新聞台" group-title="台湾 (Catvod)",TVBS News 新聞台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1lODA2ZWJkMyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1042" tvg-name="Asia Food Network" group-title="台湾 (Catvod)",Asia Food Network
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JakJzUlE3Zk9WQ3NJVkNlbDZpSU1kTjBofGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTUyZmZmZTU4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2871" tvg-name="Elta体育1台" group-title="台湾 (Catvod)",Elta体育1台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxODZDc2xwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTRmYTZkMWRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="544" tvg-name="東森新聞 ETTV News" group-title="台湾 (Catvod)",東森新聞 ETTV News
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ejR6WjZsak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD05ZGE5MTI4MSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="761" tvg-name="東森財經新聞 ETTV Business" group-title="台湾 (Catvod)",東森財經新聞 ETTV Business
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxQjY1ekxRVWVLdlVJY1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0wMTY1MmEzNyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1923" tvg-name="中天新聞 CTI News" group-title="台湾 (Catvod)",中天新聞 CTI News
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalduQnZVSWU2TmR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTdjOTIzMmQ0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="575" tvg-name="非凡新聞台" group-title="台湾 (Catvod)",非凡新聞台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald6ZXZVenlWUkllNk5uYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTJmYWY0MDk5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1541" tvg-name="Elta體育2台" group-title="台湾 (Catvod)",Elta體育2台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxODZDc2xwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTJjMWJhNDNmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2502" tvg-name="台視新聞台 TTV News" group-title="台湾 (Catvod)",台視新聞台 TTV News
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5TQjZSSWU2Tm5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZmVmM2ViOTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2578" tvg-name="Elta體育3台" group-title="台湾 (Catvod)",Elta體育3台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxODZDc2xwQ2Y3NkVuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWM4NWU4Zjg1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2922" tvg-name="Elta体育4台" group-title="台湾 (Catvod)",Elta体育4台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldxODZDc2xwQ2Y3NjVkQlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD00MjI0YzEzNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="746" tvg-name="民視新聞台 FTV News" group-title="台湾 (Catvod)",民視新聞台 FTV News
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald6QjZSSWU2YWZCUVVlTlFVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MGUwNzI5OWMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2085" tvg-name="博斯高球2 HD" group-title="台湾 (Catvod)",博斯高球2 HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKdXBXZWNWVzJSZGVmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9OGQ0MTZjYjkmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2086" tvg-name="博斯网球 HD" group-title="台湾 (Catvod)",博斯网球 HD
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldKdXBXZUJ6VUk0dlpuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTI3ZTZhN2MzJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2501" tvg-name="寰宇新聞台" group-title="台湾 (Catvod)",寰宇新聞台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5YVFVSUk2WnlnVmM2ZVZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTRiNzYyNTU5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="1989" tvg-name="中視新聞台" group-title="台湾 (Catvod)",中視新聞台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jak5nR1ZXSWNwV3lnVlJxTnBhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWRhYzM5ZDViJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2878" tvg-name="探索频道" group-title="台湾 (Catvod)",探索频道
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTZ3BXbnU2UnE3eFVuR1pOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD1mZjU0ZTNlZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2869" tvg-name="DAZN 1" group-title="台湾 (Catvod)",DAZN 1
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTeXhSaDJaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9MmIyMzk2NTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2870" tvg-name="DAZN 2" group-title="台湾 (Catvod)",DAZN 2
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTeXhSaDdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9ZGM4YzFlZTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2936" tvg-name="Catchplay电影台" group-title="台湾 (Catvod)",Catchplay电影台
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="2937" tvg-name="动物星球" group-title="台湾 (Catvod)",动物星球
+
+
+#EXTINF:-1 group-title="经典🦔轮播",古惑仔
+https://live.ottiptv.cc/yy/1458015189
+#EXTINF:-1 group-title="经典🦔轮播",港片搞笑
+https://live.ottiptv.cc/yy/1355480591
+#EXTINF:-1 group-title="经典🦔轮播",周星驰
+https://live.ottiptv.cc/yy/38670875
+#EXTINF:-1 group-title="经典🦔轮播",恐怖电影
+https://live.ottiptv.cc/yy/24066336
+#EXTINF:-1 group-title="经典🦔轮播",林正英经典
+https://live.ottiptv.cc/yy/1351505899
+#EXTINF:-1 group-title="经典🦔轮播",鬼片喜剧动作港剧
+https://live.ottiptv.cc/yy/1355269576
+#EXTINF:-1 group-title="经典🦔轮播",精彩短剧
+https://live.iill.top/douyu/11824307
+#EXTINF:-1 group-title="经典🦔轮播",经典鬼片3000部
+https://live.ottiptv.cc/yy/29460894
+#EXTINF:-1 group-title="经典🦔轮播",伪装者
+https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 group-title="经典🦔轮播",西游记后传
+https://live.ottiptv.cc/yy/1353392400
+#EXTINF:-1 group-title="经典🦔轮播",隋唐英雄传
+https://live.ottiptv.cc/yy/1352475619
+#EXTINF:-1 group-title="经典🦔轮播",仙剑奇侠传
+https://live.ottiptv.cc/yy/1382749903
+#EXTINF:-1 group-title="经典🦔轮播",周润发电影
+http://38.75.136.137:98/gslb/dsdqpub/lbzrf.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",周星驰电影
+http://38.75.136.137:98/gslb/dsdqpub/lbzxc.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",邵氏武侠
+http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",邵氏电影
+http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",邵氏喜剧
+http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",重温经典
+http://38.75.136.137:98/gsl/dsdqbv/cwjdhd.m3u8?auth=test20251009
+#EXTINF:-1 group-title="经典🦔轮播",成龙电影
+http://38.75.136.137:98/gslb/dsdqpub/lbcl.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",林正英影院
+http://38.75.136.137:98/gslb/dsdqpub/lblzy.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",哈尔滨影视
+https://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",哈尔滨影视
+http://stream.hrbtv.net/yspd/sd/live.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",科幻电影
+https://live.ottiptv.cc/yy/1354930209
+#EXTINF:-1 group-title="经典🦔轮播",1930年代经典电影
+https://live.ottiptv.cc/yy/1356363815
+#EXTINF:-1 group-title="经典🦔轮播",8090电影一哥
+https://live.ottiptv.cc/yy/29197808
+#EXTINF:-1 group-title="经典🦔轮播",YY果国际电影频道
+https://live.ottiptv.cc/yy/1382627144
+#EXTINF:-1 group-title="经典🦔轮播",光光电影
+https://live.ottiptv.cc/huya/29399457
+#EXTINF:-1 group-title="经典🦔轮播",力哥影视
+https://live.ottiptv.cc/huya/23419131
+#EXTINF:-1 group-title="经典🦔轮播",史诗级科幻电影阿凡达
+https://live.ottiptv.cc/yy/1382735577
+#EXTINF:-1 group-title="经典🦔轮播",周星驰搞笑电影
+https://live.ottiptv.cc/yy/38670875
+#EXTINF:-1 group-title="经典🦔轮播",喜剧电影放映厅
+https://live.ottiptv.cc/huya/11602031
+#EXTINF:-1 group-title="经典🦔轮播",国产动作电影
+https://live.ottiptv.cc/yy/1382736858
+#EXTINF:-1 group-title="经典🦔轮播",国产大片电影
+https://live.ottiptv.cc/yy/1354926655
+#EXTINF:-1 group-title="经典🦔轮播",国产电影就是闹着玩的
+https://live.ottiptv.cc/yy/1354931503
+#EXTINF:-1 group-title="经典🦔轮播",国内玄幻电影林正英
+https://live.ottiptv.cc/yy/1354932444
+#EXTINF:-1 group-title="经典🦔轮播",国内经典动作电影
+https://live.ottiptv.cc/yy/1382851522
+#EXTINF:-1 group-title="经典🦔轮播",夏洛特烦恼国内电影喜剧
+https://live.ottiptv.cc/yy/1354936201
+#EXTINF:-1 group-title="经典🦔轮播",大墨电影
+https://live.ottiptv.cc/huya/29458834
+#EXTINF:-1 group-title="经典🦔轮播",大江大河2高分影视推荐
+https://live.ottiptv.cc/yy/1382736797
+#EXTINF:-1 group-title="经典🦔轮播",大江大河高分影视推荐
+https://live.ottiptv.cc/yy/1382736806
+#EXTINF:-1 group-title="经典🦔轮播",大神影视
+https://live.ottiptv.cc/huya/30297011
+#EXTINF:-1 group-title="经典🦔轮播",大进军全集红色系列电影
+https://live.ottiptv.cc/yy/1382745083
+#EXTINF:-1 group-title="经典🦔轮播",天龙八部
+https://live.ottiptv.cc/yy/1351814644
+#EXTINF:-1 group-title="经典🦔轮播",奇幻电影放映厅
+https://live.ottiptv.cc/huya/26355847
+#EXTINF:-1 group-title="经典🦔轮播",娇娇影视
+https://live.ottiptv.cc/huya/31027196
+#EXTINF:-1 group-title="经典🦔轮播",小丑电影
+https://live.ottiptv.cc/huya/29869799
+#EXTINF:-1 group-title="经典🦔轮播",岳云鹏宋小宝也来演电影了
+https://live.ottiptv.cc/yy/1354926612
+#EXTINF:-1 group-title="经典🦔轮播",影视小艺
+https://live.ottiptv.cc/yy/1382737886
+#EXTINF:-1 group-title="经典🦔轮播",影视铺FILMSHOP
+https://live.ottiptv.cc/huya/30297166
+#EXTINF:-1 group-title="经典🦔轮播",悬疑武侠电影九门
+https://live.ottiptv.cc/yy/1382828768
+#EXTINF:-1 group-title="经典🦔轮播",悬疑电影放映厅
+https://live.ottiptv.cc/huya/29982641
+#EXTINF:-1 group-title="经典🦔轮播",救赎电影
+https://live.ottiptv.cc/huya/29833341
+#EXTINF:-1 group-title="经典🦔轮播",新海电影
+https://live.ottiptv.cc/huya/29396806
+#EXTINF:-1 group-title="经典🦔轮播",木子电影V
+https://live.ottiptv.cc/huya/27314057
+#EXTINF:-1 group-title="经典🦔轮播",末日电影合集
+https://live.ottiptv.cc/yy/1354889019
+#EXTINF:-1 group-title="经典🦔轮播",林正英经典电影
+https://live.ottiptv.cc/yy/34229877
+#EXTINF:-1 group-title="经典🦔轮播",止戈电影
+https://live.ottiptv.cc/huya/19863777
+#EXTINF:-1 group-title="经典🦔轮播",武侠电影放映厅
+https://live.ottiptv.cc/huya/29982611
+#EXTINF:-1 group-title="经典🦔轮播",热血抗日电影
+https://live.ottiptv.cc/yy/1382749907
+#EXTINF:-1 group-title="经典🦔轮播",爆笑电影王牌大贱谍23
+https://live.ottiptv.cc/yy/1382735556
+#EXTINF:-1 group-title="经典🦔轮播",爆裂电影2
+https://live.ottiptv.cc/huya/29982678
+#EXTINF:-1 group-title="经典🦔轮播",猫丸酱影视
+https://live.ottiptv.cc/huya/26999674
+#EXTINF:-1 group-title="经典🦔轮播",珍珠港电影
+https://live.ottiptv.cc/yy/1354936234
+#EXTINF:-1 group-title="经典🦔轮播",电影
+https://live.ottiptv.cc/yy/37454459
+#EXTINF:-1 group-title="经典🦔轮播",电影最TOP
+https://live.ottiptv.cc/huya/11774959
+#EXTINF:-1 group-title="经典🦔轮播",电影最TOP2
+https://live.ottiptv.cc/huya/29982676
+#EXTINF:-1 group-title="经典🦔轮播",电影狂人A
+https://live.ottiptv.cc/huya/18715610
+#EXTINF:-1 group-title="经典🦔轮播",电影百团大战
+https://live.ottiptv.cc/yy/1382736871
+#EXTINF:-1 group-title="经典🦔轮播",电影黑豹
+https://live.ottiptv.cc/yy/1382736816
+#EXTINF:-1 group-title="经典🦔轮播",短剧电影院
+https://live.ottiptv.cc/huya/31002899
+#EXTINF:-1 group-title="经典🦔轮播",碟中谍系列电影
+https://live.ottiptv.cc/yy/1382736836
+#EXTINF:-1 group-title="经典🦔轮播",粟裕大将影视
+https://live.ottiptv.cc/yy/1354926542
+#EXTINF:-1 group-title="经典🦔轮播",粤语电影放映厅
+https://live.ottiptv.cc/huya/21059572
+#EXTINF:-1 group-title="经典🦔轮播",精彩动作电影
+https://live.ottiptv.cc/yy/1382736823
+#EXTINF:-1 group-title="经典🦔轮播",精彩动作电影享不停
+https://live.ottiptv.cc/yy/1382736809
+#EXTINF:-1 group-title="经典🦔轮播",经典港片电影
+https://live.ottiptv.cc/yy/1459801818
+#EXTINF:-1 group-title="经典🦔轮播",经典港片电影
+https://live.ottiptv.cc/yy/1461889059
+#EXTINF:-1 group-title="经典🦔轮播",经典电影港片枪战
+https://live.ottiptv.cc/yy/1355076627
+#EXTINF:-1 group-title="经典🦔轮播",超精彩系列动作电影
+https://live.ottiptv.cc/yy/1382745096
+#EXTINF:-1 group-title="经典🦔轮播",辟哥影视
+https://live.ottiptv.cc/huya/27653235
+#EXTINF:-1 group-title="经典🦔轮播",远去的飞鹰影视剧
+https://live.ottiptv.cc/yy/1354930912
+#EXTINF:-1 group-title="经典🦔轮播",酱婶儿电影
+https://live.ottiptv.cc/huya/24396474
+#EXTINF:-1 group-title="经典🦔轮播",野山鹰影视剧
+https://live.ottiptv.cc/yy/1354932395
+#EXTINF:-1 group-title="经典🦔轮播",鑫鑫影视
+https://live.ottiptv.cc/huya/30439676
+#EXTINF:-1 group-title="经典🦔轮播",阿涛影视
+https://live.ottiptv.cc/huya/30292047
+#EXTINF:-1 group-title="经典🦔轮播",雨哥影视
+https://live.ottiptv.cc/huya/29517294
+#EXTINF:-1 group-title="经典🦔轮播",青年电影馆
+https://live.ottiptv.cc/huya/21388479
+#EXTINF:-1 group-title="经典🦔轮播",鹿儿影视
+https://live.ottiptv.cc/huya/30986994
+#EXTINF:-1 group-title="经典🦔轮播",鹿鼎记
+https://live.ottiptv.cc/yy/28265277
+#EXTINF:-1 group-title="经典🦔轮播",齐鲁影视
+https://live.ottiptv.cc/huya/29807061
+#EXTINF:-1 group-title="经典🦔轮播",支持作者
+https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
+#EXTINF:-1 group-title="经典🦔轮播",CHC动作电影
+http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",CHC家庭影院
+http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",CHC家庭影院
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+#EXTINF:-1 group-title="经典🦔轮播",无线星河
+https://cdn6.101.qzz.io/163189/tvbxh
+#EXTINF:-1 group-title="经典🦔轮播",靖天戏剧
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+#EXTINF:-1 group-title="经典🦔轮播",靖天戏剧
+https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 group-title="经典🦔轮播",靖天映画
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+#EXTINF:-1 group-title="经典🦔轮播",靖天映画
+https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
+#EXTINF:-1 group-title="经典🦔轮播",龙华电影
+https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",28岁电影
+https://goodiptv.club/douyu/8884164
+#EXTINF:-1 group-title="经典🦔轮播",CHC电影
+http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="经典🦔轮播",万合出品
+https://goodiptv.club/douyu/9220456
+#EXTINF:-1 group-title="经典🦔轮播",三七电影V
+https://goodiptv.club/douyu/9457792
+#EXTINF:-1 group-title="经典🦔轮播",二胖影视
+https://goodiptv.club/douyu/10064260
+#EXTINF:-1 group-title="经典🦔轮播",五分钟电影汇
+https://goodiptv.club/douyu/8443438
+#EXTINF:-1 group-title="经典🦔轮播",人在囧途
+https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",人在囧途之泰囧
+https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",人在囧途之港囧
+https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",佛曰影视
+https://goodiptv.club/douyu/9671758
+#EXTINF:-1 group-title="经典🦔轮播",倩女幽魂人间道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",倩女幽魂妖魔道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",倩女幽魂道道道
+http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",冰冰影剧
+http://www.goodiptv.club/douyu/74374
+#EXTINF:-1 group-title="经典🦔轮播",刀刀影院
+http://www.goodiptv.club/douyu/747764
+#EXTINF:-1 group-title="经典🦔轮播",刘哔电影
+https://goodiptv.club/douyu/2632223
+#EXTINF:-1 group-title="经典🦔轮播",前任电影
+https://goodiptv.club/douyu/9329242
+#EXTINF:-1 group-title="经典🦔轮播",华语影视
+http://www.goodiptv.club/douyu/3928
+#EXTINF:-1 group-title="经典🦔轮播",发条张的电影最TOP
+https://goodiptv.club/douyu/2164691
+#EXTINF:-1 group-title="经典🦔轮播",古装武侠
+http://www.goodiptv.club/douyu/2793084
+#EXTINF:-1 group-title="经典🦔轮播",哈利影视
+https://goodiptv.club/douyu/8475821
+#EXTINF:-1 group-title="经典🦔轮播",喜人电影
+https://goodiptv.club/douyu/10348735
+#EXTINF:-1 group-title="经典🦔轮播",喜剧电影笑不停
+https://goodiptv.club/douyu/10298856
+#EXTINF:-1 group-title="经典🦔轮播",噬元兽影视
+https://goodiptv.club/douyu/8896723
+#EXTINF:-1 group-title="经典🦔轮播",四叶草影视
+https://goodiptv.club/douyu/9446117
+#EXTINF:-1 group-title="经典🦔轮播",墨逗电影
+https://goodiptv.club/douyu/9614847
+#EXTINF:-1 group-title="经典🦔轮播",大米饭影视
+https://goodiptv.club/douyu/9824094
+#EXTINF:-1 group-title="经典🦔轮播",大荒电影
+https://goodiptv.club/douyu/3508538
+#EXTINF:-1 group-title="经典🦔轮播",天堂电影1895
+https://goodiptv.club/douyu/9573592
+#EXTINF:-1 group-title="经典🦔轮播",天映经典
+http://pull-vivek.speedws.com/live/aaatyjd.flv
+#EXTINF:-1 group-title="经典🦔轮播",奇怪电影
+https://goodiptv.club/douyu/9440966
+#EXTINF:-1 group-title="经典🦔轮播",安徽影视
+https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+#EXTINF:-1 group-title="经典🦔轮播",寒战
+https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",小儛电影嘚啵嘚
+https://goodiptv.club/douyu/8362978
+#EXTINF:-1 group-title="经典🦔轮播",影视梗大叔
+https://goodiptv.club/douyu/9480648
+#EXTINF:-1 group-title="经典🦔轮播",影视笑工场
+https://goodiptv.club/douyu/10298846
+#EXTINF:-1 group-title="经典🦔轮播",影视英雄汇
+https://goodiptv.club/douyu/10240495
+#EXTINF:-1 group-title="经典🦔轮播",影视集装箱
+https://goodiptv.club/douyu/8651489
+#EXTINF:-1 group-title="经典🦔轮播",怪兽马提尼电影
+https://goodiptv.club/douyu/9075333
+#EXTINF:-1 group-title="经典🦔轮播",怪味爆米花电影
+https://goodiptv.club/douyu/9422144
+#EXTINF:-1 group-title="经典🦔轮播",我不是药神
+https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",拆弹专家1
+https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",拆弹专家2
+https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
+#EXTINF:-1 group-title="经典🦔轮播",斗鱼港剧
+http://www.goodiptv.club/douyu/5061550
+#EXTINF:-1 group-title="经典🦔轮播",无际电影
+https://goodiptv.club/douyu/9720498
+#EXTINF:-1 group-title="经典🦔轮播",有部电影儿
+https://goodiptv.club/douyu/9736479
+
 
 #EXTINF:-1 tvg-id="TVBS 歡樂台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" tvg-name="TVBS 歡樂台" group-title="(別線路)台湾trams",TVBS 歡樂台
 http://192.129.226.68:19890/trams/1936/playlist.m3u8?token=885252
@@ -1489,4 +1779,140 @@ http://149.100.11.235:8080/ATV/index.m3u8
 #EXTINF:-1 group-title="(別線路)台灣",灌篮高手
 https://live.ottiptv.cc/yy/1382735626
 
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://logo.catvod.com/中视.png" group-title="備用01",中视
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://logo.catvod.com/华视.png" group-title="備用01",华视
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://logo.catvod.com/公视.png" group-title="備用01",公视
+http://211.72.174.95:8116/0.ts
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://logo.catvod.com/民视.png" group-title="備用01",民视
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://logo.catvod.com/台视.png" group-title="備用01",台视
+http://211.72.174.95:8112/0.ts
+#EXTINF:-1 tvg-name="CINEMAX(125)" tvg-logo="https://logo.catvod.com/CINEMAX(125).png" group-title="備用01",CINEMAX(125)
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-name="CNBC(125)" tvg-logo="https://logo.catvod.com/CNBC(125).png" group-title="備用01",CNBC(125)
+http://125.227.210.55:1002/VideoInput/play.ts
+#EXTINF:-1 tvg-name="緯來電影(125)" tvg-logo="https://logo.catvod.com/緯來電影(125).png" group-title="備用01",緯來電影(125)
+http://125.227.210.55:1082/VideoInput/play.ts
+#EXTINF:-1 tvg-name="緯來日本(125)" tvg-logo="https://logo.catvod.com/緯來日本(125).png" group-title="備用01",緯來日本(125)
+http://125.227.210.55:1083/VideoInput/play.ts
+#EXTINF:-1 tvg-name="龍祥時代(125)" tvg-logo="https://logo.catvod.com/龍祥時代(125).png" group-title="備用01",龍祥時代(125)
+http://125.227.210.55:1084/VideoInput/play.ts
+#EXTINF:-1 tvg-name="八大第一(125)" tvg-logo="https://logo.catvod.com/八大第一(125).png" group-title="備用01",八大第一(125)
+http://125.227.210.55:1085/VideoInput/play.ts
+#EXTINF:-1 tvg-name="非凡新聞(125)" tvg-logo="https://logo.catvod.com/非凡新聞(125).png" group-title="備用01",非凡新聞(125)
+http://125.227.210.55:1086/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森超視(125)" tvg-logo="https://logo.catvod.com/東森超視(125).png" group-title="備用01",東森超視(125)
+http://125.227.210.55:1087/VideoInput/play.ts
+#EXTINF:-1 tvg-name="HBO(125)" tvg-logo="https://logo.catvod.com/HBO(125).png" group-title="備用01",HBO(125)
+http://125.227.210.55:3013/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民視新聞(125)" tvg-logo="https://logo.catvod.com/民視新聞(125).png" group-title="備用01",民視新聞(125)
+http://125.227.210.55:3017/VideoInput/play.ts
+#EXTINF:-1 tvg-name="台視(125)" tvg-logo="https://logo.catvod.com/台視(125).png" group-title="備用01",台視(125)
+http://125.227.210.55:3018/VideoInput/play.ts
+#EXTINF:-1 tvg-name="三立台灣(125)" tvg-logo="https://logo.catvod.com/三立台灣(125).png" group-title="備用01",三立台灣(125)
+http://125.227.210.55:3020/VideoInput/play.ts
+#EXTINF:-1 tvg-name="三立新聞(125)" tvg-logo="https://logo.catvod.com/三立新聞(125).png" group-title="備用01",三立新聞(125)
+http://125.227.210.55:3022/VideoInput/play.ts
+#EXTINF:-1 tvg-name="公視(125)" tvg-logo="https://logo.catvod.com/公視(125).png" group-title="備用01",公視(125)
+http://125.227.210.55:3024/VideoInput/play.ts
+#EXTINF:-1 tvg-name="CNN(125)" tvg-logo="https://logo.catvod.com/CNN(125).png" group-title="備用01",CNN(125)
+http://125.227.210.55:3026/VideoInput/play.ts
+#EXTINF:-1 tvg-name="CN卡通頻道(125)" tvg-logo="https://logo.catvod.com/CN卡通頻道(125).png" group-title="備用01",CN卡通頻道(125)
+http://125.227.210.55:3027/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中天娛樂(125)" tvg-logo="https://logo.catvod.com/中天娛樂(125).png" group-title="備用01",中天娛樂(125)
+http://125.227.210.55:3044/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TVBS新聞(125)" tvg-logo="https://logo.catvod.com/TVBS新聞(125).png" group-title="備用01",TVBS新聞(125)
+http://125.227.210.55:3046/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TVBS歡樂(125)" tvg-logo="https://logo.catvod.com/TVBS歡樂(125).png" group-title="備用01",TVBS歡樂(125)
+http://125.227.210.55:3047/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TVBS(125)" tvg-logo="https://logo.catvod.com/TVBS(125).png" group-title="備用01",TVBS(125)
+http://125.227.210.55:3048/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中視(125)" tvg-logo="https://logo.catvod.com/中視(125).png" group-title="備用01",中視(125)
+http://125.227.210.55:3049/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森電影(125)" tvg-logo="https://logo.catvod.com/東森電影(125).png" group-title="備用01",東森電影(125)
+http://125.227.210.55:3052/VideoInput/play.ts
+#EXTINF:-1 tvg-name="動物星球(125)" tvg-logo="https://logo.catvod.com/動物星球(125).png" group-title="備用01",動物星球(125)
+http://125.227.210.55:3054/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森洋片(125)" tvg-logo="https://logo.catvod.com/東森洋片(125).png" group-title="備用01",東森洋片(125)
+http://125.227.210.55:3055/VideoInput/play.ts
+#EXTINF:-1 tvg-name="ANIMAX(125)" tvg-logo="https://logo.catvod.com/ANIMAX(125).png" group-title="備用01",ANIMAX(125)
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-name="博斯高球I(125)" tvg-logo="https://logo.catvod.com/博斯高球I(125).png" group-title="備用01",博斯高球I(125)
+http://125.227.210.55:3059/VideoInput/play.ts
+#EXTINF:-1 tvg-name="博斯網球(125)" tvg-logo="https://logo.catvod.com/博斯網球(125).png" group-title="備用01",博斯網球(125)
+http://125.227.210.55:3060/VideoInput/play.ts
+#EXTINF:-1 tvg-name="博斯運動II(125)" tvg-logo="https://logo.catvod.com/博斯運動II(125).png" group-title="備用01",博斯運動II(125)
+http://125.227.210.55:3061/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森洋片(125)" tvg-logo="https://logo.catvod.com/東森洋片(125).png" group-title="備用01",東森洋片(125)
+http://125.227.210.55:3078/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中視新聞(125)" tvg-logo="https://logo.catvod.com/中視新聞(125).png" group-title="備用01",中視新聞(125)
+http://125.227.210.55:3079/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中視經典(125)" tvg-logo="https://logo.catvod.com/中視經典(125).png" group-title="備用01",中視經典(125)
+http://125.227.210.55:3080/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中視菁采(125)" tvg-logo="https://logo.catvod.com/中視菁采(125).png" group-title="備用01",中視菁采(125)
+http://125.227.210.55:3081/VideoInput/play.ts
+#EXTINF:-1 tvg-name="公視台語(125)" tvg-logo="https://logo.catvod.com/公視台語(125).png" group-title="備用01",公視台語(125)
+http://125.227.210.55:3082/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Taiwan Plus(125)" tvg-logo="https://logo.catvod.com/Taiwan Plus(125).png" group-title="備用01",Taiwan Plus(125)
+http://125.227.210.55:3083/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民視第一台(125)" tvg-logo="https://logo.catvod.com/民視第一台(125).png" group-title="備用01",民視第一台(125)
+http://125.227.210.55:3084/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民視台灣台(125)" tvg-logo="https://logo.catvod.com/民視台灣台(125).png" group-title="備用01",民視台灣台(125)
+http://125.227.210.55:3085/VideoInput/play.ts
+#EXTINF:-1 tvg-name="小公視(125)" tvg-logo="https://logo.catvod.com/小公視(125).png" group-title="備用01",小公視(125)
+http://125.227.210.55:3086/VideoInput/play.ts
+#EXTINF:-1 tvg-name="客家電視(125)" tvg-logo="https://logo.catvod.com/客家電視(125).png" group-title="備用01",客家電視(125)
+http://125.227.210.55:3087/VideoInput/play.ts
+#EXTINF:-1 tvg-name="原住民電視(125)" tvg-logo="https://logo.catvod.com/原住民電視(125).png" group-title="備用01",原住民電視(125)
+http://125.227.210.55:3088/VideoInput/play.ts
+#EXTINF:-1 tvg-name="台視新聞(125)" tvg-logo="https://logo.catvod.com/台視新聞(125).png" group-title="備用01",台視新聞(125)
+http://125.227.210.55:3089/VideoInput/play.ts
+#EXTINF:-1 tvg-name="台視財經(125)" tvg-logo="https://logo.catvod.com/台視財經(125).png" group-title="備用01",台視財經(125)
+http://125.227.210.55:3090/VideoInput/play.ts
+#EXTINF:-1 tvg-name="台視綜合(125)" tvg-logo="https://logo.catvod.com/台視綜合(125).png" group-title="備用01",台視綜合(125)
+http://125.227.210.55:3091/VideoInput/play.ts
+#EXTINF:-1 tvg-name="華視教育體育文化(125)" tvg-logo="https://logo.catvod.com/華視教育體育文化(125).png" group-title="備用01",華視教育體育文化(125)
+http://125.227.210.55:3092/VideoInput/play.ts
+#EXTINF:-1 tvg-name="華視新聞資訊(125)" tvg-logo="https://logo.catvod.com/華視新聞資訊(125).png" group-title="備用01",華視新聞資訊(125)
+http://125.227.210.55:3093/VideoInput/play.ts
+#EXTINF:-1 tvg-name="國會頻道1(125)" tvg-logo="https://logo.catvod.com/國會頻道1(125).png" group-title="備用01",國會頻道1(125)
+http://125.227.210.55:3094/VideoInput/play.ts
+#EXTINF:-1 tvg-name="國會頻道2(125)" tvg-logo="https://logo.catvod.com/國會頻道2(125).png" group-title="備用01",國會頻道2(125)
+http://125.227.210.55:3095/VideoInput/play.ts
+#EXTINF:-1 tvg-name="[V]頻道(125)" tvg-logo="https://logo.catvod.com/[V]頻道(125).png" group-title="備用01",[V]頻道(125)
+http://125.227.210.55:4043/VideoInput/play.ts
+#EXTINF:-1 tvg-name="cna(125)" tvg-logo="https://logo.catvod.com/cna(125).png" group-title="備用01",cna(125)
+http://125.227.210.55:4044/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森新聞(125)" tvg-logo="https://logo.catvod.com/東森新聞(125).png" group-title="備用01",東森新聞(125)
+http://125.227.210.55:4046/VideoInput/play.ts
+#EXTINF:-1 tvg-name="TLC旅遊生活(125)" tvg-logo="https://logo.catvod.com/TLC旅遊生活(125).png" group-title="備用01",TLC旅遊生活(125)
+http://125.227.210.55:4047/VideoInput/play.ts
+#EXTINF:-1 tvg-name="中天綜合(125)" tvg-logo="https://logo.catvod.com/中天綜合(125).png" group-title="備用01",中天綜合(125)
+http://125.227.210.55:4048/VideoInput/play.ts
+#EXTINF:-1 tvg-name="好萊塢電影(125)" tvg-logo="https://logo.catvod.com/好萊塢電影(125).png" group-title="備用01",好萊塢電影(125)
+http://125.227.210.55:4049/VideoInput/play.ts
+#EXTINF:-1 tvg-name="AXN(125)" tvg-logo="https://logo.catvod.com/AXN(125).png" group-title="備用01",AXN(125)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森財經新聞(125)" tvg-logo="https://logo.catvod.com/東森財經新聞(125).png" group-title="備用01",東森財經新聞(125)
+http://125.227.210.55:4051/VideoInput/play.ts
+#EXTINF:-1 tvg-name="東森幼幼(125)" tvg-logo="https://logo.catvod.com/東森幼幼(125).png" group-title="備用01",東森幼幼(125)
+http://125.227.210.55:4052/VideoInput/play.ts
+#EXTINF:-1 tvg-name="緯來體育(125)" tvg-logo="https://logo.catvod.com/緯來體育(125).png" group-title="備用01",緯來體育(125)
+http://125.227.210.55:7155/VideoInput/play.ts
+#EXTINF:-1 tvg-name="民視(125)" tvg-logo="https://logo.catvod.com/民視(125).png" group-title="備用01",民視(125)
+http://125.227.210.55:8093/VideoInput/play.ts
+#EXTINF:-1 tvg-name="探索亞洲(125)" tvg-logo="https://logo.catvod.com/探索亞洲(125).png" group-title="備用01",探索亞洲(125)
+http://125.227.210.55:8154/VideoInput/play.ts
+#EXTINF:-1 tvg-name="Bloomberg(125)" tvg-logo="https://logo.catvod.com/Bloomberg(125).png" group-title="備用01",Bloomberg(125)
+http://125.227.210.55:8161/VideoInput/play.ts
+#EXTINF:-1 tvg-name="華視(125)" tvg-logo="https://logo.catvod.com/華視(125).png" group-title="備用01",華視(125)
+http://125.227.210.55:8163/VideoInput/play.ts
+#EXTINF:-1 tvg-name="BBC NEWS(125)" tvg-logo="https://logo.catvod.com/BBC NEWS(125).png" group-title="備用01",BBC NEWS(125)
+http://125.227.210.55:8165/VideoInput/play.ts
+#EXTINF:-1 tvg-name="博斯運動I(125)" tvg-logo="https://logo.catvod.com/博斯運動I(125).png" group-title="備用01",博斯運動I(125)
+http://125.227.210.55:8173/VideoInput/play.ts
+#EXTINF:-1 tvg-id="stream-fdc09490-6aa5-4cfd-85c1-b1514ef2d0b5" tvg-name="年代新闻" group-title="備用01",年代新闻
+http://192.129.226.68:5678/live/stream-fdc09490-6aa5-4cfd-85c1-b1514ef2d0b5/index.m3u8?u=admin&p=b4ecdc05919ccd04725c646d3f1a696e91638cf8ac5bea11c2715c0b81e16970
 
