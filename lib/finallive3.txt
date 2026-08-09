@@ -20,7 +20,10 @@ https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldhQjZSeTlaTlNOVnJmT1ZDc0lWQ2VsNmlJ
 https://live.catvod.com/?id=L2xyL2RMUU9BRW1JalcyYVZSNmh2VXM0ek5TZ1ZVcWI2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD0wOWQwYWE3YSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
 #EXTINF:-1 tvg-id="2936" tvg-name="Catchplay电影台" group-title="台湾 (稀有源)",Catchplay电影台
 https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
-
+#EXTINF:-1 tvg-id="906" tvg-name="AXN Taiwan" group-title="台湾 (稀有源)",AXN Taiwan
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldzaFZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPTg0YWFlYzEwJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
+#EXTINF:-1 tvg-id="278" tvg-name="Hollywood Movies" group-title="台湾 (稀有源)",Hollywood Movies
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1Jald5dVZDMkk2V2Z1ekNhdTZSZWVwYWZCNldodXBDMnl4VTJncE5fNFZQbmFBbXxjZD1jYjZhMGU5ZiZjbj0xZTBkNTg0YyZjcD04MmVkMGI3ZCZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=ebaceee89c43a1956940c4c4c9070daa
 
 
 #EXTINF:-1 group-title="娛樂綜合",民視第一台
