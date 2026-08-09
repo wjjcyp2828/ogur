@@ -691,14 +691,13 @@ https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldTeXhSaDdaTlNOVnJmT1ZDc0lWQ2VsNmlJ
 #EXTINF:-1 tvg-id="2936" tvg-name="Catchplay电影台" group-title="台湾 (Catvod)",Catchplay电影台
 https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9Y2I2YTBlOWYmY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=ebaceee89c43a1956940c4c4c9070daa
 #EXTINF:-1 tvg-id="2937" tvg-name="动物星球" group-title="台湾 (Catvod)",动物星球
+https://live.catvod.com/?id=L2xyL2RMUU9BRW1JaldzNHZVYXlWNXQ4UVVJZTZzZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPWNiNmEwZTlmJmNuPTFlMGQ1ODRjJmNwPWQzMDBlYjRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=ebaceee89c43a1956940c4c4c9070daa
 
 
 #EXTINF:-1 group-title="经典🦔轮播",古惑仔
 https://live.ottiptv.cc/yy/1458015189
 #EXTINF:-1 group-title="经典🦔轮播",港片搞笑
 https://live.ottiptv.cc/yy/1355480591
-#EXTINF:-1 group-title="经典🦔轮播",周星驰
-https://live.ottiptv.cc/yy/38670875
 #EXTINF:-1 group-title="经典🦔轮播",恐怖电影
 https://live.ottiptv.cc/yy/24066336
 #EXTINF:-1 group-title="经典🦔轮播",林正英经典
