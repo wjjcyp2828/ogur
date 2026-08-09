@@ -323,14 +323,6 @@
             "api": "./lib/apiv1253爱看机器人.js"
         },
 
-        {
-            "key": "久久影视",
-            "name": "🥇久久┃影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "ext": "http://99cms.jj99.icu:8199/api.php/app/"
-        },
 
     {
       "key": "剧圈圈",
@@ -644,6 +636,19 @@
       "url": "https://iptv543.com/bbb.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        
+        	    {
+            "name": "🐬海豚佬xxx视频资源🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/xxx视频资源.txt"
+        },
+	    {
+            "name": "🐬至尊🔞",
+            "type": 0,
+            "ua": "okhttp",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/至尊.m3u"
         }
 
 
