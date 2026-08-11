@@ -594,6 +594,17 @@
             "ua": "okhttp",
             "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
         },
+        
+         {
+            "name": "🍒fuzy",
+            "type": 0,
+            "url": "./lib/eazyfuzy.txt",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        
          {
             "name": "🎊livem3u",
             "type": 0,
