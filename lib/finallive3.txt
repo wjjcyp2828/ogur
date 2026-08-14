@@ -697,1091 +697,156 @@ https://live.catvod.com/?id=L2xyL2RMUU9BRVQ3aldTeXhSaDdaTlNOVnJmT1ZDc0lWQ2VsNmlJ
 https://live.catvod.com/?id=L2xyL2RMUU9BRVQ3aldueTZDbkdwQzJ5eHFmQjZXaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9YzQ0YzQ1NTImY249MWUwZDU4NGMmY3A9M2U2NTg0YTcmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=4136611d5e00edf05553bd9c3cbfee19
 #EXTINF:-1 tvg-id="2937" tvg-name="动物星球" group-title="台灣cadvod",动物星球
 
+#台灣tv123
 
-#輪播
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" tvg-name="TVBS 歡樂台" group-title="台灣tv123",TVBS 歡樂台
+http://tv123.cc.cd/live.php?ch=389&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=81071cb49b933c4aea97968fa860122209c3e473c9dcf214440e0032f83dfe9b
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" tvg-name="TVBS HD" group-title="台灣tv123",TVBS HD
+http://tv123.cc.cd/live.php?ch=390&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=015de1d381b6d141534b6431d46a04009cb8dfd9c4957817df5d7dfe1a05fc1b
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" tvg-name="中天娱乐 CTI Entertaiment" group-title="台灣tv123",中天娱乐 CTI Entertaiment
+http://tv123.cc.cd/live.php?ch=391&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=37fc55915dc7820a4e3c0034b026195bbb43ee1d3056af441c7ceac7068329c0
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" tvg-name="中天综合 CTI Metro" group-title="台灣tv123",中天综合 CTI Metro
+http://tv123.cc.cd/live.php?ch=392&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=e88870030c3b927152117f38ea8252e09329897138c74aad95c35104bcaf9e10
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png" tvg-name="中天亚洲台" group-title="台灣tv123",中天亚洲台
+http://tv123.cc.cd/live.php?ch=393&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=2d511187eb02706827f062c4d38a2748b5a9ff19111c543f8ffba6082f86647f
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png" tvg-name="台视 TTV HD" group-title="台灣tv123",台视 TTV HD
+http://tv123.cc.cd/live.php?ch=394&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=f0758ebecf6d02e136696758fcaaf317ca27ef4b3da116d63d7209c813a2b6fb
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png" tvg-name="台视综合台" group-title="台灣tv123",台视综合台
+http://tv123.cc.cd/live.php?ch=395&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=fd31e7bb33635ad35a78bb519a773120f484c22a90ad266dd78aa16985284490
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" tvg-name="中视 HD" group-title="台灣tv123",中视 HD
+http://tv123.cc.cd/live.php?ch=396&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=476e948c380d5722ee954ffcb91b9124c67e0727d6dd202cfad6c16a754d9487
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" tvg-name="民视 HD" group-title="台灣tv123",民视 HD
+http://tv123.cc.cd/live.php?ch=397&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=0f1d7525692b97f38d5bb5aa97665313eeeda8599749c46350898125ba2d7bda
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png" tvg-name="民视台湾台" group-title="台灣tv123",民视台湾台
+http://tv123.cc.cd/live.php?ch=398&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=ba046e11c25e8c5b9202d5ddc29d77bf859e0b297ea7c2b98df65b93cbee6afe
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" tvg-name="华视 CTS HD" group-title="台灣tv123",华视 CTS HD
+http://tv123.cc.cd/live.php?ch=399&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=85af6bc804aa51831a98fac5e62b88f75c2ef51c3e3c909b3133d1213f87c59d
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" tvg-name="HBO_HD" group-title="台灣tv123",HBO_HD
+http://tv123.cc.cd/live.php?ch=400&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=186584b3516126047df472633b9e12a7c56431f4ae3384c90026ccf587985914
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" tvg-name="HBO_HITS" group-title="台灣tv123",HBO_HITS
+http://tv123.cc.cd/live.php?ch=401&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=70002e85593e593ea48727b228d2027996c46c46626a1b4e3912bda5e8312a8f
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" tvg-name="HBO Signature Taiwan" group-title="台灣tv123",HBO Signature Taiwan
+http://tv123.cc.cd/live.php?ch=402&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=10682c3fe2960433e6cda86df873c48a85ac53cc365d82ec85493dc71c374e77
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" tvg-name="Hollywood Movies" group-title="台灣tv123",Hollywood Movies
+http://tv123.cc.cd/live.php?ch=403&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=a101b53bcca5d73358c9c08a6fc06c9ab6b79114d6b8a88a37311594fb5cc88d
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa484fdb8_ZP60.png" tvg-name="三立台湾 Sanli Taiwan" group-title="台灣tv123",三立台湾 Sanli Taiwan
+http://tv123.cc.cd/live.php?ch=404&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=39211bfc8e59d53b5334a675eb3e18727aa4f4a963d077d5ff936304d454fc58
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3dd3d83ead_l7lR.jpg" tvg-name="三立戏剧台" group-title="台灣tv123",三立戏剧台
+http://tv123.cc.cd/live.php?ch=405&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=10ce620eacd4d24a12234e11df70009981663920728bbbd89703e6ebd1af23b6
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f8d13edd1_SZPZ.png" tvg-name="三立综合 Sanli Metro" group-title="台灣tv123",三立综合 Sanli Metro
+http://tv123.cc.cd/live.php?ch=406&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=4bea5729e09a18e70e94984f5e339f9507cf693fdd05c6532cce6eb513756885
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef478076b65f_ZOy7.png" tvg-name="三立都会台" group-title="台灣tv123",三立都会台
+http://tv123.cc.cd/live.php?ch=407&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=c5c5f4baab0f74772a833285dd1f05a34f7b81db6984240690e6b5be6f151702
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597214f33c2f3_Iir8.jpg" tvg-name="东森综合 ETTV Metro" group-title="台灣tv123",东森综合 ETTV Metro
+http://tv123.cc.cd/live.php?ch=408&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=e3217d8dc705e8cf8ff482b71082e6eabd33b9aa0011b4521d1388746f1acd57
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png" tvg-name="东森戏剧 ETTV Drama" group-title="台灣tv123",东森戏剧 ETTV Drama
+http://tv123.cc.cd/live.php?ch=409&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=5262c9800639ab10e45b476ed0a90838c6416894777f2231a977cc13c0a1a7e0
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07ab5e806e7_7gGt.png" tvg-name="大爱1台" group-title="台灣tv123",大爱1台
+http://tv123.cc.cd/live.php?ch=410&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=443e5fb122fc4eca993dff0f6bfd8783733b8a3381c13a15c46333ce71ee46d5
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2104d7173d8_laLA.png" tvg-name="龙华戏剧 Lunghua Drama" group-title="台灣tv123",龙华戏剧 Lunghua Drama
+http://tv123.cc.cd/live.php?ch=411&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=d7b0b973930a1f9730a850078619e6b06493c4cd7a874432a5553d1d1deeca9e
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21052c811cb_AFAb.jpg" tvg-name="龙华偶像" group-title="台灣tv123",龙华偶像
+http://tv123.cc.cd/live.php?ch=412&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=5e075e49cfbe451be6364c4b67253d53725454efd70dca2e8ddffc8ba916e1cb
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" tvg-name="AXN Taiwan" group-title="台灣tv123",AXN Taiwan
+http://tv123.cc.cd/live.php?ch=413&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=cee0c67c117f05b252b89fb518e2c466652584c67d6a685a2cdb43b274e9ee15
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" tvg-name="CINEMAX" group-title="台灣tv123",CINEMAX
+http://tv123.cc.cd/live.php?ch=414&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=c57ce9b5e1450e8448e768f562b961d2606a87c6f9e1185b9c8d80940ce2bf1d
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" tvg-name="年代新闻" group-title="台灣tv123",年代新闻
+http://tv123.cc.cd/live.php?ch=415&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=d9d8bd4fef2bb57aa5a378fe607be791a1100e8c892f9d16649aaafb80b0a43c
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d1e7bf942_NJa3.jpg" tvg-name="纬来日本台" group-title="台灣tv123",纬来日本台
+http://tv123.cc.cd/live.php?ch=416&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=a8291167f478ecdb9394f4dd23762b9432a995690bd6b360c2a9bdf8a2f0d070
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" tvg-name="纬来电影台" group-title="台灣tv123",纬来电影台
+http://tv123.cc.cd/live.php?ch=417&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=bcadb460ac2a31405d0cb0073155993e8779c874cfa4b7d431cf70ba748f2dfb
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" tvg-name="纬来体育台" group-title="台灣tv123",纬来体育台
+http://tv123.cc.cd/live.php?ch=418&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=8f36abdda20b567ed97ec8e09f11a70287d2213d9e6bd8ac6e100566c2d277d6
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg" tvg-name="纬来综合台" group-title="台灣tv123",纬来综合台
+http://tv123.cc.cd/live.php?ch=419&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=c9a63bd1090e53202dffd0b291fc0ae1bcb4c5f5031f26f55b297051d48f8aee
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac6efe44e3_XA3K.png" tvg-name="纬来育乐" group-title="台灣tv123",纬来育乐
+http://tv123.cc.cd/live.php?ch=420&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=bc199396645a65e0583a0e95370114756d4bcad2fd867b4d663eea5fc604dba4
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png" tvg-name="纬来精彩" group-title="台灣tv123",纬来精彩
+http://tv123.cc.cd/live.php?ch=421&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=a998e48f26da539eaf17db66260b7693a39f02d70039902565bfd2540fd5c4db
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" tvg-name="DW (Deutsch)" group-title="台灣tv123",DW (Deutsch)
+http://tv123.cc.cd/live.php?ch=422&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=019142f2fa1d5f4432061cae39941743ee499d622522bb28a8058516e42cca9f
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef472ef7cd46_vnVW.png" tvg-name="好消息 2" group-title="台灣tv123",好消息 2
+http://tv123.cc.cd/live.php?ch=423&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=1f43052b0c645dfe89d7a2a11e7330bbc2b7a70865aa7e667aaf2ef814ae42fd
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" tvg-name="大爱2台" group-title="台灣tv123",大爱2台
+http://tv123.cc.cd/live.php?ch=424&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=21e6bae3afec8e5d68dcb689441c3634aae0dc6174cd58fccebb5b158f957990
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" tvg-name="亚洲美食" group-title="台灣tv123",亚洲美食
+http://tv123.cc.cd/live.php?ch=425&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=078ff96f6153ca94663f8c94fad99c746cb69cb61a906a41b0f9f607b4c6f7a3
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" tvg-name="东森电影 ETTV Movie" group-title="台灣tv123",东森电影 ETTV Movie
+http://tv123.cc.cd/live.php?ch=426&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=cb6f58eaa3b33e0642203ab66e7efa6ce4358cac5c60cd77d52615457c6be564
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f06e3f614_wOfo.png" tvg-name="阿里郎 Arirang" group-title="台灣tv123",阿里郎 Arirang
+http://tv123.cc.cd/live.php?ch=427&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=df3e2a5871abe8d9bba96bbb5956ebebb8b990cf537d3fd1a5cfb6edd10044d2
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f28101ccd_21Yl.png" tvg-name="博斯运动 1" group-title="台灣tv123",博斯运动 1
+http://tv123.cc.cd/live.php?ch=428&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=0168cd89dbe89a25abf5ec2de35f3ae9b729bc0f861358190501ead8d1d6c795
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f2d170aaf_zKOw.png" tvg-name="博斯运动 2" group-title="台灣tv123",博斯运动 2
+http://tv123.cc.cd/live.php?ch=429&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=c314ca84d7a4c3432e71f5422a30afa6d2ff2adcf59b0ea4de3891e7a6a006f6
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" tvg-name="东森洋片 ETTV Western" group-title="台灣tv123",东森洋片 ETTV Western
+http://tv123.cc.cd/live.php?ch=430&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=755bf53e54ca56514e4e4939622ed8dcba2639a5f89139e1fc5193cf7187f955
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" tvg-name="龙华洋片 Lunghua Western" group-title="台灣tv123",龙华洋片 Lunghua Western
+http://tv123.cc.cd/live.php?ch=431&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=1713af661541e62f124a18b468d3e98b3bb335e2c81138519eee4aecf820ea07
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f3c25dba2_Xkc0.png" tvg-name="博斯无限" group-title="台灣tv123",博斯无限
+http://tv123.cc.cd/live.php?ch=432&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=e56adf496dc8eff4b1e816e63f31f109c234a19f44a0f9d13ed9b12a6e7e7518
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" tvg-name="MTV Live" group-title="台灣tv123",MTV Live
+http://tv123.cc.cd/live.php?ch=433&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=216d33ad568ba387541a3f5f96fe3c90558fd481e87c9b6c57aedfcd4aa70c66
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" tvg-name="龙祥时代" group-title="台灣tv123",龙祥时代
+http://tv123.cc.cd/live.php?ch=434&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=f7eb72f3d473cd0edfd8f149c02ab22f38dcb76b59b67a68ab844c364c3e5d42
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png" tvg-name="靖天卡通台" group-title="台灣tv123",靖天卡通台
+http://tv123.cc.cd/live.php?ch=435&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=d078070822de4c4690555f394b66fc425617199a13fb42a3a74924d5a148a4a9
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2ee0166877e_21kv.jpg" tvg-name="EYETV 戏剧" group-title="台灣tv123",EYETV 戏剧
+http://tv123.cc.cd/live.php?ch=436&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=b922e6157717b7ae6ae17f020e96c77e34d1aa19cee18250b1b40348b0a07625
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e196c1e47_0ZY8.png" tvg-name="华艺中文台" group-title="台灣tv123",华艺中文台
+http://tv123.cc.cd/live.php?ch=437&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=1244316f900fd6c66a156765e600cf050119fe21e73e873174436eacbcd9d9f1
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png" tvg-name="东森幼幼 Yoyo TV" group-title="台灣tv123",东森幼幼 Yoyo TV
+http://tv123.cc.cd/live.php?ch=438&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=1aad4b0d9145f3d821ca2b2b71d5861e0f9727ed48c347ed07c8b978d8c91e2a
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" tvg-name="美亚电影" group-title="台灣tv123",美亚电影
+http://tv123.cc.cd/live.php?ch=439&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=0780f4920bbe08a50acff910938596aff9c2ecc95130536e276a4bed42540631
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b47f2c36f_f7lG.jpeg" tvg-name="爱尔达戏剧台" group-title="台灣tv123",爱尔达戏剧台
+http://tv123.cc.cd/live.php?ch=440&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=78b8f022519c52b6843a030505f656a0324ff1c87bd6296fa85ca01d66e440c6
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" tvg-name="TVBS News 新聞台" group-title="台灣tv123",TVBS News 新聞台
+http://tv123.cc.cd/live.php?ch=441&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=910b825f05fe16ebd9408ed30a85a4a42fc796c41a8a0538502fb14dc7668654
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" tvg-name="Asia Food Network" group-title="台灣tv123",Asia Food Network
+http://tv123.cc.cd/live.php?ch=442&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=6c5268e713809afd9dae4b3319c961cb5d8b652b214c4c0cfdcd220a72fe3f46
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e91132c0a_CJ18.png" tvg-name="Elta体育1台" group-title="台灣tv123",Elta体育1台
+http://tv123.cc.cd/live.php?ch=443&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=0532ea085dda09d642cbdb88daabfdb61060a47795d66fef3621832aefad9f76
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" tvg-name="東森新聞 ETTV News" group-title="台灣tv123",東森新聞 ETTV News
+http://tv123.cc.cd/live.php?ch=444&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=a9d68c6c45b4094a73a24a32617a0359231d55e3b6946e29291624a2d2535c7b
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" tvg-name="東森財經新聞 ETTV Business" group-title="台灣tv123",東森財經新聞 ETTV Business
+http://tv123.cc.cd/live.php?ch=445&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=7c029e9b039387afdac934aa9992029c1a717fb17abbb29e44e93d030458d77d
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" tvg-name="中天新聞 CTI News" group-title="台灣tv123",中天新聞 CTI News
+http://tv123.cc.cd/live.php?ch=446&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=3ca4b877c72486eeca1d192059245ce52fb5ecabc3e44b8e20d344305962e05d
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" tvg-name="非凡新聞台" group-title="台灣tv123",非凡新聞台
+http://tv123.cc.cd/live.php?ch=447&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=3a61df18a62a3e899d5672d03113ab8dafdf686ab69af0dc8138396394b5ac43
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e93b741c7_1cOx.png" tvg-name="Elta體育2台" group-title="台灣tv123",Elta體育2台
+http://tv123.cc.cd/live.php?ch=448&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=8e0a6f6154c0c7b380b4bf2996379d6654b7015eb1ba37b58d65be039f5db162
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" tvg-name="台視新聞台 TTV News" group-title="台灣tv123",台視新聞台 TTV News
+http://tv123.cc.cd/live.php?ch=449&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=b10eabb2f39f39a53750f81464154504068662acb7ed0fa9d44acd0935967ae4
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e94edae9a_MS6M.png" tvg-name="Elta體育3台" group-title="台灣tv123",Elta體育3台
+http://tv123.cc.cd/live.php?ch=450&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=6aa09864067316e1e83a45e51aa69b51fb80815b46c0b39ec30e186ff5913d13
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e961165c6_fgx8.png" tvg-name="Elta体育4台" group-title="台灣tv123",Elta体育4台
+http://tv123.cc.cd/live.php?ch=451&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=04641684320e755a8027f5b42cf904e4eb6598b2776100154b32c62ad2bc2bb5
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" tvg-name="民視新聞台 FTV News" group-title="台灣tv123",民視新聞台 FTV News
+http://tv123.cc.cd/live.php?ch=452&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=e3009ab7c2b4ef351e24eb9254e28975c62dc19dce42638ace744a0d7e056fad
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" tvg-name="博斯高球2 HD" group-title="台灣tv123",博斯高球2 HD
+http://tv123.cc.cd/live.php?ch=453&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=4bb2959d3df4d3a235c6835d68a18a1a6660213d7031425151d77bf997e3fa1f
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" tvg-name="博斯网球 HD" group-title="台灣tv123",博斯网球 HD
+http://tv123.cc.cd/live.php?ch=454&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=61d47d68d85be64964db0447bd5647c48975c741d6a0b0eebe0a229d25061de3
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" tvg-name="寰宇新聞台" group-title="台灣tv123",寰宇新聞台
+http://tv123.cc.cd/live.php?ch=455&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=58bf00ae596c3e93c4fab79edf74271cf7ece276c2cfd85e4c83b05ce7b86011
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" tvg-name="中視新聞台" group-title="台灣tv123",中視新聞台
+http://tv123.cc.cd/live.php?ch=456&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=e0f9ad8d4694b8bedb42dd89c147171ee637428ac0de3058858cf39d43b4cfe3
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" tvg-name="探索频道" group-title="台灣tv123",探索频道
+http://tv123.cc.cd/live.php?ch=457&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=395406220efbf9a91c5254f8e610692e27dcc853b80099db9d69a58b5a2c5df8
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" tvg-name="DAZN 1" group-title="台灣tv123",DAZN 1
+http://tv123.cc.cd/live.php?ch=458&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=c923eafd27d85bbe5af9c89807071a1e5a42ce875fcc0dda3f6ce84c7b1addb8
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" tvg-name="DAZN 2" group-title="台灣tv123",DAZN 2
+http://tv123.cc.cd/live.php?ch=459&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=f8d191a3b85ff6a834e5a7e9ec5cc8fdea8322c7197cc5bd00ea68221f4769d9
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e44642cd5_9aQ9.png" tvg-name="Catchplay电影台" group-title="台灣tv123",Catchplay电影台
+http://tv123.cc.cd/live.php?ch=460&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=a23f6526a05028d8a0c71adf14d3ca3c34a332c310b5417c12fc3f7f517500dd
+#EXTINF:-1 tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6a60e6e1f1202_gvvT.png" tvg-name="动物星球" group-title="台灣tv123",动物星球
+http://tv123.cc.cd/live.php?ch=461&sid=703521cc46751c00aa1c4fc6d9abf15f&exp=1786727814&sig=1acbaf5d5fea196bc861c26310307a30366d253375f0269851b02c543f9e0403
 
-#EXTINF:-1 tvg-id="1382736795" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2Nzk1P2V4cD0xNzg2NDgwODEzJnNpZ249MWU1OGVmOGQwMjJlZmVjYjIyOGU0MTJjOGQ1ZGVlMzAzZDM0MzM5ZWYyMzgzNGM4YmE4MDllYjQyODQ1MGE4Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356043643" tvg-name="靓剑" group-title="輪播catvod",靓剑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MDQzNjQzP2V4cD0xNzg2NDgwODEzJnNpZ249MmU4ZjdhYjUyMDUzNGU0ZTFjMGUxYzU3ZTc4ODM2MjUyMjlhNDVhZGY4Mzk4YjA4YTUyYWZkNTJlNjQ5Nzk3MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355344777" tvg-name="武林外传" group-title="輪播catvod",武林外传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MzQ0Nzc3P2V4cD0xNzg2NDgwODEzJnNpZ249M2ZhZWY5NTI3ODMwNmM5M2FmZTEzZTUwYmQ5MTdjNTJkOTc4OGI5NGQ0YTc4ZmExNjYwNmZkZTQ2OTQ2ZmVlMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356043620" tvg-name="雍正王朝" group-title="輪播catvod",雍正王朝
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MDQzNjIwP2V4cD0xNzg2NDgwODEzJnNpZ249ODJjNWVkNGQxZTM3OGM3NjczMjc5YTY3MTkwZWJkMWQxMWFlYzY1N2I5NTZmYWZkNzY3ZjIxMTI1M2YzZjg3Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355652820" tvg-name="武林外传" group-title="輪播catvod",武林外传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1NjUyODIwP2V4cD0xNzg2NDgwODEzJnNpZ249YjM0NWFlOTk0ZDljMDliYzMxMWU3MGQ1YzhhMjkyZjk4MTFiNGIzZjEyNDk0YzBiYWVjYzU3Mjk1YTA1MjU1Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936131" tvg-name="超精彩武打场景" group-title="輪播catvod",超精彩武打场景
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTMxP2V4cD0xNzg2NDgwODEzJnNpZ249NWIxYWFjZTU3OWEyMTc5ZTNkM2IyYmNjOTcwNDAxMGJiODJjYmIxODYyNDgwMzJlY2YxZjQzYmU4NjgzNDA4ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356043677" tvg-name="少年包青天" group-title="輪播catvod",少年包青天
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MDQzNjc3P2V4cD0xNzg2NDgwODEzJnNpZ249MTM1YzdjMGMxMWFmNTYwMTY0NGMxYzNmNDQ1YmFkYzk5ZjIxZDU2ZGI4ZWJlNzgxNjhjNDdkYjQwNzE5ZmI5ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="29216766" tvg-name="【新三国】萌儿陪看" group-title="輪播catvod",【新三国】萌儿陪看
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yOTIxNjc2Nj9leHA9MTc4NjQ4MDgxMyZzaWduPTU0ZDNjOTlmNjY4NjRhYmQ5ZWU0OTY3NWUxZjk0NWZiMzFkMGFiZDEwMWVhYmYyOGI0NWZiMTVjNTI4NGRlZDk&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1351755386" tvg-name="狄仁杰" group-title="輪播catvod",狄仁杰
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUxNzU1Mzg2P2V4cD0xNzg2NDgwODEzJnNpZ249NmFhMzBmYTBkMWNlNWZhM2ViOGVkZDdhNTgzYjhkZWIwOGQ4ODAyZDg0ZGQyOWI0Y2Q0OGM2OWQ0MDU2NTRiOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355480591" tvg-name="港片 喜剧 动作" group-title="輪播catvod",港片 喜剧 动作
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1NDgwNTkxP2V4cD0xNzg2NDgwODEzJnNpZ249YTJlYzZhN2ZmOGI1YWI4NzdjNTEwYzczY2MxMGY5OGI2ZjM0YzFlMmMyNDNjYWZlMWJiMzUzMGM4ZWNmYjFhZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="34229877" tvg-name="林正英-经典电影" group-title="輪播catvod",林正英-经典电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8zNDIyOTg3Nz9leHA9MTc4NjQ4MDgxMyZzaWduPTQyYjQ0OGExZDIxNGY1MjkwN2U2ZTlkNGRjZTJmN2EyNDE0ZDAwMzQwNTU0ZTM3Yjg2YTU4YTY3NWMwNjg1N2Y&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354143978" tvg-name="纪晓岚" group-title="輪播catvod",纪晓岚
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0MTQzOTc4P2V4cD0xNzg2NDgwODEzJnNpZ249MGM4ZWI0ODhjZWE0YjA2NWJjYjA4ZTJkNjRlNjhiMTc1ZDZkYzY4ZDliMjdjZTc2MmM5MzJmMzIxMDEzODg1Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="74613175" tvg-name="李连杰功夫 经典武侠" group-title="輪播catvod",李连杰功夫 经典武侠
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS83NDYxMzE3NT9leHA9MTc4NjQ4MDgxMyZzaWduPTA3MDVlMjk2NjllMTI5ZGU1MGVmZjU3MmM5NmRiOWNkNDI3NzkwYjkwMjkwMzU0NmNmZmJjOTUyZTU5NjhiNTU&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382626335" tvg-name="狂飙" group-title="輪播catvod",狂飙
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNjI2MzM1P2V4cD0xNzg2NDgwODEzJnNpZ249MWEwYWJlYzM2MmI2Yjc1ODQ5NDJkNDE3ZDUwNWMzMDUyNmQyYjA0MDZkMzE3OWQzOTBjZmIwNjkzN2JmNzI4YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1507704566" tvg-name="铁道游击队" group-title="輪播catvod",铁道游击队
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNTA3NzA0NTY2P2V4cD0xNzg2NDgwODEzJnNpZ249OTFjOTE2OWNlNmE4YjlkZGY0YTViNzJhZmYzNmYzMDI5ZDIwMDhmYjg0NTViOTNkZDk2NDBmOThlOGUyMjMxNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354555195" tvg-name="经典抗战剧" group-title="輪播catvod",经典抗战剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NTU1MTk1P2V4cD0xNzg2NDgwODEzJnNpZ249NDBmOWJlNDMxOTZkZGM2ZWJjY2UwZjAwMmFiNGE5NmI5Y2ViZWU1N2IzMzM4NGZjNzg3ZmE1ZDRhODY3ZGRmMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356043609" tvg-name="天龙 神雕金庸" group-title="輪播catvod",天龙 神雕金庸
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MDQzNjA5P2V4cD0xNzg2NDgwODEzJnNpZ249MGU0ODAxN2NkZTNhNjc2Mzg4NmVmMTkzZWNhNGJjZjYxYzhjYmU2ZjFkY2U2OTliNTEyZjA3YmFkYjY2MjMxNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1352811698" tvg-name="康熙微服私访记" group-title="輪播catvod",康熙微服私访记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUyODExNjk4P2V4cD0xNzg2NDgwODEzJnNpZ249NWEyMWE3NTc5NDY4OTFlNjliNmI5YTgyMmI2ZmIyNjVmZTBhYmMyMjQ4MTdmNTc2MGUyZmQxMTY4ZTVjNmE3MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1352227227" tvg-name="纪晓岚" group-title="輪播catvod",纪晓岚
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUyMjI3MjI3P2V4cD0xNzg2NDgwODEzJnNpZ249NzJkNDc0ODgwMmM0MDE3OTgzZTE1ODVmMWU3MjgxMjQ5OWY2N2ZjNmUzOGVhODM4ZTVjNGM3MjQ4MjdlNTIwOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745331" tvg-name="赵本山宋小宝小品大全" group-title="輪播catvod",赵本山宋小宝小品大全
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MzMxP2V4cD0xNzg2NDgwODEzJnNpZ249ZmMzOTJmNzJiOTQ4NDMwNjUwYjQ3ZjA0NjgyYWUzODU2ODI2NTkzOGRlMzJmZWIzODY5ZmM2N2IwY2NjZGJlYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382741642" tvg-name="欢乐集结号-每天笑不停" group-title="輪播catvod",欢乐集结号-每天笑不停
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQxNjQyP2V4cD0xNzg2NDgwODEzJnNpZ249MWIwYjZjZTQ2NThhMGZhMTgwYmM0ZTNmZGZjMmEyZjlhMGRkOGExMTQ5ZTU0OGQyMmI4N2Q0MmI1ZTgyZTA1YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736808" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODA4P2V4cD0xNzg2NDgwODEzJnNpZ249ZTQ0ZTgyMGRhYmVkMjkyY2IzNGZlNWZkNWJiYTZhMGMzMjIzMTBmMTRkZjQ3MDFlNzM4NzM5MzlkNzEwM2EwNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658049" tvg-name="鹿鼎记-周星驰版" group-title="輪播catvod",鹿鼎记-周星驰版
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDQ5P2V4cD0xNzg2NDgwODEzJnNpZ249OWVlZmU2ZjRmNjBiODdmOTc4MTJjOTRjZTM5NzY3YzcyZmIxMjVlMGYzNDdhOWVhM2I4YWU4ZmYyYjU4Y2ViZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851575" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTc1P2V4cD0xNzg2NDgwODEzJnNpZ249OGU3NmU2ZWM4Y2FjMGJiM2E1OWI4MGMwNjZjOTUyOWRlNWY3M2NkMDM3NGE5YmEzYTlhMzFjMTBiMGNhZjliOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745191" tvg-name="宰相刘罗锅" group-title="輪播catvod",宰相刘罗锅
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTkxP2V4cD0xNzg2NDgwODEzJnNpZ249MmM2NjdhNjM1Nzc2MWUyYTcxM2JhYTUzYWNmYzIwMWIzYzI4OWY3OTkyOWNhNmZhOGZjMjJlZjNkMjI0NGM4OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931580" tvg-name="正阳门下" group-title="輪播catvod",正阳门下
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNTgwP2V4cD0xNzg2NDgwODEzJnNpZ249Yzk3YTY5ZDg1YTM2ZTliMmFlMTEwMjUwZTUyMWRlN2JhMjdlMmI5MzFmNTYzZmYzYjRkNmY4ZDBmMzQyZTdmNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736716" tvg-name="炊事班的故事III" group-title="輪播catvod",炊事班的故事III
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzE2P2V4cD0xNzg2NDgwODEzJnNpZ249NWUzYzQwM2VjOTFhNDVkZDU2ODU3MTBkNzRkMjU0NDhiNWY2NDI0ZWQ0ZjI4NTVlYmU4OGVhNTQ1OTU3YjBhNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735577" tvg-name="史诗级科幻电影-阿凡达" group-title="輪播catvod",史诗级科幻电影-阿凡达
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTc3P2V4cD0xNzg2NDgwODEzJnNpZ249ZjA5NzQwNTI0Y2E5Y2RjMmZmOGI5NmE4ZmFlYTYyNjQzNGQyOGFiZWI0NTIxMmRhNzQ2NDdmYWVkZDZhZTQ1Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382737892" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM3ODkyP2V4cD0xNzg2NDgwODEzJnNpZ249MTcwYmExZWM5YWE4MDk4ZjU3ZDUyOGM5OWRmOTdhYzVhMzYwYTE1NmVmZGIzOTBkOTNmY2Y2MmQ3MmU4NWNkNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736821" tvg-name="爆笑小品大合集" group-title="輪播catvod",爆笑小品大合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODIxP2V4cD0xNzg2NDgwODEzJnNpZ249YWMwZmExNTRlOTIyNjBkOTEwZTg4N2NlYmRkNmQ4ODA3YzZhYzg2NWE4OGUwYjJjMDg0NmI1Yzk5NjUxZDNiZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736907" tvg-name="双月之城-国漫" group-title="輪播catvod",双月之城-国漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTA3P2V4cD0xNzg2NDgwODEzJnNpZ249YTZiMjAzOWNmYjcwYWMxOGJjN2E4MDU2NWI4MDE1ZDdlMzQxMWJmNDVlODA3ZWU4Y2YyYjFjNjdlMjMwOGM2ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749890" tvg-name="功夫小子进城" group-title="輪播catvod",功夫小子进城
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODkwP2V4cD0xNzg2NDgwODEzJnNpZ249NzBmYzc5N2ZlOTRlNWVhOWI3ZjA2MGYwNTBjYWE0NjQ3ZGNjMWIyOGMzZGFiN2IwYTA5NGQ4NmM2Y2UwNWZkYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931498" tvg-name="易中天品三国" group-title="輪播catvod",易中天品三国
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNDk4P2V4cD0xNzg2NDgwODEzJnNpZ249ODE0Y2M5NzBjZGI0ZjkzODhkNDQ1NjcyNGQ3MWVjZTIwNTg2MWRhZDA5NmY2YTUxMDg0MTdiZTgyMTgxYzM3OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1351762426" tvg-name="神雕侠侣" group-title="輪播catvod",神雕侠侣
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUxNzYyNDI2P2V4cD0xNzg2NDgwODEzJnNpZ249YTgyOWE1N2IzZjJkYmYzMzk1OWU2MzQxYjZiODA2NjRmMjAzMDkxNmFjYjEwYmI4NmFjYjA1YTZlNzFlM2MxZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355052097" tvg-name="谅剑~抗战经典剧" group-title="輪播catvod",谅剑~抗战经典剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MDUyMDk3P2V4cD0xNzg2NDgwODEzJnNpZ249M2IzYzEzODZjYzQ0ODI2YjE5NTBlY2I4NmQ1YmNkNmQ4MDcyMWUxY2RmMDFjMmI5OTdjOTA5ZWY4ZjAwMWYzYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926650" tvg-name="父母爱情" group-title="輪播catvod",父母爱情
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjUwP2V4cD0xNzg2NDgwODEzJnNpZ249MzQwYWRmMjliNjRmOGViYThiMDg3MGNlNjkzMGI2OTIyNGQ5N2ViOTY0ZGQ2OTY4OWZkYjJkMzEyNjAzYThjNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353215589" tvg-name="大染坊" group-title="輪播catvod",大染坊
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzMjE1NTg5P2V4cD0xNzg2NDgwODEzJnNpZ249NzY3YzZkZjM4YmIwZDc1MDU5ZWYyZDQ5MGU3ODE3MjcyZjEyZmVjNTUzYzk1ZmZlYTI5MzNiM2FmNDQxYzRlMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354143942" tvg-name="燕双鹰" group-title="輪播catvod",燕双鹰
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0MTQzOTQyP2V4cD0xNzg2NDgwODEzJnNpZ249NzFlMjY4NDI2YTE2ZjExNjFmMTRjYzY0ZjgyZGJhMTk1MTU5OGZjZjMwMGY0Y2M1YTI3ODJiOTc0OTg2ZWE3MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="38670875" tvg-name="【周星驰】搞笑电影" group-title="輪播catvod",【周星驰】搞笑电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8zODY3MDg3NT9leHA9MTc4NjQ4MDgxMyZzaWduPTdmMTY4MTM1N2ZiOWIxZDM0NzU0ZWZhNmJlOTJlNGNlNzk5OWE3YTNhOWMyYjM3NDE1NWI5YzAxYjdlZTY4MzM&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1352475619" tvg-name="隋唐英雄传" group-title="輪播catvod",隋唐英雄传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUyNDc1NjE5P2V4cD0xNzg2NDgwODEzJnNpZ249NTYwZWEyYTRlMWI3Njg4MGFkMGY4NDZiYTdhYTQzMGQ4YWI1NGMxNzQ4NGNiZDQ2MGUxMjgwNDBjMjJhOTcxOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736870" tvg-name="拳拳到肉，搏击燃情" group-title="輪播catvod",拳拳到肉，搏击燃情
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODcwP2V4cD0xNzg2NDgwODEzJnNpZ249ZDM4ZTg4ZjY3NjQyZDdiNzAyN2ExNWUxY2M5ODE0MTJmMWFjMjUyNWQ5OTYxMzRiMTYxN2RjYjBiM2VjMmIzOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1352227153" tvg-name="燕双鹰" group-title="輪播catvod",燕双鹰
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUyMjI3MTUzP2V4cD0xNzg2NDgwODEzJnNpZ249ZTJjMzljZTA3YzY2MDJmNjhlNWQ0NzIwYTNlNDk2OTU1YTE2MzA4ODg5MjIxMTBkNDdjMDRhNTk0ZWUzYWIzOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1351505899" tvg-name="林正英经典" group-title="輪播catvod",林正英经典
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUxNTA1ODk5P2V4cD0xNzg2NDgwODEzJnNpZ249ZmQ4MTc1YTliOGI0YmJmZTU3OGFkMmY3NWRjYjM0YjRmNGQ0NzZhZmE0OTBiNGE3ZTlkZTI1YmYyYmI0MDliYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="33300793" tvg-name="倚天屠龙记" group-title="輪播catvod",倚天屠龙记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8zMzMwMDc5Mz9leHA9MTc4NjQ4MDgxMyZzaWduPTIzMjlmOWI3NGE3YTdiN2NlZTM4ZmNkOWRlYzczMzNlYmVkZDUxZWZhNmEwNjk2NjkwYWM3MDQ1YTk1YjhjYzY&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1352866135" tvg-name="进来 陪你看动漫" group-title="輪播catvod",进来 陪你看动漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUyODY2MTM1P2V4cD0xNzg2NDgwODEzJnNpZ249NjdjYTNlN2M5ODg2NzRkODhjZmNmZjc4OTc1MGE1NmYxMjBiMjg0OTBmMWM4NmJiZTE0YjJiODc3MjAxMDIwNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353852605" tvg-name="昕儿 正在直播" group-title="輪播catvod",昕儿 正在直播
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzODUyNjA1P2V4cD0xNzg2NDgwODEzJnNpZ249Mjg4MzFjMmQ1MDk4ODdjMzYxNjczMDJhMmE4OTUzNDViZmE1OTcwYmY1YjQ1YzIwODVmYjQ2MWFjODg5YjU5NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354806550" tvg-name="【狂飙】" group-title="輪播catvod",【狂飙】
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODA2NTUwP2V4cD0xNzg2NDgwODEzJnNpZ249ZWFhYWRhMWYyMzIxOGQ0YzNiMDRkMmJiNGEyNWY3NzdkMTY0OGViMjc3NGUwNWJiNDI4ZjE5MmQ5ODhhMWJlOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1508456184" tvg-name="【力量之火凤凰】" group-title="輪播catvod",【力量之火凤凰】
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNTA4NDU2MTg0P2V4cD0xNzg2NDgwODEzJnNpZ249MjEwNGMxOTZkMWIyYzk2NjViNzdhMDhlNDVmMjYxOGI1OGUzZGUzMjVmY2I1NjA1ZTE2YzYyZjYxNjFjNGYxYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353892468" tvg-name="宰相刘罗锅" group-title="輪播catvod",宰相刘罗锅
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzODkyNDY4P2V4cD0xNzg2NDgwODEzJnNpZ249OTliYmRkMDBkOGYyNTcwOTUxNWZmYWYxODQwMzFkYjI0MDA4NzFlZDQ1N2EwMzlmMTI3ZmQ5ZGZmZDY5NWU4Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356212303" tvg-name="24h 我爱我家 喜剧" group-title="輪播catvod",24h 我爱我家 喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MjEyMzAzP2V4cD0xNzg2NDgwODEzJnNpZ249ZDk2MTAyZWNmNWI3NmM3MzE4MGE2Y2I1Y2FjODJkZmUxNGUyZDg4MTFlNTVjN2EzODhiZGE4NTAwMmUwZjc4Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355265814" tvg-name="济公" group-title="輪播catvod",济公
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MjY1ODE0P2V4cD0xNzg2NDgwODEzJnNpZ249YWJlNzk0ZTdmZGE0MGQ2ZmQ5ZmMxZTkxNGU5MDg4MzI1NWMwZWVkM2I1NDdmZGI0MTExOTA0NjM3YjhiM2VkZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354143938" tvg-name="动漫" group-title="輪播catvod",动漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0MTQzOTM4P2V4cD0xNzg2NDgwODEzJnNpZ249NmQyYjI4MTc1YjA3Y2FlOTAxYmRhNjQxNjlkNWZhMjNmOTRlY2ZhYTdkNmM0OWUxZDZjZGZmZGRjMjI3YTJiMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="29460894" tvg-name="经典鬼片3000部" group-title="輪播catvod",经典鬼片3000部
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yOTQ2MDg5ND9leHA9MTc4NjQ4MDgxMyZzaWduPWUxMGE4NTlkMjkyNDcxMDczMTQzOGZiMDFiOWVmZDkyYzc4MzNlZjc1NjlkMTViNTEwNTA5MjU3NzMyZGZhMWE&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1350670730" tvg-name="破案港剧" group-title="輪播catvod",破案港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUwNjcwNzMwP2V4cD0xNzg2NDgwODEzJnNpZ249MzIwYjJmNzM3ZDExMDMwY2VjYmJlMGI5NTMxMjg2OTdjZGFjNGJlZTI2OTY4ZmQ0NWI2ZmM2ZmY1NTg2NzI2ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353428972" tvg-name="超喜剧地下交通站男神贾贵" group-title="輪播catvod",超喜剧地下交通站男神贾贵
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNDI4OTcyP2V4cD0xNzg2NDgwODEzJnNpZ249MWNmYWU3ZjIyZDczODczYjkwZDI5NzE4YWQ5Mjg5ZmUwZjc1OTUwN2RhZGEwY2YxNWM2OWUzZmExM2NhNGU2OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1458015189" tvg-name="古惑仔" group-title="輪播catvod",古惑仔
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU4MDE1MTg5P2V4cD0xNzg2NDgwODEzJnNpZ249Mjg4YjJiMTc4ODA1MmM2Zjk0NDViZWVkZTU4YTJjZmMxZmFmZjc2ZGYxOWNhNTc4YTQ2NTgyZGRkZTA5NjdhNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353426319" tvg-name="封神榜" group-title="輪播catvod",封神榜
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNDI2MzE5P2V4cD0xNzg2NDgwODEzJnNpZ249ZGI1M2ExODg2NmNkYjE5NTU2YzVjNjg2ZmYyZmQxMTAxZjE0M2NjMjAwMzhkMWYxYTFkMWE5NGUxZjU5OGFkMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1456829119" tvg-name="随缘 正在直播" group-title="輪播catvod",随缘 正在直播
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU2ODI5MTE5P2V4cD0xNzg2NDgwODEzJnNpZ249MTg1OTQxZGRiOTFmZTM3ODg3YTFkNzI4NTg3YjRiYTE3MzYwYzM5M2YyZjVlNGVjYzMzNjI1YjBiYjQwZWRkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382714119" tvg-name="神医喜来乐" group-title="輪播catvod",神医喜来乐
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzE0MTE5P2V4cD0xNzg2NDgwODEzJnNpZ249ZDkwM2I3NTNmYTQ2YzkxZGVkMTY5MjRmNmU5YzQwOGI0ZTlmZjA3YzEwY2NhMDgyZWZjNjBlNmI5MTNkMTBjYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382570702" tvg-name="大家车言论" group-title="輪播catvod",大家车言论
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNTcwNzAyP2V4cD0xNzg2NDgwODEzJnNpZ249NWI3MzkwZWZjMDEwMWQzYzYxMGE0ZTIyZjFlOTI4ZDRlM2RkNzQ3MTMwNzQ5ZTQ0OWE1Mjk2NmNlZDY2YTZhMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1383546866" tvg-name="闯关东" group-title="輪播catvod",闯关东
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgzNTQ2ODY2P2V4cD0xNzg2NDgwODEzJnNpZ249NGZhODFmYjhhMWNhMGFmZmE5ZGNhZTE3MTllMDlkMWI2ZTI3OWMzZDdmZDI4ODA5NGUwOGJlZGM5Nzc0ZTdkMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1351814644" tvg-name="小玲儿 正在直播" group-title="輪播catvod",小玲儿 正在直播
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUxODE0NjQ0P2V4cD0xNzg2NDgwODEzJnNpZ249NmViMDFlOWQwZTM0YTY1M2RhY2VjM2I2ODZmYmUyZmQ5MWY3MzVkYTFmNTQ3NDkwYWZkZDhkZmRiNjMyM2Y2NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="32160832" tvg-name="赵本山《蓝光版》" group-title="輪播catvod",赵本山《蓝光版》
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8zMjE2MDgzMj9leHA9MTc4NjQ4MDgxMyZzaWduPTBjNzkzZGEzNjk4OWE2MDU4MzczMTM5YjEyODhiMmIxNGRlOGU5OWFhZDAxYzdjOTE5NmYwMjk4ODI5NmY0NWM&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382781415" tvg-name="纪晓岚" group-title="輪播catvod",纪晓岚
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzgxNDE1P2V4cD0xNzg2NDgwODEzJnNpZ249ZTk3OGU3ODU1YTFiNjllMzNkYTExODY4YzU0YzA5MDQ3ZmJmYWExZWZkOGZjODYzZmU5ZTdkMjc0N2Q3ZmY5Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382828767" tvg-name="喵系女友" group-title="輪播catvod",喵系女友
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODI4NzY3P2V4cD0xNzg2NDgwODEzJnNpZ249Y2EyMGRiNmRlOGM1ODNiZTkyNTc5ZTRmMTI2NWRmZGQ3ZThmNWQ1NGUxMmIxZGY0MTNhOGU3ZjQ0OTY5ODUxMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851588" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTg4P2V4cD0xNzg2NDgwODEzJnNpZ249MmJlMDQwZmQ1MmE1MDNhMTRkZTU1MzhhZmRiZWY4YjYxN2MwNWMwNDMzOGQ0YzFjMjY4NzdkNjhhMDZiN2Q3Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930934" tvg-name="神探狄仁杰1" group-title="輪播catvod",神探狄仁杰1
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTM0P2V4cD0xNzg2NDgwODEzJnNpZ249ZTcwODMzNzdmMTYzNmFlZmQ0MGRlYWVlZDJiMDdmZjQ4NjE2ODM0MGY3YzYxNjU2M2MxYWU0MTM1MzJmYWYwYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736856" tvg-name="�逋鞠盗�-国产喜剧" group-title="輪播catvod",�逋鞠盗�-国产喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODU2P2V4cD0xNzg2NDgwODEzJnNpZ249Yjc1OTQyMzhhOTJmNmE3YzFjMzc2MWUyNmZlZWU0NTExOGUyYzNjZDJiM2MzMDZlYTQwYjI3ZWFkMmI3NDhiMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735544" tvg-name="魔幻手机" group-title="輪播catvod",魔幻手机
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQ0P2V4cD0xNzg2NDgwODEzJnNpZ249Zjk1MmMyYTQ3ZTcyNjg1MWQ4YTlhZTcyYWU3NjM1ZmZmNWNiZTQ5ZDUzNmJkNjhjOTI3MjhmNmIyMzRlNGY4YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930964" tvg-name="孙红雷经典电视剧-二炮手" group-title="輪播catvod",孙红雷经典电视剧-二炮手
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTY0P2V4cD0xNzg2NDgwODEzJnNpZ249MmQxYzBmNTI0NDA3NGEwNTU0MzVhOWM5NDhkZTM3NTVjYWUzM2ZmNjczYjljYjk5OGFhNWUyZmFjNTY2OWNiYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382828770" tvg-name="angel" group-title="輪播catvod",angel
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODI4NzcwP2V4cD0xNzg2NDgwODEzJnNpZ249ZjdlYzUzNTA4NWY1Zjk5MGRiNmNlZmFhMzcyZjhhNGQ1ZDAxZjA4OTRkZThhYzcxMzk2N2FjMmVjNTY5ZjBiOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736814" tvg-name="少年包青天第三部" group-title="輪播catvod",少年包青天第三部
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODE0P2V4cD0xNzg2NDgwODEzJnNpZ249MGUxMzEyZDRlMjljZGMzZjg5MWRjNzk1ODRlM2YwZDMyMzlmZWVkZTZlYTBjZTRkZTM4M2UzMjEwY2YxOTgxMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851583" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTgzP2V4cD0xNzg2NDgwODEzJnNpZ249NjRmNTBiZDMxMjNjMTBjMzA1YTg2ZjFiYzhlNDYzNmE3OGEwZTA3NjUyZTk3ZWIwNjg5Y2IwNzEyN2U1MzkwZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382746276" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ2Mjc2P2V4cD0xNzg2NDgwODEzJnNpZ249NTU5YjU4MGJiNWFjMTU4OTVjYjJjYmUyNmQzYjhhN2ViZGIzZGFiZWRkYmZiY2M5OTNhMTJjMDkyZGZjMGNhZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354924839" tvg-name="洪金宝福星系列" group-title="輪播catvod",洪金宝福星系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI0ODM5P2V4cD0xNzg2NDgwODEzJnNpZ249NGQ5OWRhYjcwMzJlODVkNTE0N2UzNGU5ZGQwYTMzNjgxZWVhNzQ1ODBlZmRkNmU5MWQyZDY1NmI2NjEwZGViZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930939" tvg-name="法证先锋" group-title="輪播catvod",法证先锋
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTM5P2V4cD0xNzg2NDgwODEzJnNpZ249MDhlY2U4YjAzNDU5YmJhMzk5MDk3MDg1ZThkODAzNGNkMzVmMjA4OTY1NjU3NmQ0YWJlYzgyYjA3NzNlNzdkOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736875" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODc1P2V4cD0xNzg2NDgwODEzJnNpZ249Mzc3MTc5OGI3NzVhY2E0OTVmZGEwZDQ0MDFlMjY3YjA2ZWZiNWJmMDk4YWYzMDhhYTVhYWU0ZTBmNWUyZDFmMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735582" tvg-name="二号交通站" group-title="輪播catvod",二号交通站
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTgyP2V4cD0xNzg2NDgwODEzJnNpZ249NGU1YmFhMjg4NzgzNWE0ZGFjZDJjMjJiYmU2NmRjODEyN2M0ZjE4OTVmNDU2NDgyNjRjOGQ2MjQ3YzU3ZjUyMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851594" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTk0P2V4cD0xNzg2NDgwODEzJnNpZ249MzZmMzdjMTI0Y2Q5MWViOGVhMTM4ZWU2Njg1ZTg3MjljMmY2YmY2OGUyNWY4Y2QzOTZkNDRkMzQxN2ZlZjQzNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749900" tvg-name="寻秦记-穿越剧经典" group-title="輪播catvod",寻秦记-穿越剧经典
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTAwP2V4cD0xNzg2NDgwODEzJnNpZ249OTRlNTZkMGNjNDc2ZTNiYmQ5NzMyZjNhZDk5ZTI2NzAxZjg1MjE4MWRlNzc3MTY2YTU5ZmZiZjc2ZjVkYWEzNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735572" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTcyP2V4cD0xNzg2NDgwODEzJnNpZ249ODc0ZmM5Nzg2ODFiMmFkYzhhZDMwNWI0YTMzMDk0OWU5NDA5YmFjNjk4ZTRkZWM3M2U1ZGRkYzY0MTBiZjA0Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930932" tvg-name="三国演义【1994】" group-title="輪播catvod",三国演义【1994】
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTMyP2V4cD0xNzg2NDgwODEzJnNpZ249ZDRlMmVkMDZiM2UwNTQwYjU2NWE4MDAwNDNmODM3YjgyM2I3M2ZkMGZkMDcwNjEzNGMyNGYzODIzYjIzMmMyMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851601" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNjAxP2V4cD0xNzg2NDgwODEzJnNpZ249ZmVmY2VkMmI1ZTI2MjU3ZjU5Zjg3MDVhMDdkMWVmMzViMGQzYmEzMzI2ZDBlOGNhOGZmZWRlNGQ0YWJhMmQ3Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735624" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NjI0P2V4cD0xNzg2NDgwODEzJnNpZ249YTZkNDA5MGU4MWJhOWUyNDIwYzBlMjk4YzUzNjI1ZGE2ZTNlZWJlMjkxMGMxODFlODYyYjE2OWRmMTc1NDhkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931582" tvg-name="欢乐集结号" group-title="輪播catvod",欢乐集结号
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNTgyP2V4cD0xNzg2NDgwODEzJnNpZ249NjlkYmQ3NGU2YjdmMTFhMTZkZmU1N2YxMGViMTgxZTdjOWFkMmYwNDI3NjM1NGMyNmRiZGRjYjhhMTI2MTIxNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736885" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODg1P2V4cD0xNzg2NDgwODEzJnNpZ249YzZiMjdiMjNmMzY3NWVlMzg1MjhjMTY4MWE1NzExMTUwYmM0OTZhNDJjZTY3ZDMwNzVmMjVlZTJlMmNjMzQ0ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888728" tvg-name="金牌配角达叔系列" group-title="輪播catvod",金牌配角达叔系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzI4P2V4cD0xNzg2NDgwODEzJnNpZ249ZmI2YTk2NjhhNDVmNDE2ODk4MTA2YTlmMmQ4NzQzNWQ1YjZiZWJhMTFiOWVlY2MwMzkxYWFkOWQxMjA0Y2JmNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851582" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTgyP2V4cD0xNzg2NDgwODEzJnNpZ249ZWQ5NjIwOGVjYjQyYTFmNDMzODZjNmQ0ZjQ4OWUzMzA2MjIyNTk3ODcyNzMxMjk5ODg1MjY4ZmJjNmYxNDAxOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930965" tvg-name="二号交通站" group-title="輪播catvod",二号交通站
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTY1P2V4cD0xNzg2NDgwODEzJnNpZ249YmE2NDE2MTE4OGQ1MzlmNzVmNjA5N2NmYWE2MzkyNmM5NDVmZTk5NWEyZTY3MWU2ODBlOTQzOWFjOGQ4YmU5NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735570" tvg-name="谍影重重五季全" group-title="輪播catvod",谍影重重五季全
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTcwP2V4cD0xNzg2NDgwODEzJnNpZ249ZjNiMzM0ZWZhZDBmODJmYTI0ZGU5MGZkY2U5MDM5ZjNlOTdjZTU3Yjg4NzE1MzY3YjQwMzA2YWJiYjZjN2I1YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735541" tvg-name="情满四合院-高分电视剧" group-title="輪播catvod",情满四合院-高分电视剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQxP2V4cD0xNzg2NDgwODEzJnNpZ249YmU3YjM4MjJmOTM1ZWJkNjIzOWRkMjE3ODI1MmFjZWRlNzUwNzUxMzgwM2QzNWM3MTdiOGNkMjAwNWU5N2Y5Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354143966" tvg-name="我和僵尸有个约会" group-title="輪播catvod",我和僵尸有个约会
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0MTQzOTY2P2V4cD0xNzg2NDgwODEzJnNpZ249OGFmYjI5OWE4MzVhODFiM2Q0MzY2NjAzNWQwNmI1YjEzODJjOTJjNjAzOTMzZGFhZjdiZjkwNmFmMThkNzlhOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="21881901" tvg-name="知否知否应是绿肥红瘦" group-title="輪播catvod",知否知否应是绿肥红瘦
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yMTg4MTkwMT9leHA9MTc4NjQ4MDgxMyZzaWduPTdiMzQ0ZjEyMWRjYWRkNWE3MjFlNTgwYjYyYzM2MGY4NWRhOWE1NTUzYTM5MzhhOWVmNWJmYzJiMWFkMzI4YmE&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851137" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxMTM3P2V4cD0xNzg2NDgwODEzJnNpZ249M2FmZjc3Y2Q3NWE0YjIzOGQ0NGUxN2RhZmM3MzI1YjFkOTdkOTUxZGE2ZjIzNTliZjhiZGRlYzA4YTNiZGVmZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353753252" tvg-name="朵宝陪你看狄仁杰" group-title="輪播catvod",朵宝陪你看狄仁杰
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNzUzMjUyP2V4cD0xNzg2NDgwODEzJnNpZ249MTUyYjUyNWQwZDJhZDAzZDJkMWEyMDliYWFjZTBkNTRhYjI1NzNjYTI4NzlkMGI2NmI1ZjYwN2U0NTY1NDIzYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354490667" tvg-name="新白娘子传奇" group-title="輪播catvod",新白娘子传奇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NDkwNjY3P2V4cD0xNzg2NDgwODEzJnNpZ249YjMzZWY1YzkwY2EwMzliNDEyZDNhNGVhZmZkYTg3YjEzZmI0MjQwNmM0ZjJjYTM0NWU2NWYyODBkNzcyMzljOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735583" tvg-name="大台风" group-title="輪播catvod",大台风
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTgzP2V4cD0xNzg2NDgwODEzJnNpZ249NWUzZTE1NzZmNjNlM2RkZWFmYTM4ZmI5MjViYzllZGJmODYzYmJkMzVhZDNlMTNhZjA3YzEzYzA2NmEwNWJiMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736859" tvg-name="怪兽出没-大脚怪2" group-title="輪播catvod",怪兽出没-大脚怪2
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODU5P2V4cD0xNzg2NDgwODEzJnNpZ249M2IwZmVlY2M3NzFiMDY0ODVlMThiNDAxODJkNjU1YjYxZjE3MDI3NWJlZDA1Y2IxZmI3OGM5N2I3OGQ2MTIxNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354210357" tvg-name="83射雕英雄传" group-title="輪播catvod",83射雕英雄传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0MjEwMzU3P2V4cD0xNzg2NDgwODEzJnNpZ249ODBhOThiZTQ1NTc4YWY5OThkYjIzMTYyNjRhMzcyODRkNjI3ZWQ1MzFmZjg4YmU5MmU1N2E0ZWNlNDhhZGVkYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="29067083" tvg-name="少年歌行~暗河传" group-title="輪播catvod",少年歌行~暗河传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yOTA2NzA4Mz9leHA9MTc4NjQ4MDgxMyZzaWduPTk0NTZjZTlmOWZmY2ZjZTYyY2I2ODA5NDVlNTY4ZjExOWE2YzhlMDBlODZjZDY1Y2Q1M2I3OWM2NGYzODYyYzk&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1459869766" tvg-name="经典港片动作搞笑" group-title="輪播catvod",经典港片动作搞笑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU5ODY5NzY2P2V4cD0xNzg2NDgwODEzJnNpZ249NmQzZmMxZTIxYjkyYWRkNTAxN2NiOGE0M2EwNzZmODRlMzk2N2U5NzhiOWNhZDQyNTY5OWQ3Zjk0ZWQzZTFmNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355260662" tvg-name="薛仁贵传奇" group-title="輪播catvod",薛仁贵传奇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MjYwNjYyP2V4cD0xNzg2NDgwODEzJnNpZ249NDRhNWViMDYzYTBlZjNiZGMyNmJmMTY5MjFmODNjM2U4N2RkOTU1NjBkYzJjNzU2YWE4MTE4MzQ3YmJmODBmNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354768828" tvg-name="国漫动漫" group-title="輪播catvod",国漫动漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NzY4ODI4P2V4cD0xNzg2NDgwODEzJnNpZ249YzVkODg2NTVhY2Q3ODEwMzU4ZmYwNjNlZmM1NWJiYmE4ZDY4NDQ3YTA0YjBkNGNhYzdmYTY3ODA2ZTJmMjIwNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353392400" tvg-name="西游记后传 蓝光" group-title="輪播catvod",西游记后传 蓝光
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzMzkyNDAwP2V4cD0xNzg2NDgwODEzJnNpZ249MGUzMTQwZWE1YTg5YmJkMmMyYmVjZTQ0YjRhZmU5MjQ2MzYyYjdhMzA0NWY2OWI5MjdiZGM3MWVkNTgzNGM3NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745089" tvg-name="郝蕾演绎-情满四合院" group-title="輪播catvod",郝蕾演绎-情满四合院
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDg5P2V4cD0xNzg2NDgwODEzJnNpZ249YTllMTFmYmYyNTU5MTkyNzg3ZWZjNTdkMmQyNDY5OGViZTVlODc5MDJlYmYzODYwMmE3Y2U1YjgxNGU0YWFjMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382800083" tvg-name="【破案 悬疑 港剧】" group-title="輪播catvod",【破案 悬疑 港剧】
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODAwMDgzP2V4cD0xNzg2NDgwODEzJnNpZ249YmZkZmEwYjc4ZTM1MWZmMGMwNTA2NjlkZjQ3NDEwZDU2N2Y3N2Y0YWJkZGQ1NDcyMjJjODQzZTFlOGJiMzk4Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735564" tvg-name="我的前半生" group-title="輪播catvod",我的前半生
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTY0P2V4cD0xNzg2NDgwODEzJnNpZ249NjM4Y2NmM2M1ODZhNTM5ZTEyZGFhMDI5MGZkZWYwMTU3MzJmZTZjZDE3NTc1NGJlYWQ5YzhjYmIxMDVmYmFlNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1352946111" tvg-name="【靓剑】乐乐陪看" group-title="輪播catvod",【靓剑】乐乐陪看
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUyOTQ2MTExP2V4cD0xNzg2NDgwODEzJnNpZ249NjljMjZhZTExNWUxYmM1N2I4ZjAyNzg1ZDNhN2FiYTVkMmRmMDUzMDVlMDc2Mzg3N2YyMzcxZTFiN2UyNzE2Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382690406" tvg-name="新主播，求照顾" group-title="輪播catvod",新主播，求照顾
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNjkwNDA2P2V4cD0xNzg2NDgwODEzJnNpZ249OTFmOTMyNmMxYjZlNDM5OTFlN2FlZmI5ZmIwZDZjODViZjZmOWIxZmY4MTk2ZDgwNGEwZDUzYjkxNzAzYjBjMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382768483" tvg-name="士兵突击" group-title="輪播catvod",士兵突击
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzY4NDgzP2V4cD0xNzg2NDgwODEzJnNpZ249ZTgyNTY2ODQxM2RkNmM1MzI3ZmZkYjQxNDM3YjAzNmVkM2I0YTgxNjViYmYzZDkzZTY0NzA2ZTc0MGY3MTJjYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="23512910" tvg-name="弹幕天团 下饭神剧" group-title="輪播catvod",弹幕天团 下饭神剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yMzUxMjkxMD9leHA9MTc4NjQ4MDgxMyZzaWduPWY3N2JlNTI0NzEyNzczYjc2ZWM0ZDA2NDY4Y2E4YWQ0NTZjYjI0YTY1NzIzODFjMDFiNDMyNzM5MzRmMTYxMTc&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1463783198" tvg-name="鬼经典老片" group-title="輪播catvod",鬼经典老片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDYzNzgzMTk4P2V4cD0xNzg2NDgwODEzJnNpZ249ZGI0NzlhNWM2NWJkNjFjYTg5MGU5N2Q2ZWQyNTU4YmQwZWQzNWQzMDk2ZmEzMWExNTk1Y2M5YjM3OWMyMzdmYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353913646" tvg-name="唐朝诡事录3" group-title="輪播catvod",唐朝诡事录3
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzOTEzNjQ2P2V4cD0xNzg2NDgwODEzJnNpZ249ODAzNTY2MjU2ZDAyMmEwM2I4N2QxOTliNGM2YTNmZWQ2MGZmYzI0NmEyNGRhOWIyOWI5Mzc2ZDhjYTVmNTk4Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354952229" tvg-name="老妖鬼片" group-title="輪播catvod",老妖鬼片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTUyMjI5P2V4cD0xNzg2NDgwODEzJnNpZ249YWYzNDIxMTdlY2VhNmUwOGFhYjM2MGMyMWViMTMyN2U2MjkyOGUwMDUxYTM0MjUwMWM5Y2NlOGNmZGExMWEyOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="22701868" tvg-name="热度榜1.包青天" group-title="輪播catvod",热度榜1.包青天
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yMjcwMTg2OD9leHA9MTc4NjQ4MDgxMyZzaWduPWNhMTVhNjdiNzJkMmEyMTQzNmRlNDY3N2FkZmRjMzI2MjA1MjAyZDNiOGEyMjkxYzZjY2Y3ZTg0ZTUxYWY1MGY&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1459010966" tvg-name="神隐" group-title="輪播catvod",神隐
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU5MDEwOTY2P2V4cD0xNzg2NDgwODEzJnNpZ249YzQwYjUxNDBmMWYwZGU2YTE0ODY2ZWM4MTJmN2YwZWI1MmRjMGFhZjgyN2VmMzBkNmIyNWVkNWQwMGRjMjU0Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851415" tvg-name="【新三国】" group-title="輪播catvod",【新三国】
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNDE1P2V4cD0xNzg2NDgwODEzJnNpZ249NWFlYWI4MjA5ZjFjMzgxNTQzNmMwMjY3ZTgwNmNjZTYxNjgxNzAyNWEwYWY2NmFjMmY3ZWE0NDk0YTRkZGU2MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936241" tvg-name="三国演义94年经典版" group-title="輪播catvod",三国演义94年经典版
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjQxP2V4cD0xNzg2NDgwODEzJnNpZ249MWRhZmQyMDBlNTYzODU3YzMyODkyMjczNDViNTY1OGEyNjg0MTRmYWFiNDc0NmYxZDIwODRmNzE3YzZiNDg5OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735574" tvg-name="天道-9.2高分好剧" group-title="輪播catvod",天道-9.2高分好剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTc0P2V4cD0xNzg2NDgwODEzJnNpZ249NmY5MDAxNmUzNjQ3ODJhYzM5NDAxYjY3MDdkYzY4MDQyZmQyOTlmNGYyNTlhYmUzNDNkYTljNjlkNWI3Y2Q5Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382683959" tvg-name="赵本山《超清版》" group-title="輪播catvod",赵本山《超清版》
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNjgzOTU5P2V4cD0xNzg2NDgwODEzJnNpZ249OTBlMzEzNzE3MThiYzBmNWZiZDAzYjQ2NzJhMTFhNTQ2MzgwOWUyZWJhMjBjYTNhOGY2ZmFiMTg5NWZlYjdmOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736818" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODE4P2V4cD0xNzg2NDgwODEzJnNpZ249MjQ0NzFiMzc0MWU2ZThkNmY4NmNhNGMyMGQ2M2ZkMWQ1OTZmY2E1ZmQ5NzBlYmFjMTg1OGM1NjA1OWNlMDRkMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354933540" tvg-name="监狱风云2" group-title="輪播catvod",监狱风云2
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMzNTQwP2V4cD0xNzg2NDgwODEzJnNpZ249MWYwZGI0NjFjOTdlNTk2ZTFmYzkzYjkzNTgyNTc5MTI0N2M5NTJiODA5ZmRjNDlkOTY5NjQ1NzczYTgzNWRjMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936201" tvg-name="夏洛特烦恼-国内电影-喜剧" group-title="輪播catvod",夏洛特烦恼-国内电影-喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjAxP2V4cD0xNzg2NDgwODEzJnNpZ249N2Q3ZGFjZDBmZjMxOTZlZGY4OTM0YjY4OTJlMWE5M2I2NmI1NDk3ZjM4NjEyMjhkOGZhMjQ4MTA5NDU3NDM1Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736902" tvg-name="震撼！国内功夫大片" group-title="輪播catvod",震撼！国内功夫大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTAyP2V4cD0xNzg2NDgwODEzJnNpZ249NTA3MGFhODg1MTFhNWM3NTU0ZTA5MTMzZDhlMmVjZmQwZmRkMzljZDZiM2U5NzMzMWZlODAzNjgyZmQyMmIyNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932444" tvg-name="国内经典玄幻" group-title="輪播catvod",国内经典玄幻
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDQ0P2V4cD0xNzg2NDgwODEzJnNpZ249NzU0MWMzNWQ5Y2RhNzliYmViYmU4NjkzMzVlZWE5OGMzYTljMTUyNTgxZjJhOTMwMTkzYTI4MDljMzdmMGQwYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888751" tvg-name="成龙系列" group-title="輪播catvod",成龙系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzUxP2V4cD0xNzg2NDgwODEzJnNpZ249N2ViZTQwYWI0YjRlNjI2NjhhMWZkNjkzZDhhODgxYjNjOGE4M2Y1ZjRiMjUxMmJkYjMyOWYxMmYxZjliYTJhZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936198" tvg-name="你最爱的宋小宝" group-title="輪播catvod",你最爱的宋小宝
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTk4P2V4cD0xNzg2NDgwODEzJnNpZ249MjM0M2ZkZTczZTBhNDk2YzY2MjQwY2Y5NmRhNzljOTBmNWI1YTNmZDQwNzlhN2U0NGZhYTM1YTI4MDQyYWY4ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851600" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNjAwP2V4cD0xNzg2NDgwODEzJnNpZ249NDAwYTFmNDNkZTZlMDliNmY3YjAyZTk4Njk2MWVjODgwZDgwNzMwMTRmZDI3Y2I3YmE0ZTNiNDY4MmFiZWNjNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851589" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTg5P2V4cD0xNzg2NDgwODEzJnNpZ249MWJhMjQ4ZjViZDVhODdkZWQ3OWJkYmU2Mjg2OTlmMzA5ZDc2ZWY5YWUzOWUwNTVmNzhhZTE4YzcxYzg4NTdkNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851459" tvg-name="【新三国】吕布" group-title="輪播catvod",【新三国】吕布
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNDU5P2V4cD0xNzg2NDgwODEzJnNpZ249NzhmMDc0ZTYyZjEzMDY5ZmE5YWRhMmI1YTU1MmEzZjUyYmQzMzAzZjQzZGY3ZTYyOTFjOTRlMDRjMGJkMmJkNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936244" tvg-name="伪装者" group-title="輪播catvod",伪装者
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjQ0P2V4cD0xNzg2NDgwODEzJnNpZ249MjNkNTEyZGVhOTJmZTcyOTliN2RlNDg0MTc1ZjJkOTIwMTlhZDk2NzJiMDU1NTQzYThiOWU2NjJkZjJhZjYyOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851146" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxMTQ2P2V4cD0xNzg2NDgwODEzJnNpZ249YTE2NzkyMTdhNDhkMzJhZGRiZWEyZWM2OTJhMTQzNjIwNmI2M2E4MGYwNTJlNjNkMTBiYTIwY2M2NGY4MzBhZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851540" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTQwP2V4cD0xNzg2NDgwODEzJnNpZ249ZGQwNDEyN2RjODNjZDI4ODkwODI2MzgyNTJiYTBhNDcxZTBlYTM2NGUyZWJjZTcxMWY1YjA3ZDk2YjFmZmQxYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851457" tvg-name="【新三国】日版" group-title="輪播catvod",【新三国】日版
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNDU3P2V4cD0xNzg2NDgwODEzJnNpZ249MzA3NzA1MWVlODY2YTM5M2Y3YmQyMDZmOTQ0M2IyZDNmZGJjZjE1MTM2ZjYwZWNjMThhY2E5OTk2YmYwYmRiZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851577" tvg-name="欢乐颂" group-title="輪播catvod",欢乐颂
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTc3P2V4cD0xNzg2NDgwODEzJnNpZ249MzM4NjdhOWQyNDdlMDc1OThhZDdiZThkNmQ5MTQxMTA2NGNmMzU4NzBlMDA3YmE4YmZiMzhkN2ZlYjFhZmYzMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851591" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTkxP2V4cD0xNzg2NDgwODEzJnNpZ249YjhiNGM3ZGUyMWIwZThiYTEyZWYxNzgyYWFkZmM3ODBkZTJiNjc4NjU5MzI2ZjNlYWM5ZWQwMTQ2YzlmNmU3NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888726" tvg-name="华子系列" group-title="輪播catvod",华子系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzI2P2V4cD0xNzg2NDgwODEzJnNpZ249MDM5YjJkOTgyMjA4ODkyOWNlNmYxY2FiYWYzYjJlYTQ0ZTllMTFlZTUyNTEwN2JiMzZhMDU2YmI5OGE1OTAzMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932395" tvg-name="野山鹰-影视剧" group-title="輪播catvod",野山鹰-影视剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzk1P2V4cD0xNzg2NDgwODEzJnNpZ249ZTA3OTk1YTVhMzBlZWZiMTMyOTE1NGQxMzQ3ZDY3NmFhMmY0ZDcyMWI4NDlmMjkzMTZiZmE3NWJmMmI4YzU4ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354933535" tvg-name="单挑荒野第一季" group-title="輪播catvod",单挑荒野第一季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMzNTM1P2V4cD0xNzg2NDgwODEzJnNpZ249MDYzYzA1YTVhMGFiOTUzZGM3ZjU3MmU4MWQ5ZTAyNGQ3OTkzYWFhN2IzMGVjMDlmZjM1ZmUzNzcwNmZhOTcxYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735555" tvg-name="笑傲帮" group-title="輪播catvod",笑傲帮
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTU1P2V4cD0xNzg2NDgwODEzJnNpZ249YTFjZTA4NzU0Y2I5YmVhMTk4ZGIxMTU1MDBlOWIwOWMyYzM2MjE0OTIwZTkyYWUwMjM1Nzg3NzYwMjdlYjk1Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851585" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTg1P2V4cD0xNzg2NDgwODEzJnNpZ249OGE0MGU3MzEzOTQ4MjJlOTAwNDhlNGM5NzFmMzUxNTRmMDQ4YTUzM2FiZTNkZWRjMDUzOTU3N2Y1NDViYWU4MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736822" tvg-name="欢乐集结号3" group-title="輪播catvod",欢乐集结号3
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODIyP2V4cD0xNzg2NDgwODEzJnNpZ249OTBmMmM5MmNhMDRiNzBmYjkxYzMzNjk4YTYwZGU5NWNmOGIwNTUyY2UzNzdlODU1ZmJjOTU4ZWE5YTAwMjdlNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931585" tvg-name="国内高分悬疑剧-风筝" group-title="輪播catvod",国内高分悬疑剧-风筝
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNTg1P2V4cD0xNzg2NDgwODEzJnNpZ249ZTMxYzM4Mzk4NzkwODVmOTU1MjMxYzZkZTRiODFmNTY4YmEyYTIwZThjMzQyOGI5NzNmNDE0YjJlMTY2MjU1MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932433" tvg-name="亲爱的热爱的" group-title="輪播catvod",亲爱的热爱的
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDMzP2V4cD0xNzg2NDgwODEzJnNpZ249NmJmMGNkNDE1NmE0OThlZDY5OWZhNjVjYzUxYjU1ZDVhZjA5NWFiZTcyZjQzNmEyNjgwNGY3MDRmZjYwYTcwMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736888" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODg4P2V4cD0xNzg2NDgwODEzJnNpZ249OWY4YzUzYmY1Y2I0ZWU0YTU1NDAzMzJjOTBmNzEyZWNhZGIzNmE2ZjNiZTU2YmE1NWE4YjFkY2ViNDA2OGRjYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851599" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTk5P2V4cD0xNzg2NDgwODEzJnNpZ249Mjc1MWJlNzU4YTM3OGZkN2FmODYzNmI5YjhlOTAyNjgxYzQxOWEyMGE2YTczZTE0ZTA0M2RlYzMzOTdhOWVmMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851579" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTc5P2V4cD0xNzg2NDgwODEzJnNpZ249ZDk2N2YzMTA1MjY5MzU1YTE0MjEzZWVjNDVhM2Q3ODE5ZDE1MGJiMzFhZTA1NjJiZGYzZWVmZDNjNzMzYzQ2ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736879" tvg-name="大明王朝" group-title="輪播catvod",大明王朝
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODc5P2V4cD0xNzg2NDgwODEzJnNpZ249ZmNhYmJhNjkyZjAzOWE0NGY0NWJhMDMyMGFlNGE3NzkzMzBkMTcxNjcyNzQ5NWI2ODgwNjUyYjZhMmZlYjE2Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382741640" tvg-name="一段关于救赎与坚守的西部传奇" group-title="輪播catvod",一段关于救赎与坚守的西部传奇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQxNjQwP2V4cD0xNzg2NDgwODEzJnNpZ249OTc1MjdiNGJmYmI0YTQ1Mzk4OTQwY2Y0YzFkMzI1ODE0NTYwOGYzZWU2NGFjYzE3M2ViNjUzMjUzNDAzMjE0Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735579" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTc5P2V4cD0xNzg2NDgwODEzJnNpZ249NGI2ODIzZTYzMTU0ZjllNzI1OTcyYjgwZTRhNGIwYTNmNTM2Yzg5OTNlYTgwYzc0MTEyZDhjNDhmMmY4YmI5NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926537" tvg-name="刘英岁月" group-title="輪播catvod",刘英岁月
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NTM3P2V4cD0xNzg2NDgwODEzJnNpZ249MmFjZjBmMjQwNjVjMmVkNGZjMmYxYmMxNDU3MGFlMTkwMjZmNTQxODdmMDU0ZTdjYTI0NGEzNDU2ODAwMmMxZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749525" tvg-name="恐怖冒险墓穴" group-title="輪播catvod",恐怖冒险墓穴
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5NTI1P2V4cD0xNzg2NDgwODEzJnNpZ249N2M4ZmY5ZGE2MzRmZWNjMmM5Zjg4NzRiZjAxMzE0NjY3OTg1NmExMGZlMDBmNjdjMDk0NzBiM2QyNmVmMGI1OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355171231" tvg-name="老九门" group-title="輪播catvod",老九门
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MTcxMjMxP2V4cD0xNzg2NDgwODEzJnNpZ249OTVlY2RiZGE4ZmIzNmY2MjQ3YTBkNjY2ZWIzZGMxMzU0OWIzYTYxOGRkMmJjZjNjMGVlNDcwZTM3MmJkYjljOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356158015" tvg-name="古装剧" group-title="輪播catvod",古装剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MTU4MDE1P2V4cD0xNzg2NDgwODEzJnNpZ249N2EzN2M0YWMwZDJjZWI4NTI5ODk0ZTIxZWZiZTk4YTljODU1NTYyM2Q2ZGQzNDI0YmM1MDg3YTc1OWY1Yzg0Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736845" tvg-name="中国味道 第4季-美食纪录片" group-title="輪播catvod",中国味道 第4季-美食纪录片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQ1P2V4cD0xNzg2NDgwODEzJnNpZ249ODkzYTkwYjg0Mzk5NjZmNzk3OTUwYTdkYjZiZTYwYzgwMWM2MDI2M2RjZjlkNzk1MTQzZTY5MGYzNWQ2YTJlYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736848" tvg-name="情满四合院" group-title="輪播catvod",情满四合院
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQ4P2V4cD0xNzg2NDgwODEzJnNpZ249YjU2ZDY2ZDIzMjQxYzJiNTM3OWM3ODY3ZWI3YTk5NjMyYjYwOWVkZmJmNDU0OTEyM2FkMDc0NjczNTM4NTBhZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1459675153" tvg-name="动漫《火影疾风传》" group-title="輪播catvod",动漫《火影疾风传》
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU5Njc1MTUzP2V4cD0xNzg2NDgwODEzJnNpZ249NGJhYjdiZWI0Njg4NGM4YzJkMDNkZDVkOThjYTVlYTMzNDYwNzEwYzFmN2UwMmEyNjBlMTZlMWNhNjJmYTM1NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354282410" tvg-name="侠客行" group-title="輪播catvod",侠客行
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0MjgyNDEwP2V4cD0xNzg2NDgwODEzJnNpZ249NjhmNzZlOGEwNmNiYzI1MGRhMTRhNzI2NDU5Y2E5MzAyMDc5ODM4ZTUxYWU0ZmVmNzFjMWRmMjA1YTI2ODBhNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356243352" tvg-name="8090年的热血与回忆" group-title="輪播catvod",8090年的热血与回忆
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MjQzMzUyP2V4cD0xNzg2NDgwODEzJnNpZ249ODIzNjdkYWY5YzZiZjc0ODJkODczNWFlNmY0YTk2OTQ4MTcwMzI3MDBiMjA2YTljMzBmZmJlYjczY2UxYjMyYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355112116" tvg-name="赌神 港片 喜剧" group-title="輪播catvod",赌神 港片 喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MTEyMTE2P2V4cD0xNzg2NDgwODEzJnNpZ249NmYwMzQ2YmE2YjIzNWU2ZjgxYWU1NDk0OTExYjIzYmU1YjQ3OTYwY2RmZTY5YjU0NjY5Y2RiN2JhZGVkNmU1ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930961" tvg-name="张国荣与周润发的兄弟情" group-title="輪播catvod",张国荣与周润发的兄弟情
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTYxP2V4cD0xNzg2NDgwODEzJnNpZ249ZmM0YzAyYWYxMzcwZmRhZWM4MGM3MDFjMzBmYjZlNDVlODUyODU5MGZlNDU0ZjljMWJiZjE4Zjk0ZjYwZGEzNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354768831" tvg-name="斗罗小舞 正在直播" group-title="輪播catvod",斗罗小舞 正在直播
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NzY4ODMxP2V4cD0xNzg2NDgwODEzJnNpZ249YmZhOThhMmRkMzliYWViNTQzNDVmOGMzNTMwYWYwMGUzNmUyNGM3YzNiMzQyNzljNWIxNjQwYmI1ZGYwM2M2NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1351537467" tvg-name="没大哥求VP" group-title="輪播catvod",没大哥求VP
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUxNTM3NDY3P2V4cD0xNzg2NDgwODEzJnNpZ249YThhMjFmMDFhNjQ1MGZhOGRkZDI4ZmQ5NjViNzNmZGYxZWMzMGJkN2RkOWEzN2RhZGUxN2MwYWMxY2JjODkzNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736803" tvg-name="变形金刚" group-title="輪播catvod",变形金刚
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODAzP2V4cD0xNzg2NDgwODEzJnNpZ249OGIyNjc0ZWQ5YWI2NzYwZjRhOGIwY2IzOTRhNWJmZTY4MGExNWFiOTRkNTFlZjlhMGMyODdhNjRmNTczZWI2Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="79382500" tvg-name="好先生" group-title="輪播catvod",好先生
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS83OTM4MjUwMD9leHA9MTc4NjQ4MDgxMyZzaWduPWVlMTBhOGNlM2I1MDg2NzgxODdjZGY4ZGYxNTFmNzllM2Y3YjZkZTc4MWYxNDdiYjQ5MWYxODgzZGY3ZmY3MTM&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1394000563" tvg-name="《武林外传》武侠" group-title="輪播catvod",《武林外传》武侠
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzk0MDAwNTYzP2V4cD0xNzg2NDgwODEzJnNpZ249NDBiZDQ2NDZkNzM4ZmQxOWQwMTNlYzYzZTcwNWE5OTAzNGM5M2RmNjc1Y2Y4MGY4NTY4YTA5OTFhYmE5Zjc4OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749895" tvg-name="经典大片合集" group-title="輪播catvod",经典大片合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODk1P2V4cD0xNzg2NDgwODEzJnNpZ249NmM3OTE0NGMwOTA2YWE5ZjdkNDA2NmMzYjk3MDJiMjE2ZjRlNTZiZGQxYWM2ODA1MjljNmUxMzhlYmExZmZjYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1420843376" tvg-name="精彩动漫" group-title="輪播catvod",精彩动漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDIwODQzMzc2P2V4cD0xNzg2NDgwODEzJnNpZ249ZTViZGFlZTA3ZDYzYjVmYjc0NDA2MGY4YzQwNjk2OGZmZjk4NTQ1NDE1ZGFkNjUzY2ZlZTI0YzBhNzg4MzQ2ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736860" tvg-name="神厨小福贵" group-title="輪播catvod",神厨小福贵
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODYwP2V4cD0xNzg2NDgwODEzJnNpZ249ZmUwNjJiY2Y3OTk5ZWNkZGQ2NTY1ZTUxOWU5MzFjZTNkNjdlMzcxN2M5YWFlZTEzNDgzNDExMmMzOWU5YWZlMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1394156613" tvg-name="《石敢当》六耳猕猴" group-title="輪播catvod",《石敢当》六耳猕猴
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzk0MTU2NjEzP2V4cD0xNzg2NDgwODEzJnNpZ249MmQ3ZGNkYTA5ODk5MmRhYjQyZjQxZWQ3ZTBiZTYyOGRmZmZlOWMyODE5ZDFhMDBlODdhMDg0NzUxZmVhY2I3Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355532933" tvg-name="欢迎光临" group-title="輪播catvod",欢迎光临
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1NTMyOTMzP2V4cD0xNzg2NDgwODEzJnNpZ249ZTk2Y2U5YTk5NjMyMTk3YjRiYjJmYWZhNzJlYjdlNGYzYWQ5YmRkYjMyM2Q5MjBlMjk0MGFmN2Q4ZGY4ZDgyOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382773686" tvg-name="战狼10086" group-title="輪播catvod",战狼10086
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzczNjg2P2V4cD0xNzg2NDgwODEzJnNpZ249OTg5MzlkOGQ5ZjM3YzYwMTYwZDZjMDY3NjkxZjczYWJlNzQ5MmZmYjg1NTM4NDYxZWNkYjk4MTI2ODJjMDNlNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851593" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTkzP2V4cD0xNzg2NDgwODEzJnNpZ249YWY4MTc5MjgzZmVlMzMwZDg1NGRhMzA4YzkzNjAxNzZkMTliNWIyMGNlZGU1MmMwMzFkYjI1ZDk4MmJiMGM4NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736873" tvg-name="精武英雄-李连杰主演经典动作片" group-title="輪播catvod",精武英雄-李连杰主演经典动作片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODczP2V4cD0xNzg2NDgwODEzJnNpZ249Y2ZjYzlkYzAyYjU2OTZhNjA2Yzk0MjhlZDI0YTQ0OGIzNmI0Zjk3NmM1ZDJjOTI4Zjc0MTU2NmViYzQyM2JlNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736838" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODM4P2V4cD0xNzg2NDgwODEzJnNpZ249MmU2MjUxNjRhMmY5MWNjZmU2OTc4ZmVkN2UwMjY4MjVmODI1MjBmZDhlMWFjMmVmYTM1MTY2MzY3NzNhZTE1Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736810" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODEwP2V4cD0xNzg2NDgwODEzJnNpZ249Y2EyODU2YzRhNjVhMjhkNzZiM2M4YjM3NDU5MjQwNjIzZmQ3NGE1MWY1N2IxZjkxZTM3MmYxY2MwMzAyOTUyYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736843" tvg-name="智取威虎山" group-title="輪播catvod",智取威虎山
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQzP2V4cD0xNzg2NDgwODEzJnNpZ249ZjQ0NDE2ZjU0ZDhjODE1NWY2MjViZTRjNmMxNGNkODViMjZiNzcyNjgzYTdiZDRlNTZjNGFhZmZkNGM1MjVhZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745083" tvg-name="大进军全集：红色系列电影" group-title="輪播catvod",大进军全集：红色系列电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDgzP2V4cD0xNzg2NDgwODEzJnNpZ249MGJjOGFkMGFlZmRhZDJkZmZhMTQ5YTc5NTQyOGVjMDM5YmUzNTJmOGMwZjQwYjBhMGJjNjAyZmFlODk1Njc3Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851590" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTkwP2V4cD0xNzg2NDgwODEzJnNpZ249MjU3YWM2M2JjYmQzYjRlODhjMzZiM2FkZjVkYTEwNDQwYjk1OTQ2MzQ4N2NjNjU1ZjQyN2I5ZmJhZDE0ODNiMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932438" tvg-name="甜甜的恋爱 这狗粮我吃了" group-title="輪播catvod",甜甜的恋爱 这狗粮我吃了
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDM4P2V4cD0xNzg2NDgwODEzJnNpZ249NjQxOGMyM2ZjMjQyZTY4ZmNlYzA5MDI0NGVjY2FhNTU4M2NlYmU3ZTg2ZmU3OTY0NTQ5YjFmNWI5OWQ1NmRhMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930969" tvg-name="新白娘子传奇-女神赵雅芝" group-title="輪播catvod",新白娘子传奇-女神赵雅芝
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTY5P2V4cD0xNzg2NDgwODEzJnNpZ249MWQwYTQxMjM1NDE5ZGM2MjVjZWMwOWI1NTdkMThlZGRkY2JmNDg4YmJkMjYzNWYwYTZiMzFiNzk0MzZjOWVlMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749892" tvg-name="速度与激情全集" group-title="輪播catvod",速度与激情全集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODkyP2V4cD0xNzg2NDgwODEzJnNpZ249YTZmMmUyZTM5ZGM3NGUxZTk2NGJhMmZhZmVlN2VlNDk0YzE1OGNhODNmYmViMzQwMTljZGI3MWE4ZDk3NTIyZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736846" tvg-name="西游记后传" group-title="輪播catvod",西游记后传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQ2P2V4cD0xNzg2NDgwODEzJnNpZ249NzAyMTQzNmY4NTExZWQ3ZmZjODVmOTZhZjUzZTA2YWU2ZmUyYjBjMTgyZTVhMjA5YThmMzAwMjE1YjNhMThhOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382744423" tvg-name="甜宠KIKI" group-title="輪播catvod",甜宠KIKI
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ0NDIzP2V4cD0xNzg2NDgwODEzJnNpZ249ZjkwYzBhOTY2NThjMGU0YWMwMDU4M2RkZGM1MjUwNDFjZDM4MjhkYzZkNmFmZTI4NTFlMTA5YTRiY2NjMzdlNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889044" tvg-name="赌神-发哥" group-title="輪播catvod",赌神-发哥
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDQ0P2V4cD0xNzg2NDgwODEzJnNpZ249YjgxZjE0NDIwNTE3NmYwZDBjOTYyOTlmNDYyMWI1ZDQ4ZThjNDZmZmMxMTQyNTM1NjY5MTEyODRkMTk0NzZjZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851148" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxMTQ4P2V4cD0xNzg2NDgwODEzJnNpZ249MWMxNDE3NDFiNzBlMzM4ZWNiMDNlZmUwZDZjNDk1MTc2NzVjOTI1NzhlOGFkZDczNzEwNWQzNjdkYzEyNWVlNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745169" tvg-name="我的体育老师" group-title="輪播catvod",我的体育老师
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTY5P2V4cD0xNzg2NDgwODEzJnNpZ249Mzg1NTg2ZGI0YjNjMTIyM2QyMTczOTQ4MjYzYjJhYmU1OGNkNWUyN2FmYWU4MGU3OWI0MTkwYjI1OWM4ZTE1NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736911" tvg-name="速度与激情系列！-精彩大片" group-title="輪播catvod",速度与激情系列！-精彩大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTExP2V4cD0xNzg2NDgwODEzJnNpZ249YTIwY2Y2YTE4MDI3NmQ1Mzc5MjI4ZjkxYzFjYmZlYTU1NDViNzllMjEyYzNmM2M4MGM4NTNjMTcyZWNhYTBkZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736900" tvg-name="院线动作大片" group-title="輪播catvod",院线动作大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTAwP2V4cD0xNzg2NDgwODEzJnNpZ249NjRjNjI2MjZkZjk1YTBkYjcxM2FkM2U3NTBhNWZmNDEyY2YxZTdlMDQxYTUxOTUzYzJlMTAwNzdjMGQzODY0NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932359" tvg-name="陪你一起看好剧" group-title="輪播catvod",陪你一起看好剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzU5P2V4cD0xNzg2NDgwODEzJnNpZ249ZGRlYjk2NWI3ZTQ4YjVhYWZiYjYxZTkxZDJjMDYwMGU0MjBkYTBiYmQxZDY5NmExOGZhODE4ZWFiMzdmNjU1Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735626" tvg-name="灌篮高手" group-title="輪播catvod",灌篮高手
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NjI2P2V4cD0xNzg2NDgwODEzJnNpZ249ODMzN2NhZDAxNWMwNTk2ZTJiODA3NGI2NDUyYzFjYjVlMWExNDM1YTQwNGI5MTEzYzE3M2NiMjhiNzc4OTg4OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745171" tvg-name="妖神记" group-title="輪播catvod",妖神记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTcxP2V4cD0xNzg2NDgwODEzJnNpZ249MmVjYmMyZTgwZDQzMTc5NmRiMGFhZmVjYmYxYWFlZTE1ZGYyNTljZDUzODkyOTg0NjlhNmY2MzkzZjUxN2U4YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658048" tvg-name="回家的诱惑" group-title="輪播catvod",回家的诱惑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDQ4P2V4cD0xNzg2NDgwODEzJnNpZ249MDYxMTBiMmZjZGIzMmUzN2E4ZDNlY2E4OGFiY2NlYTlmNzcwZjAyNWQyZGRlNjRhNTg0NWExNmU3OGU2Nzg5Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930233" tvg-name="漫威十年老粉福利来了" group-title="輪播catvod",漫威十年老粉福利来了
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMjMzP2V4cD0xNzg2NDgwODEzJnNpZ249MThhNTAwNmMyMDJkNjhlNmQ1YzRlMjJlMjU1ZThiM2YxZGI4YzRkNDI1YTVjMTY2ZWE2MTI0MDA0NjA0MTExNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658043" tvg-name="回家的诱惑" group-title="輪播catvod",回家的诱惑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDQzP2V4cD0xNzg2NDgwODEzJnNpZ249YTZhM2JjYTQ0N2NmODE2MTI0MzM5MDkxYTdlZDJmN2FjNGMyNDA1N2ViYWFlZjEzNjA4YTg5ODliNjc2MGQ5Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851541" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTQxP2V4cD0xNzg2NDgwODEzJnNpZ249N2FlZTJmY2UwNjI5MmFkZTJmNGJhOGE3YmE3ODM4ZDgxYzY2NTBhYzE2MzEzYTQ1NTVhNmExNTgwODI3MzMwNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930976" tvg-name="来自星星的你" group-title="輪播catvod",来自星星的你
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTc2P2V4cD0xNzg2NDgwODEzJnNpZ249MzRlZGE2ZTU1M2MzYTBkOTg3YWMwYzFiY2Q2Zjg0M2NmNzU2Y2EzM2Y3OWZlMjczNGM2YTE4NTViMGRhODU2OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736886" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODg2P2V4cD0xNzg2NDgwODEzJnNpZ249YTVkZjVjZTk1ZWFkNWU5NDUyMTU2ZmMwYzc1MjY4Zjc3MzRmZTMxNGUyOThlNTY2YTA5NjdiMjNhZjBiNGRlOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926666" tvg-name="宫锁珠帘" group-title="輪播catvod",宫锁珠帘
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjY2P2V4cD0xNzg2NDgwODEzJnNpZ249ZjE1ODE0OTFjYWYxNzc1YWNjMDRiMGQ3ODUzYzk5NmRmZGFhN2M0MDVkZjQzMzgzNDY0MWIyZDg5MTIxMmMwYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736910" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTEwP2V4cD0xNzg2NDgwODEzJnNpZ249N2I5NDYyZWE5ODI0Y2M3YjBlZWEzNmM1ZjNmZDMyMDAwMmRhZjViOGFjMjI1YzgxMTdhMzZmNWVmYTFmN2FkNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736890" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODkwP2V4cD0xNzg2NDgwODEzJnNpZ249ZmJlYTY4YTAxZTNlODQyMWU1OWU1NzVlODcxMjNiNjY0YTBkYzFlN2Y5MjhmNzk5ZGRiNTYxYWJkMTk2Mjg4Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735551" tvg-name="妖神记-全集" group-title="輪播catvod",妖神记-全集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTUxP2V4cD0xNzg2NDgwODEzJnNpZ249M2IxM2QzYjIzOWNkMDFjZmJjMzEzMTkyZTlkYzgxYjkxZDIwZjIyYzIwZDI5ZjJhNmE5NzU1ZWI5ODY3YjQ0NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930926" tvg-name="欢乐一起看" group-title="輪播catvod",欢乐一起看
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTI2P2V4cD0xNzg2NDgwODEzJnNpZ249YzkxN2M3YmVjNTU4YjhkMjFkM2Y1ZWExYjQyOWI2NjE3ZDVhNjg0M2I0YzMzNDg1ZjA1YzAxMTVlMTY4MWFiZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1459243913" tvg-name="啊咧" group-title="輪播catvod",啊咧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU5MjQzOTEzP2V4cD0xNzg2NDgwODEzJnNpZ249ZWJkYjdlNTY2Nzc4MzgxODgxYjRjZjE2NTQwNDgzMjA3ZTY4NGE3NTQ4Yzk3ZjQ1NjRmMDQzNzFhNDcyMjlkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851578" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTc4P2V4cD0xNzg2NDgwODEzJnNpZ249ZDc1Zjk3OTU3ODM0NzdiNjZlMDlmN2E0YWUwOTA0ZmQ0MjVmNGY2ZmZmNmY2ODg3OTdiMzRhMmM0MzZlMWEwNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932355" tvg-name="这部剧你居然没看过？" group-title="輪播catvod",这部剧你居然没看过？
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzU1P2V4cD0xNzg2NDgwODEzJnNpZ249YTk1N2FiYWIyMDNmZTA3NDI1YWIyMTk1YWVhNjAxNTY1ZjJkMDdiMzU1NjY2ZDAxM2U5MjNlOGFkZGU0MjE5ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736871" tvg-name="电影百团大战" group-title="輪播catvod",电影百团大战
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODcxP2V4cD0xNzg2NDgwODEzJnNpZ249ZmZmNzI4NjdmNmUzNzIwMDIzNjcxMjQ2Y2FkOWQ4ODZlOTVlMDg1NTk5ZDUyNGViZGRiNjVhODkwZWI3MGE3Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658062" tvg-name="强悍“杀猪婆”的励志人生" group-title="輪播catvod",强悍“杀猪婆”的励志人生
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDYyP2V4cD0xNzg2NDgwODEzJnNpZ249YzhkMTcyMjFlNmE0ZjE3NWQxOTJjMjc3YzU4NjRiNDFiMzNhMDZlZTk4ZGY4NjAxYWE3YjcyOGU2Yzc2M2U4Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749901" tvg-name="炊事班的故事" group-title="輪播catvod",炊事班的故事
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTAxP2V4cD0xNzg2NDgwODEzJnNpZ249NjhiYTUwZmZiYWFkODE5ZWMyODMxOGJhYTgyOGNmOTFkZjY4NmQyMzNhMzQ0MWUwNGQ2MDY3YzBmZjM5ZDM2ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936239" tvg-name="憨豆先生-经典喜剧" group-title="輪播catvod",憨豆先生-经典喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjM5P2V4cD0xNzg2NDgwODEzJnNpZ249ZTAxMDMwMWE0Yjg0OGFhYmZiZmJhYjIyNTZmZjQ1OWUyY2U4YTk3YjNjMzk3Zjg0YWRkNWNjYmQxNzAyMjEzZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889024" tvg-name="你的回忆有我吗" group-title="輪播catvod",你的回忆有我吗
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDI0P2V4cD0xNzg2NDgwODEzJnNpZ249MjZkNDZjYzdhZWJhZmVhNDMwOGJmZjgyOGY3MWU5YzkyODU4MzIwNGZjYjc2OGExMjMyN2UxMTI1NzMyNGYyNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745085" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDg1P2V4cD0xNzg2NDgwODEzJnNpZ249MTNjY2QyMjE0NWMzN2YxYWY4NTAxNjYyNzE2Mjg1OThmZTk1Yjg0MjdmNTczZTdiNTU3OWI2NWViZTY4ZGY0MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745121" tvg-name="陈情令" group-title="輪播catvod",陈情令
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTIxP2V4cD0xNzg2NDgwODEzJnNpZ249ZWQxZjZiOGZiMjhkZTJkZWRiMGY5NjJkZjBmY2YxZDE1MjUwNzQyNTVlZDg2ZjZkZWE2YjJmMmZkZWJmMWQxOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745114" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTE0P2V4cD0xNzg2NDgwODEzJnNpZ249YWY2N2I5OTM0OGMxODk2MGM4OGExMTJmYWZhZjU1MWRhNmE5ZGM3YTI5MWRjMTdmZTZhNThhMzBlOGRjNGQxNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736805" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODA1P2V4cD0xNzg2NDgwODEzJnNpZ249OTE3ZTNmYWU2MmJjY2NkMGM5ZmIxMDBiODc4MzFjNDhiOGI1NjAzMzA1ZDczOTU0OGUxNDZmMjFhMWM4NjI4NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736842" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQyP2V4cD0xNzg2NDgwODEzJnNpZ249ZjlkY2ZkZTg5MjhiYjVkZDZjOTVlZDQ1ZjQ0YTUwMDE1MzhkZjJlMWUwMGNiOGViMDBkYmQ3NWZlZDI3NDJhMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736876" tvg-name="真心想让你幸福" group-title="輪播catvod",真心想让你幸福
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODc2P2V4cD0xNzg2NDgwODEzJnNpZ249ZTRhNDYwMTQ3MTNlZWFmYjQ0NTkyMmY2MTBjMzY1OTk3ZjQ0MGUyYWFiZDk3NzIyOGNjY2Q0YWU0NTNhNTNhNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888671" tvg-name="周星星系列" group-title="輪播catvod",周星星系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NjcxP2V4cD0xNzg2NDgwODEzJnNpZ249NGI4NmZjN2JlMGVjMzc2NjlhNmIxOGNlMzAzMjM5NDczN2NhYTdkMjAyZDk1YWNlYTUzMDE1MDQxMTE0MWVkYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736717" tvg-name="密子君" group-title="輪播catvod",密子君
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzE3P2V4cD0xNzg2NDgwODEzJnNpZ249YjA4MGM3NzViMDAyM2ZhMTIzY2Y0MTNiMDhmOTNhNWRmYzgzMTQ5ZjQwMGIyMjA2N2Q4OGM0NDQzNDhiOTZjOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735550" tvg-name="欢乐集结号" group-title="輪播catvod",欢乐集结号
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTUwP2V4cD0xNzg2NDgwODEzJnNpZ249ZGRhMTQ0MjNiNDE2NTY1YmE5Y2EwZTYyZWM4ZGQ0ZWQzZWRkOTk5NGVlNjE1OWMxZmJiMDQxNjE5ZTkzMjE0Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735569" tvg-name="大汉贤后卫子夫" group-title="輪播catvod",大汉贤后卫子夫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTY5P2V4cD0xNzg2NDgwODEzJnNpZ249ZDhiMzczNzk0ZTBiZDNmMGYyNGFhOWEwZTliODNiMzlkYTgyZTY0YzFhMWQ2MGVhOTYyY2M0ZjFiNTk3YWEzZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736975" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTc1P2V4cD0xNzg2NDgwODEzJnNpZ249Y2U2NTgyYWE0MDA0MjMyODA1NDhhNzVmZTI0NWQwOGYzMmZhZTY2NTc0ZjBhYjYxZWVjNThiNWUxNTZkOTQ5MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1370293254" tvg-name="保护我家蓉儿" group-title="輪播catvod",保护我家蓉儿
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzcwMjkzMjU0P2V4cD0xNzg2NDgwODEzJnNpZ249Nzg2OGYyMTBmZTU0ZWUwZmFlNWJlNWU0Njc5MDYzMzMzYmIxNTdmOGYzY2Y1NTQ4ODdmN2I2Y2NhMjAwZjRlOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735578" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTc4P2V4cD0xNzg2NDgwODEzJnNpZ249NTRiYmZiYmJiMTA1MjIyY2EwNWZkYjg1NTNkYWNmYjY2ODliZDI2ZmFjZjk0NWI0YTYzMjljMzlkOWMxOTM1Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735553" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTUzP2V4cD0xNzg2NDgwODEzJnNpZ249MThhYmQzNzg2ODdlMzNlMzFhMGFhMTk3NjE2ZTBkZDY5NTM4MWYwMTA5ZmE0OGZhMjVlNGM4ZWM5NDAxZDg0Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932390" tvg-name="无敌县令" group-title="輪播catvod",无敌县令
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzkwP2V4cD0xNzg2NDgwODEzJnNpZ249Y2IzMWQ2NjA0NzE0NjA3ZDE1MGJlMjRlMTgwMmQ1ZDY0ZmUyZjA3MzVlYTZjOGI4MmZmZDFhZjM3Y2JlOTMyMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735567" tvg-name="穿越时空的爱恋" group-title="輪播catvod",穿越时空的爱恋
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTY3P2V4cD0xNzg2NDgwODEzJnNpZ249ZDdmM2E1MjM2ZGY2ZWJhMDVlZDU4N2RhN2JjOTIyYTE0YTRjNjc1ZjczYWMzNzgzNWI0OWI1OTJjNDBhNzBhZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745105" tvg-name="哈利波特全集" group-title="輪播catvod",哈利波特全集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTA1P2V4cD0xNzg2NDgwODEzJnNpZ249YWUzY2Y3ZmY0NTc0MzVlZTdkY2JjZjcyMDExNmU5ZWE0ODY5YzYxZmIyNjE0NTZmMDFlN2I5ZjhkNDc2MmJkMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926542" tvg-name="粟裕大将-影视" group-title="輪播catvod",粟裕大将-影视
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NTQyP2V4cD0xNzg2NDgwODEzJnNpZ249OTJjNWIyOTdmOTAyZjZlNjdkODM2ZWM2ZTIyZTk1ZmFlNzVmNDFkOWE2NDY4NzEzZWE0NWZiMWVlODZlZjkyNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851598" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTk4P2V4cD0xNzg2NDgwODEzJnNpZ249YzAyYzRjNTA5YjU1ZWI1N2UxZTUzZDExYzE2YWUzZWYyMzMyOTM1ZWY1OWI0NTc2YTQxNDA3NjBkOGNiNzI4NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930891" tvg-name="无厘头的出处" group-title="輪播catvod",无厘头的出处
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwODkxP2V4cD0xNzg2NDgwODEzJnNpZ249YmFmNDE0ZmVmNmRlMDYwMGE4OThlZmUzMDM5ZjJmNGY2NzBkYWVjY2IwOWJhODUzMTcwNzA3ZmJiYWI0MjQ3MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745116" tvg-name="最美的青春" group-title="輪播catvod",最美的青春
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTE2P2V4cD0xNzg2NDgwODEzJnNpZ249YjgzYTdhZTA1YTNlOGZmMmExMTVhYTA5MDY5ZmRkZjkxMDg1NmM4Yjc3YjQ2ODMzM2U4MjQ2MTRmZWY2ZWQ3MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851524" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTI0P2V4cD0xNzg2NDgwODEzJnNpZ249YzEyZmY1OTUwZDA1YTE4NWZkOTI3NjAzOGNkMmM2MTllMDMyNGQzNzhhZTZkY2M3OTljZDJlZGUzYWFjYmZmMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735543" tvg-name="有趣的小姐姐" group-title="輪播catvod",有趣的小姐姐
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQzP2V4cD0xNzg2NDgwODEzJnNpZ249M2U2ZWJkZTljMTBlYTg3MzhmZGViZGQ4MWUyODg1Y2NiNDYxZmFmMDIyZDM3N2VhYzRlZmZjNTIyZjVjNWI0Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736908" tvg-name="以家人之名" group-title="輪播catvod",以家人之名
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTA4P2V4cD0xNzg2NDgwODEzJnNpZ249ZWJiYjU2MGYzNzY4YTcwZWY2Mzk4YTJmMTI0NTA4ZWY0YzBlNjMxMTI2YWMzMDBlNjY0N2Y5MmFkODA1NGM5ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735565" tvg-name="老广的味道 第3季-美食纪录片" group-title="輪播catvod",老广的味道 第3季-美食纪录片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTY1P2V4cD0xNzg2NDgwODEzJnNpZ249NzI0Njc3MDdlNDA5ODYyOTc4MzQzNDVmN2VkMzBhN2MwY2Q1ZTZhNjI0OThkY2M5M2JiYjlhMDMwN2ExMzRkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736903" tvg-name="非常保镖-经典港剧" group-title="輪播catvod",非常保镖-经典港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTAzP2V4cD0xNzg2NDgwODEzJnNpZ249MDNhN2JkODk1NTg1ODAyN2U2MDk3MmE3MzM5MzBlM2QyMmJhOTkzYWM2MDVlYTVhODY2MmNjZDkwNjFiNDY0Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930887" tvg-name="小朋友可爱到家了" group-title="輪播catvod",小朋友可爱到家了
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwODg3P2V4cD0xNzg2NDgwODEzJnNpZ249Njc5ZjM5YTM2MjllOTU5MjVlMGRkNTY2YjY1NWMzMDQwNzUxZjMwYjgxOTc0NDYyNzk3MDQ2NjQ4OTRiZmQyYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736864" tvg-name="苦乐村官" group-title="輪播catvod",苦乐村官
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODY0P2V4cD0xNzg2NDgwODEzJnNpZ249MWJiYzQwNTA4YzMzMWU3NDcxNzFlZjIyZmJiMmQ3NjhmZTFlODI3M2FhYWQyNWNmNzE5ZGJkYjg2OTM3ZGE2MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735576" tvg-name="超燃警匪片" group-title="輪播catvod",超燃警匪片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTc2P2V4cD0xNzg2NDgwODEzJnNpZ249ZjJjN2MzYmM0OWFiNGFhMjliNzgwNjAzMWQ5Nzg2MTcyMWY1YWE2MTY0YzYwM2Y4MmQ0NGIyOTVjYzRkMjgxMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749889" tvg-name="海洋幻梦-泰剧" group-title="輪播catvod",海洋幻梦-泰剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODg5P2V4cD0xNzg2NDgwODEzJnNpZ249ZWQyMGE0MWJmNjRkOWZhOWQ5MDI1NDRjMGEwOTM4YzRmZDkyMTJhOTI3NjljZjdlMWJlYTk5ODg5MjAxNGY3Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354933529" tvg-name="本山快乐营" group-title="輪播catvod",本山快乐营
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMzNTI5P2V4cD0xNzg2NDgwODEzJnNpZ249ZDkxYjY4YmNhOGZiZjhmYmE4MzU5MGUyOTg3ODZiOTY1YTE2ZWFiYjIwZDY4ZWMwMmM1NzJjYWYwM2Y5NzY2Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736868" tvg-name="叛逆者" group-title="輪播catvod",叛逆者
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODY4P2V4cD0xNzg2NDgwODEzJnNpZ249NWFkM2E1NzlmZmRlNjA0OGFjMGUzYWY0OWFmNzlkMmFjOTBhOGExZWNjZjg4Njk4MmEzYjdiODhjYTU0OGEwYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889035" tvg-name="巩汉林春晚小品合集" group-title="輪播catvod",巩汉林春晚小品合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDM1P2V4cD0xNzg2NDgwODEzJnNpZ249MmFiOThkNjA0OGJmOWExM2YyZDViMWVlODBlMzNiYTZlMDRhMWY4MjRhM2JhODA4YjU4OTVhNGI5NzhkZjA1ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736914" tvg-name="笑傲江湖 第2季" group-title="輪播catvod",笑傲江湖 第2季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTE0P2V4cD0xNzg2NDgwODEzJnNpZ249MzFkMzI0Yzc5ZjkzMzM1OGQ1NTM3MWE1NjA5MWM4ZGUxODI5Yjk0MjQxZWQwZTA4NTJiNDk0ODk5ZDdlYTY3NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736851" tvg-name="侏罗纪世界-国外科幻大片合集" group-title="輪播catvod",侏罗纪世界-国外科幻大片合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODUxP2V4cD0xNzg2NDgwODEzJnNpZ249ZmVkNzQ0ODRhYmQzYTg0MjU2YTRkNjBjOTZhZWZiNDEwNjc5NzBiYzVmNDA5NzNmMTU5YjA3ZjUzNjAyOWI0NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745104" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTA0P2V4cD0xNzg2NDgwODEzJnNpZ249OWUxNDZmZmNkZDQ4MWE2NWEzMmYwMzY5MjhkZGMzZmNlOTYyNmQ3OWZiODRlNmE3YjM5ZDQzMGNlZWJjYTBlMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745117" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTE3P2V4cD0xNzg2NDgwODEzJnNpZ249M2YwM2I0YjkwMzdkYzJlNzU3ZGVjM2Y1NzE4MWVjMGQ1ODcwNWY0YTBhOThiYWVhYmNlYWNkM2Y0MjE0ZTFiNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932375" tvg-name="老广的味道-美食之旅" group-title="輪播catvod",老广的味道-美食之旅
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzc1P2V4cD0xNzg2NDgwODEzJnNpZ249ZWMxMTg5NzEyNGYxNzEwMmIzMWQ5ZWE0ODY5MmFjYmYyZmNjNTJmNjc1MTM2ZjI5MjY1ZDE0YTRlYjU4NjY3NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745096" tvg-name="超精彩！系列动作电影" group-title="輪播catvod",超精彩！系列动作电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDk2P2V4cD0xNzg2NDgwODEzJnNpZ249OGZhNmFhOTkwNDljOTk0MWQ4YzM4ODg4NTc0M2YwYzY0MzA2MWFlYTI2Y2M4MTY2OGJhZGZkNzgwMTU2ZDk4Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749948" tvg-name="高分科幻动作片" group-title="輪播catvod",高分科幻动作片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTQ4P2V4cD0xNzg2NDgwODEzJnNpZ249ZWI2MDMxN2JlNjQ4MmU5NWJmMmE5NTRkNWQ3OWEzMjIzMjQ1YTM1NzJjMGNlYzEyZjI3MzA4YWNlNGU5N2FiZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930948" tvg-name="本山快乐营-爆笑小品" group-title="輪播catvod",本山快乐营-爆笑小品
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTQ4P2V4cD0xNzg2NDgwODEzJnNpZ249Yzk1ZWRlZTI3M2I4YWJiMGRlOWM3OTA2OTlmNGY1MmQ4MWE0MmNjNjQ2ZDE1MjY1MzMxZTllMjE1ZGRmNTA4OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749914" tvg-name="加勒比海盗系列" group-title="輪播catvod",加勒比海盗系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTE0P2V4cD0xNzg2NDgwODEzJnNpZ249NWEyZDE3MWJlYmEyNmJlNzJlNDUyNDY2N2U5MjBkY2YxZTdlYzNhNTliMzA2ZjliNTUwZTkxOWVkZmFmMWU1MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936242" tvg-name="香港院线大片-最新" group-title="輪播catvod",香港院线大片-最新
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjQyP2V4cD0xNzg2NDgwODEzJnNpZ249OWQ5MDlkYzBmNmZlNDM1NzQwY2UwOTg3ZTc2ZDJhNzFkMmQwZmVkZDdkYzcwOGJmMWMxN2M5NWFhYjYyMTkzZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745084" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDg0P2V4cD0xNzg2NDgwODEzJnNpZ249MDljYTk1ZDU0ZThlN2ZjYWE1ODg4OWFiYmI4YzIwYzAzMjEzNGZmN2FkY2JhZTcxMGRjMmRmODVjNDY1MzA4OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749902" tvg-name="辉煌或疯狂-韩剧" group-title="輪播catvod",辉煌或疯狂-韩剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTAyP2V4cD0xNzg2NDgwODEzJnNpZ249MDkxZDBjNjQ1NGQzNTk4NWNlZTg2YjcwZjI5NmNmYTkzNTVmYjExMjljNGNlMzkyYzUxOTRlOThkNDExZjA2ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736898" tvg-name="田园生活" group-title="輪播catvod",田园生活
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODk4P2V4cD0xNzg2NDgwODEzJnNpZ249M2Y5YmI4MjZkYThkM2JmNmQ4YzQyOTY3NDQwZGVkZTVmMmRlOGI2YmVmNTY0Mjk1Y2JlYWJlNzM2ZjVhYWYzNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736905" tvg-name="第8号当铺" group-title="輪播catvod",第8号当铺
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTA1P2V4cD0xNzg2NDgwODEzJnNpZ249NDY4NGZlYzM2NzBhZGU0ZTYxOWUzYmU2NDBjY2U4ZWUxMjhhNzVhMzE5ZTc2YmE3ZWJiOWJkZjI3Njg2ODAyYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936141" tvg-name="少年包青天美黑之旅" group-title="輪播catvod",少年包青天美黑之旅
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTQxP2V4cD0xNzg2NDgwODEzJnNpZ249NzZhMjIxY2U3MzY3MjE0MTQ4ZGMxZmZjODE0YzY1YjBhZjdlNmFhNDc0NmNlMjQzYTcwNjRjYTljNTU3NjEwYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735557" tvg-name="我爱我家" group-title="輪播catvod",我爱我家
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTU3P2V4cD0xNzg2NDgwODEzJnNpZ249M2E4ZmVhZGEyNDdmMjM3YWRlZjczYzViMzAxNGQ0ZGY3Mjg1YTFiMDYxZGY1MzliOTRiOGMzNThjNjk4MTBlZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930181" tvg-name="猩球崛起-怪兽片合集" group-title="輪播catvod",猩球崛起-怪兽片合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMTgxP2V4cD0xNzg2NDgwODEzJnNpZ249YmFmMTk5ZTJmMmMwYTNhNWRmMjIzYjFjYjgzNjQyNzU0YjY5MDk4NTNmYTgwNGE1Yzk2NTczMzJmMThkMTdjMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932397" tvg-name="港剧-警犬巴打" group-title="輪播catvod",港剧-警犬巴打
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzk3P2V4cD0xNzg2NDgwODEzJnNpZ249ZjhiNTdiM2M4ODU4YjYyMmI0YjllYzUzOWU4OThkMTdmMmZkOWEyNGEzZWY0NzhlYmQwNmZlNzI3YzI3NWNlNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936167" tvg-name="复仇者联盟全季" group-title="輪播catvod",复仇者联盟全季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTY3P2V4cD0xNzg2NDgwODEzJnNpZ249YmFlNDI5NGE4MTEwMDQ0YmI2MzYzODY1MWZhNmJkOTRmNGQ4NzA5Y2I0MjhkMzM2MTQyYzI3YzJkYTYyMmRlYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888743" tvg-name="洪大哥系列" group-title="輪播catvod",洪大哥系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzQzP2V4cD0xNzg2NDgwODEzJnNpZ249YTEwYzgyOTY0ODE3MGVhMzVmZGZlMjA4MGU3MjZiZDIzZWJiYmNhODA5MTBmZjUzNmIzNTY1ODRiOTAzZWQ5YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749896" tvg-name="笑傲江湖 第1季" group-title="輪播catvod",笑傲江湖 第1季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODk2P2V4cD0xNzg2NDgwODEzJnNpZ249YTA0NjM4YzVhMDZmZGM4OTdmZDQzNzM0NGQ0YjU2NzQxMTNjYTdiMmRjYzI3OTcxMTU1YWI5YTUyYzdhY2U1NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736834" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODM0P2V4cD0xNzg2NDgwODEzJnNpZ249OTNjY2Y0MzJhMTE1OWJiZjM1MjBmNDdjY2UyY2NjOTlhOWFiOTZmMzc0NWIxOGVjZDZkNDg3M2E2NGIxZDIxZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936168" tvg-name="霸星降临" group-title="輪播catvod",霸星降临
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTY4P2V4cD0xNzg2NDgwODEzJnNpZ249MGQyNzg5MmE1ODMwOTRjZThhOTM2OTFmMzA5MzRiMzkwZGQ1NzIyNjE1OTBmOTUxNDQ4ZWRhZmMyM2Y4YjMxMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736809" tvg-name="精彩动作电影享不停" group-title="輪播catvod",精彩动作电影享不停
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODA5P2V4cD0xNzg2NDgwODEzJnNpZ249OTIzOThjYzc4M2VmNzM4YjRhYWMyZjE4MjNiZDdkODUwZTM1YjJmZTU0ZDY4Nzk4MTI2N2I3YmY4MWIzZDcxYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736850" tvg-name="新世界" group-title="輪播catvod",新世界
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODUwP2V4cD0xNzg2NDgwODEzJnNpZ249ZDJjNmRjZjQ2YWM2MDE2OGFkYmRkODQwNTcwNzI5ZGNiNzZkY2UxMDAwZDcwYWUyYjY5OWExMzQ1Njg5ZTQ5ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930897" tvg-name="科幻片：来看神奇的地球" group-title="輪播catvod",科幻片：来看神奇的地球
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwODk3P2V4cD0xNzg2NDgwODEzJnNpZ249YTY1MjUwNTFjNDQ5ZDFhOGY0NzU2NzI3MDI2NjQ4ZDIwMWZhNjgwODJmNTY4ZjhmMGYwMTIwYzhiNDkxZTNkZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930936" tvg-name="黑衣人1、2—动作喜剧大片" group-title="輪播catvod",黑衣人1、2—动作喜剧大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTM2P2V4cD0xNzg2NDgwODEzJnNpZ249NDYwMDNiM2UxODQyZmEzNTM2ZWIxOGVjYzJlYWRiMGY5MTQxMTI5OWRiODQ1OTliNjUwZmUwYmYzZTM1ZGI0Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736894" tvg-name="农家小菜" group-title="輪播catvod",农家小菜
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODk0P2V4cD0xNzg2NDgwODEzJnNpZ249ODllZmFiY2Q0MGZjOWRlNmI4ZjhkOWRiYWQwOGJmN2RkNDk2OGJmZWQxMGJjZTA0NDkzYTkwZGJmYWRjZTI4OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930937" tvg-name="缺宅男女" group-title="輪播catvod",缺宅男女
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTM3P2V4cD0xNzg2NDgwODEzJnNpZ249MDdmYjQxZjYyOWVjODg4YWJmNDAwOWIwYjJmYmUxZTMyNjRkZmM1MTk2ZDU1MzY1NjFjMjlmMjdmNDZmNjU4Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926600" tvg-name="抗日神片，燃爆抗战热血魂" group-title="輪播catvod",抗日神片，燃爆抗战热血魂
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjAwP2V4cD0xNzg2NDgwODEzJnNpZ249ZmIxNTM5YmJiNTkxNzdiM2RkMmEwM2NmNTlhMmZkMWY0YmJjNWIxY2Y1NzUwNzU3ZWI4MTYyOTRkYWQ5MzQ4MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745093" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDkzP2V4cD0xNzg2NDgwODEzJnNpZ249NDMxZDQ0Mzg2YjA2ZmUwOTNiOTAzNjg1ZDY4NmUzNzRiNGJhZTVmZTg1OWRlNDk1YWUzMTY2MmNhYTU0MmMzMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851580" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTgwP2V4cD0xNzg2NDgwODEzJnNpZ249NWUwZWFjMTBlYzI5ZWY0YTBiZDFmY2U0MTRlODE4Y2JiNDE0ZDNmNjViZTY0MmUyYWJjZGFkY2I4OGMwZjE3Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736915" tvg-name="公主嫁到" group-title="輪播catvod",公主嫁到
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTE1P2V4cD0xNzg2NDgwODEzJnNpZ249YzM0ZTJhODQ1YWNmYjkyOTkxMjViOTczZDU0OWE2NTg4NDk5MzM5OTYwOTM3MWQ5NTIwNTY2MDgwMDM0MDZjNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931631" tvg-name="宝莲灯前传" group-title="輪播catvod",宝莲灯前传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNjMxP2V4cD0xNzg2NDgwODEzJnNpZ249OGFhODEyZDBlN2E1ZmUyMGE1ZGY4YTY4MmQwMmZkOTZiZWM3YjdlZTJmZTM2N2U3NTZhNzU0MDU2NzM2Yjc1Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932362" tvg-name="请回答1988" group-title="輪播catvod",请回答1988
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzYyP2V4cD0xNzg2NDgwODEzJnNpZ249MzFiNTE3MjY3ZDJmMzA4MmEyMjI0NmM2ZjdkZDZmYTc3NTVkMjE2OWUzMzc0YmJjNmJmYjFkNmYxMWY2NDQ5MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736862" tvg-name="国内喜剧" group-title="輪播catvod",国内喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODYyP2V4cD0xNzg2NDgwODEzJnNpZ249N2I5ZjE3NzliOTMxM2JmZDNlZmU1MWU5MDQyYjIwM2ZiMzU0MjRhNTZjOGFiOTgzY2JlZWQyZTBhY2JkOGY5Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745091" tvg-name="超英集结" group-title="輪播catvod",超英集结
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDkxP2V4cD0xNzg2NDgwODEzJnNpZ249NzQ1Y2Y4NzZmYzQ4NjgzYjJkZjI1M2ZhN2RlMTIwMDZlZTQ1YzIyMGZhY2Q1ZDhmNjYyMTIzYzAyMTY5ZWFmZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888733" tvg-name="发哥系列" group-title="輪播catvod",发哥系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzMzP2V4cD0xNzg2NDgwODEzJnNpZ249ODA0NGI3NDI2NDY5YWUxYTg3YWY2ZGNmMDM3MzU5NzJkMjEwMGRkZWRmMTBlNTYzM2RlZGE2N2U5ZjdmOGMxMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736800" tvg-name="国外科幻" group-title="輪播catvod",国外科幻
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODAwP2V4cD0xNzg2NDgwODEzJnNpZ249Y2M0NmMyZTcyNGJkMTk2ZjFkZGFkOWRlOWQ2ZWYxMjU4NTFhYWFmOTM2NjFiMjA2Y2M5OGNmNGU3MmQ0M2M2MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930943" tvg-name="舌尖上的中国第2季" group-title="輪播catvod",舌尖上的中国第2季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTQzP2V4cD0xNzg2NDgwODEzJnNpZ249N2E0YzcxMWQ0N2FjMzYwZTNiNWQ0YjcyYmIwOTQ2ZGMyMWNkZDdmNTJlNjFkNzc3M2Q2YWQwMjgxMWM1ZjAzZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736909" tvg-name="高分动作大片-热血出击" group-title="輪播catvod",高分动作大片-热血出击
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTA5P2V4cD0xNzg2NDgwODEzJnNpZ249MGY4ZTMwOTNjNTNmYjE4ZDE4NzVhZjBlNzZiYzU0YTMwYmNmY2EwZDljYjBmMTc0ZWJjNzRmMTg1MzhmMmExMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889019" tvg-name="末日系列-外国电影合集" group-title="輪播catvod",末日系列-外国电影合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDE5P2V4cD0xNzg2NDgwODEzJnNpZ249ZTUxY2E5Zjg2YmI1NDYzZDIzMDQ2M2U2YTUxYjYwN2NmZjEyYzY1NmEzOWYzYTBkZDM2NGNjNzQwYTUyN2M0NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932420" tvg-name="一代经典电影，我很快乐" group-title="輪播catvod",一代经典电影，我很快乐
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDIwP2V4cD0xNzg2NDgwODEzJnNpZ249N2RiNmY1Y2E1OTBhZmY3YWM3NWNjZDExMjg5ZmFjOWE4YzU4MTEyODRjMjA2NzE4NDYyZmY1ZGU5M2ExZTE1ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735556" tvg-name="爆笑电影！王牌大贱谍2-3" group-title="輪播catvod",爆笑电影！王牌大贱谍2-3
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTU2P2V4cD0xNzg2NDgwODEzJnNpZ249YzlmMzNmN2VhMGUxMWRjY2Q1NzFmODQ5MmM3NDYxMzJjMzdlMGNiMjYzNWFmNzZjMWE4MzllZmE3NmMyZjIzZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851576" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTc2P2V4cD0xNzg2NDgwODEzJnNpZ249ODBmYjA0NWE5ODdlMTVkMzBiNzliMzExZTc4ZmE2MzU3MDIzMDdhY2MxNzRhNWYzYzJmZGVkYTYzNzQxMDI0OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735584" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTg0P2V4cD0xNzg2NDgwODEzJnNpZ249ZDBlMjdiZmIwMzQ3NWNjNWNiMTAzZmY1YzYzZWRkOTYyNWEyYzcwZGIyZjk0Y2JkYjM1ODhjNTY4ZmJhY2NiZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382741638" tvg-name="俺娘田小草" group-title="輪播catvod",俺娘田小草
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQxNjM4P2V4cD0xNzg2NDgwODEzJnNpZ249MDBiYzk5YjUyYTI1MjQxODZlMTQ1Y2I2YjhhNmMyYzc2OTM3ZWU2YzAxYTZmMmI2NGY2ZjVhOTNlYzE1Mzg3Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736813" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODEzP2V4cD0xNzg2NDgwODEzJnNpZ249OTc1MDY2NWQ5ZDNmMGRlNzExNTQ3ZWZlMDM0ZTg4MjhkMDE5ZGNlMWRlY2FmODUxM2MxMzc2MjljNGFjZGQwYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736816" tvg-name="电影黑豹" group-title="輪播catvod",电影黑豹
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODE2P2V4cD0xNzg2NDgwODEzJnNpZ249OThkYzdkODQzMTllMDRhZWI3N2MxMzg2OWJiZjcxZDUxMDU5ZWNlZjdhYzk1YWYyOTBkMmI3ZGY5ZTUxOTJmMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936124" tvg-name="重生之超级赛亚人" group-title="輪播catvod",重生之超级赛亚人
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTI0P2V4cD0xNzg2NDgwODEzJnNpZ249ZjBhNDY2N2Q1NThmNzI1MDMzNDFlOWY3ZmFlZTdlM2FlNTRkNDIwMzI1Y2ZhY2YwYzU1YjdjMTIwNjRhNjgxOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735547" tvg-name="飓风营救" group-title="輪播catvod",飓风营救
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQ3P2V4cD0xNzg2NDgwODEzJnNpZ249YzUyOTMzMGNjYTVlYzJkMTA3OGQzZDFhMDg4MWQ2Mjg5MDg0NjhjM2YzMzZkNGVhN2E2YjIwZWExYjMzODU1Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930204" tvg-name="永远的经典系列" group-title="輪播catvod",永远的经典系列
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMjA0P2V4cD0xNzg2NDgwODEzJnNpZ249MTgwY2FmZmFkZTNhZWQ3MWZkNTg3MjcyNDgzYWFjMjFjODAwMmI3NjcwMzk0M2E1MGY0NTk5MzE1NDYxYTUyNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745179" tvg-name="战争与女性" group-title="輪播catvod",战争与女性
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTc5P2V4cD0xNzg2NDgwODEzJnNpZ249ZDkxYmUxZjBlY2Y4YzY3M2M1MjFmOTEwMmVlMWNlYmY1NTZkMzMxZjQ1ODA2MDllYWVmYjNiNTAzNjI2M2FmZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736839" tvg-name="钟馗传说" group-title="輪播catvod",钟馗传说
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODM5P2V4cD0xNzg2NDgwODEzJnNpZ249YTM4NmUyMjUzNmFmZmNmODJjMmU3MzM3NDYxOTU1ZTdlZjY5NDgyZjQzMzZkNzQ2NjQzY2ZiNTI5ZWM2MGRiYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745124" tvg-name="papi酱主演，北漂生活中的爱情与梦想" group-title="輪播catvod",papi酱主演，北漂生活中的爱情与梦想
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTI0P2V4cD0xNzg2NDgwODEzJnNpZ249NjNlNWEzMTIyMjY4NTQzM2RiM2YwNTk3ZmIwZmQ4ZDIwYzk5YWI0M2VmMjU2YzM3MGRlOTFhZGU4MDBkNGZkZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736906" tvg-name="深海利剑" group-title="輪播catvod",深海利剑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTA2P2V4cD0xNzg2NDgwODEzJnNpZ249Zjg4NWVjOGIwZTFmOWYwNjczNDZlYWE5Yjc5YWJmZTg0ZGZkYzEwZjY4OWVhZDJjODMyMDQyNTE2YzdkMTUzYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736824" tvg-name="施公奇案2-欧阳震华" group-title="輪播catvod",施公奇案2-欧阳震华
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODI0P2V4cD0xNzg2NDgwODEzJnNpZ249MjExYWYzMDUwZmNlN2Y3YWZmNTdkOWQxYmQxOTg2NjMxMzkyM2M5ZTYzN2IxYTE3YTllMDA0NzZkYjU4ZmZjMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745113" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTEzP2V4cD0xNzg2NDgwODEzJnNpZ249YjczZjhmZTEzZGM1NTJhMmNiNDI4NDNlMjBlMjFiZGI5ZWQ2NTZmOTQ4OWI4ZWY3Zjg1N2NhZGU1NDcxYjhhMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745173" tvg-name="妖神记之黑狱篇" group-title="輪播catvod",妖神记之黑狱篇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTczP2V4cD0xNzg2NDgwODEzJnNpZ249NjVhNDk1NjVlNDE2MWQ5ZWM4OGI0Y2ZjOTA5MTJjZTNhMDIyMzJjOTY4YmNjYzNhM2Y0ODVjMjQ2ZDI0ZDBmMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930904" tvg-name="黄大妮-电视剧" group-title="輪播catvod",黄大妮-电视剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTA0P2V4cD0xNzg2NDgwODEzJnNpZ249YTg0MDE5NzQyOWE4ZWM0YmNiOTAxNjFkMzQ3YjhmYTkxODFlNDEyYmJjY2ZjZDZhOTcwNzY5NDA4OWI2MGU4Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930952" tvg-name="舌尖上的中国第一季" group-title="輪播catvod",舌尖上的中国第一季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTUyP2V4cD0xNzg2NDgwODEzJnNpZ249ZGQ2NDk2ZTVhNjY1MWYxMDk4M2I0NzhmOWZlMTUzMWI1MWEwMGQwZWI5OWRmNGIwMDdlMzIxMDk0MWMzZmRjMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736797" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2Nzk3P2V4cD0xNzg2NDgwODEzJnNpZ249NTQwNzBlOWJkNThjODUyZWFiN2Q1YmY1ZDFiYmY4ZjQwYWZjZjIzNWI0ZjcwOGMwOTJiYTg4MzY1ZTZlZWE3ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926676" tvg-name="紧急营救" group-title="輪播catvod",紧急营救
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2Njc2P2V4cD0xNzg2NDgwODEzJnNpZ249Yjk4OGNhMjVkNmM4YTQ0MDNkNTFlZjU1ZTE0OGFlZWJhODUwZGI3NmFiZTM4MGJhY2ExOWUzOWVkNTVmYzg0Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736904" tvg-name="萌鸡小队S1-国漫" group-title="輪播catvod",萌鸡小队S1-国漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTA0P2V4cD0xNzg2NDgwODEzJnNpZ249NjNjYzc1MDk4OTQ1ZTI2ZDMzOGQ0Njk4M2EyMWRjZjY0MTcxNDU3OGFjYTkzNDhjY2ZmNTExNzA5ZDljMjk2ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936234" tvg-name="珍珠港-电影" group-title="輪播catvod",珍珠港-电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjM0P2V4cD0xNzg2NDgwODEzJnNpZ249YjNkNDA1YWZlNjkwYTNkMWIwNTBjZDAyMGYyNGFlZjQ3ODAwZTc1MjBmNDhjNmUzZjI2ZmM2MmFhNjVjOThkNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382747628" tvg-name="外国科幻大片" group-title="輪播catvod",外国科幻大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ3NjI4P2V4cD0xNzg2NDgwODEzJnNpZ249ZjdhYTNlYjlhNGU4YWIyYzNjNmEzNTM0ZTVjMWViMTY5YjAxMTk1ZTg5ODExMzZiNTA3MjE4NzQ2YWMzZmE5Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382737888" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM3ODg4P2V4cD0xNzg2NDgwODEzJnNpZ249ZjkwZDljMDAwZjFlNzY2NDljMDQ0OGJkY2ZiOTViYzE2NmQ0YTFjNDQ3M2EwNzAxYjczOTNkNzNiOWYyNjVmYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749905" tvg-name="明天和你-韩剧" group-title="輪播catvod",明天和你-韩剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTA1P2V4cD0xNzg2NDgwODEzJnNpZ249M2E4N2YzY2FhNmQ4MDg4NTkzYzZhYzJhMmM1OGQ2NzIyZTliYTgxZWExZmZhMWYxODQzNWZjZTMzZTZjMTdmNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888739" tvg-name="动作大片" group-title="輪播catvod",动作大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzM5P2V4cD0xNzg2NDgwODEzJnNpZ249MDI2YjFlYzVmZTRkYjM4YzE0YTA5YzljNzU0YWM3NDQzYzlmZTY5ZTdlNjIwNWUyMWE0NThkZDVlMDRlMTc4Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749913" tvg-name="王牌保镖在此" group-title="輪播catvod",王牌保镖在此
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTEzP2V4cD0xNzg2NDgwODEzJnNpZ249Mjk2MDFlMTk2MDE0ZTc0ZTliNGE1YjFkZGI0ODNiM2ZiYzZlZTNlMzVlN2Q5OTM4N2NiOWUxYTc5NjIwZWNmMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745175" tvg-name="国外黑色喜剧：冷幽默小剧场" group-title="輪播catvod",国外黑色喜剧：冷幽默小剧场
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTc1P2V4cD0xNzg2NDgwODEzJnNpZ249MmMyY2ZmZGRkY2FjOTExNjJlODhlN2FlZWUyNWIyZjU5OGI1YWYzNjRlMWEwYzM0MjdlYjIxNThmNjNjMDk1OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926612" tvg-name="岳云鹏宋小宝也来演电影了？" group-title="輪播catvod",岳云鹏宋小宝也来演电影了？
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjEyP2V4cD0xNzg2NDgwODEzJnNpZ249NGE1NWVmMjAyYjc5OWY0YjIzNjIxZDA0YzVkZDIyYmI4YWFiYmNjOGU0M2QyY2U0ODFkZDM4MmQ3ZDMyOGIwZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735585" tvg-name="嘻嘻熙熙" group-title="輪播catvod",嘻嘻熙熙
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTg1P2V4cD0xNzg2NDgwODEzJnNpZ249ZTBiZmZmMWRmMmFmMzM1MzU1Mzc4NzJmNWRjZGZjZDJiY2JlNTE1NzE1NTQ2YmJiZTYxMDljZTYzODRmOTVhNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745110" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTEwP2V4cD0xNzg2NDgwODEzJnNpZ249ODM3YzlmOWI2YjRhNmRkM2I3Mjg5MmY3ZTNlOWRiYmY4NDk0MDA5MDkzNjE5NDhiMmQyOTRiN2M0NDYzOWQxOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930979" tvg-name="大唐双龙传" group-title="輪播catvod",大唐双龙传
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTc5P2V4cD0xNzg2NDgwODEzJnNpZ249YzY3MjI5MmQ1ZmZjZTY0ODhkM2UyYTU4ZmFhMDEzMDM4NWM5ZjJiNjE3NjMxN2QwMmIxOWI0ZjIyMTc2ZjU0MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735563" tvg-name="国内喜剧" group-title="輪播catvod",国内喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTYzP2V4cD0xNzg2NDgwODEzJnNpZ249YzMzNzYxNjliZDRlNjhkODIyOWIzMDdhMWQ1NjM2ODdjZDE4YTlkMDM0ZWE5ZTkzNzZkYjNmN2I4YmVjYmFhYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735540" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQwP2V4cD0xNzg2NDgwODEzJnNpZ249NzNlYWEzOGNjNDQ2NmZjODEyZjBkOThiNjg5OTY5MDQwYjAzMWM0ZThmY2E2OWQwODU3ZWEzOTc0YTk2Yzk1Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851522" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTIyP2V4cD0xNzg2NDgwODEzJnNpZ249MTczZjQ4YzU5YmRmM2RiMGY5NDQzZDg2YjlhNzdmZDBjMGQyNzcxY2FjYTM4N2IyZDFjMzM2NzFmNGNkZTRmNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851586" tvg-name="躺平还是奋斗？搞笑中见真谛" group-title="輪播catvod",躺平还是奋斗？搞笑中见真谛
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTg2P2V4cD0xNzg2NDgwODEzJnNpZ249ZDJmNjMwNjFiNjQ5MzVkNDdiNTgwNTBhMDliNjNlY2NmYTQ1NWUwNDlmMmQ2MWZhZjRlNjNjNDA3NTE5MWE0OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736807" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODA3P2V4cD0xNzg2NDgwODEzJnNpZ249OGQzY2I5MTE3ZjBjYTExZTI0YzFiMWMyN2MwMmY0ODE0ZjQ3Y2EzNzVmMDAxNzE0ZmMzMDc4MjllNTk5NmUxMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658064" tvg-name="国外经典—小鬼当家" group-title="輪播catvod",国外经典—小鬼当家
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDY0P2V4cD0xNzg2NDgwODEzJnNpZ249ZTg4OWMwZmQ2YTQ4NzYwZTY0MmRhZDMyODkxOTFkMDFjNGZlNGMzZmU2MzUyZDJkNDI5NGMzYWJlYTdmYWYxMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936149" tvg-name="百家讲坛――之明太祖朱元璋" group-title="輪播catvod",百家讲坛――之明太祖朱元璋
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTQ5P2V4cD0xNzg2NDgwODEzJnNpZ249ZGIwZGZkMzJjZWI4NzMyODAxYTg4ODMxMmE3NWEyMzA2ODgzM2IxZWEyNWNiOTkxZjQyNWUxY2VhMGZiZjllZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736833" tvg-name="兵王绝境狙杀" group-title="輪播catvod",兵王绝境狙杀
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODMzP2V4cD0xNzg2NDgwODEzJnNpZ249ZWFkNjM3ZjUyMGZlYjE0MzE1YWExMjM1ZDJmODhhNTc2YTAwMDhlNDI2NWNlYTk3MTdjZDNlZDAxYTA3YzI2NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745176" tvg-name="叶问1-4-甄子丹" group-title="輪播catvod",叶问1-4-甄子丹
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTc2P2V4cD0xNzg2NDgwODEzJnNpZ249YWYxYmIyNjRmMWE0NzU5ZWRlMDQ4N2EwY2E3NTJmNDkwMjNjMmMyNWNhZTM4OWJjZjE1NGRkMjg4NWY4ZDk0NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930919" tvg-name="欢乐集结号2" group-title="輪播catvod",欢乐集结号2
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTE5P2V4cD0xNzg2NDgwODEzJnNpZ249YTM5ZmQwYzdhYjRlMDE5ZmRhYmM4YjJmYmZiYzhlN2RiOGIwZmQyODA4NGUyMzJkMTNkMGYwNGY2YjkwYmUwMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936203" tvg-name="少年四大名捕" group-title="輪播catvod",少年四大名捕
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjAzP2V4cD0xNzg2NDgwODEzJnNpZ249MGU3MjdlMjNmNjBmZjRjM2U1NjQ1YWYxODI3YmZjZGZmNWE3NjRjOWYxYWEyYTUyZmRhNmFiMWM1OWFhZjUwMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749917" tvg-name="无双花木兰" group-title="輪播catvod",无双花木兰
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTE3P2V4cD0xNzg2NDgwODEzJnNpZ249OTk3ZWE2NWI4YjE1OGQ5YTNiMTgxN2VhZWUwZWEyNTA1MjYwZGFkNzNhNDNhMTZhOGI0MGFlNjgxOGFiNjcwNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749952" tvg-name="河山" group-title="輪播catvod",河山
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTUyP2V4cD0xNzg2NDgwODEzJnNpZ249Mjg4OWMyYzJhMTFjNzE5YzcwMDgyYTM5YjI3NTJiNjY4NTAxMTJiODQwMmE3OGZkZjcyOWJhMjI0ZDVmMmMyMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736801" tvg-name="燃爆动作片" group-title="輪播catvod",燃爆动作片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODAxP2V4cD0xNzg2NDgwODEzJnNpZ249OGE0ZDQzOWE0NDYzNDgyOWE2ODJiYjk0MzY0MjY2NGYwYmYxYjUxYTlmNTRjMjMzZmMxZWJhZTRjODNlZjgxYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745103" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTAzP2V4cD0xNzg2NDgwODEzJnNpZ249YWMwMjM5ZDhjMWVkY2JjNjUxMDgxYmRlYTQ3ZjQzNTE4NTI1YzlkMThhMDYwNjNiZDhiZTZlYzdiZmI2YWFjMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932427" tvg-name="哑巴竟然会说话" group-title="輪播catvod",哑巴竟然会说话
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDI3P2V4cD0xNzg2NDgwODEzJnNpZ249NDg2MzRiZjE3ODgzYzY2MjliZDBmZDgzN2RkM2Y3N2E2Mjk5NmYxZGNmNjcyODVmMTc5N2EyZWRkOTI5NDRjMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736854" tvg-name="机械战警1-3" group-title="輪播catvod",机械战警1-3
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODU0P2V4cD0xNzg2NDgwODEzJnNpZ249OWQ1NTA1MjMxNzhkOWEzMzMzYjJlYzk2MDk1OWUyNTExODI3NGRhYzk1MzA3MWNlZGJjZmM2Mjg4ZmE5NGNmNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736881" tvg-name="金玉满堂：精彩港剧" group-title="輪播catvod",金玉满堂：精彩港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODgxP2V4cD0xNzg2NDgwODEzJnNpZ249OTQxY2I2OGUyZjhkM2JmMDFiZmVhNTY4M2UxNmZlNzM2YmJiZmM3MWFhYWQ5Zjg3ZmZiNWQyNmIxOTRiMjU5Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851530" tvg-name="最美的青春" group-title="輪播catvod",最美的青春
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTMwP2V4cD0xNzg2NDgwODEzJnNpZ249MDU5ODIzMTQzMzljYWM2OTllOGQwNmFjMzNjNmFhOWQxMTg4ZDVhMmU5NWU4ZGMyZTVjNmE5YmIwMTU2NWE0Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749887" tvg-name="来看修牛蹄" group-title="輪播catvod",来看修牛蹄
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODg3P2V4cD0xNzg2NDgwODEzJnNpZ249OTIyZTQ1MmU1MDA3ZjYxNzBlMDE1MzllMGMzOTA2NjM3NjkwMzRmNzBjZDAzMDgzNzBhMTJkMTA4ZWFhN2VhOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745088" tvg-name="缺宅男女-精彩港剧" group-title="輪播catvod",缺宅男女-精彩港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDg4P2V4cD0xNzg2NDgwODEzJnNpZ249ZWY4MTFmYjdiNDZkNWZhODFjMDcyODM5YzFjOGZhNTM5ZGYzOWUwMzQyM2M5NzUwNzdhZDMzZTQxODI1YjgyYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353413714" tvg-name="我的父亲我的兵" group-title="輪播catvod",我的父亲我的兵
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNDEzNzE0P2V4cD0xNzg2NDgwODEzJnNpZ249NGYxOGMwZGQxYmUxNmJiMTA4MzFjNWYxN2QyODcxNTkwZTliMzMxZDlhNDZjNThlZDNmMTRlMjNmY2U5ZTU0Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736806" tvg-name="大江大河-高分影视推荐" group-title="輪播catvod",大江大河-高分影视推荐
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODA2P2V4cD0xNzg2NDgwODEzJnNpZ249ODYyNDg2MzkxYjhmMGM1ZDc5ODVlNTY3ZmE3ODRlYTY5NDM0YTI2ZTUwODJmNGUwZDdhMmQ0OTkyYWFkNDJiOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749903" tvg-name="仙剑奇侠传-神仙姐姐驾到" group-title="輪播catvod",仙剑奇侠传-神仙姐姐驾到
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTAzP2V4cD0xNzg2NDgwODEzJnNpZ249ZThkMWY2MDgzZjUwODZmNWZjYmUwZjZiMWY5MmY3NjRhMzVlYWE2Nzc5MWQyYjgzM2Q2MThmOWM5ZDJkOTU1Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932371" tvg-name="大铸剑师传奇" group-title="輪播catvod",大铸剑师传奇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzcxP2V4cD0xNzg2NDgwODEzJnNpZ249YmYwYzgwODI2ZjUwMjA3YTkwNGIxOTJiYTZjMzFiOWI3Njk0ZWJhZTEyNTQ1MDc3MzJhNzVlYjM5ZGE1NTYyNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745095" tvg-name="毒液：致命守护者" group-title="輪播catvod",毒液：致命守护者
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDk1P2V4cD0xNzg2NDgwODEzJnNpZ249ZDk2MzY3YjVhMDc2NWFmYmIxYzkzNWFkZjgwNzU5MGQwY2U4MTdlYzllMjE5MjI3Njg2MWMzNDNjNjY2NDI3Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658003" tvg-name="学生兵" group-title="輪播catvod",学生兵
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDAzP2V4cD0xNzg2NDgwODEzJnNpZ249ZjZkNDRjOGE2NWZkOTI5ZDU2OTI3MmQ1MmEwZDU2ZmVjZjYyODI3NTczYTgyOGEzMTRiYzY1MTVhMzgxZGUzNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736867" tvg-name="国外高分大片" group-title="輪播catvod",国外高分大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODY3P2V4cD0xNzg2NDgwODEzJnNpZ249NTY1Y2UwYzM4Y2M3ODNlNjM2MWE1YWQ5Zjk4OTA1MWY0MTI4NDNmZWUxMTAyMDMwMzFjYmE5OTM3YWQ0YjBjMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932360" tvg-name="娘亲舅大" group-title="輪播catvod",娘亲舅大
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzYwP2V4cD0xNzg2NDgwODEzJnNpZ249MWY5NjRlNWU1NzQ5Yjg1NDk0ZjYzYTc0ZmQ4NTVmOWJiNmU4NDg2ZDg5ODU4YTZlZTA4NzE0NGUyYzYyOTE3NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736823" tvg-name="精彩动作电影" group-title="輪播catvod",精彩动作电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODIzP2V4cD0xNzg2NDgwODEzJnNpZ249NzhiMGQ2NWYwODdmNDY3MDYxMDUxOWRlZDY5MjNmZjk3ZjNjNzU2Y2JhY2NjNjQ4Nzk0NTI3ZWNjNzRhNzYwNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936191" tvg-name="欢喜冤家的爱情-夏日乐悠悠" group-title="輪播catvod",欢喜冤家的爱情-夏日乐悠悠
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTkxP2V4cD0xNzg2NDgwODEzJnNpZ249Mjc0NTYwMTBjNDI5ZWE0OGEwNWU5OTQ5ZjA4Y2Q1ZTY4OGYxNmI4ZDUyMWQzYzMwMzAwYjlkMzJjOGI5ZWQyOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926655" tvg-name="国产大片电影" group-title="輪播catvod",国产大片电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjU1P2V4cD0xNzg2NDgwODEzJnNpZ249NGNlMWFhODhkMjlhMTgyZmI4ZTA0NzZkZjY3ZDMwNzRlNWIyYjU5ZGRjNTEzZWE4MWYwYjVmMzNkMTA0YmVlYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888747" tvg-name="迷网-警匪悬疑港剧" group-title="輪播catvod",迷网-警匪悬疑港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzQ3P2V4cD0xNzg2NDgwODEzJnNpZ249ZmE2ODNmM2NjOTZmZWY1YTI4ZmY4YWFjOTViMjQzYzEyYzU0NDcyY2VmNzI1ZGRkY2YzMjAxZDFmNTE5MmRlMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736916" tvg-name="搬山道人之落天荒" group-title="輪播catvod",搬山道人之落天荒
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTE2P2V4cD0xNzg2NDgwODEzJnNpZ249Njg0ZTNmNjgxNGNkMjRhMDIyZTdhNWY3YmU3MWEyOGZiYjIwODAyMTUyYWM0ODg2NGYxODVmNzdhZjA1MGIwNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930209" tvg-name="科幻电影" group-title="輪播catvod",科幻电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMjA5P2V4cD0xNzg2NDgwODEzJnNpZ249MWUxZmQ2ZTBhZjI1MDVlYjI0NTM4YzhhZDUwZWU5MjIzNDhiYWMzNWVjZTQyMzRmNTYzNDZiZDMzMDJhMWU3OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851602" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNjAyP2V4cD0xNzg2NDgwODEzJnNpZ249NzA2N2Q3YTQ5ZTlkYTQ3ZWE2NTNhM2Q5YjgwNTVlY2RiZmJiODIwZjEyZDg3MGQyZGNmNzMxNDdjMWIxZTQ1MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930816" tvg-name="带你领略四季的变化" group-title="輪播catvod",带你领略四季的变化
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwODE2P2V4cD0xNzg2NDgwODEzJnNpZ249MjY0YTExYmZhNTFmYWYxNzU3YjBlMGUyOWY1MDM1NzU3OWQ4NTFjNmMxMzQ4YzMwZGZjMDFjNzZkZDUzMzQ4OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382743138" tvg-name="动物世界-领略原始野性" group-title="輪播catvod",动物世界-领略原始野性
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQzMTM4P2V4cD0xNzg2NDgwODEzJnNpZ249OTc3ZDlkYmY0YTYwYzlkNTMxOTdjNTUwZWNkNTUxMWU0MjdhNmM5ZGE0YzFkOWQzYjA3Yjc2NTJlNzdjOTQ5NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749906" tvg-name="电视剧-流金岁月" group-title="輪播catvod",电视剧-流金岁月
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTA2P2V4cD0xNzg2NDgwODEzJnNpZ249YjBkNDcxMmJkMTc4ZGJmMGY3NjNmODQ3MWE3MDNiMzMyNjRkNDdkNDYyZjY4YWZmMjZlOGMxNjFlMjM0Y2Y0Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889048" tvg-name="致敬星爷致敬经典" group-title="輪播catvod",致敬星爷致敬经典
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDQ4P2V4cD0xNzg2NDgwODEzJnNpZ249ZmJkMTE5ZGNhZGJiZjRiYzNiYTA5MjYyODA1OTM4NGFjNGNlODViZjg4ZGYzMjcwYWY4ZTc5NDYwMmI4MjlhMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736889" tvg-name="欢乐集结号4" group-title="輪播catvod",欢乐集结号4
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODg5P2V4cD0xNzg2NDgwODEzJnNpZ249NWQzNTNmOTg5OWVhMTc2MjVjYmZjMTE3OGFhMGZjNDc3MmM4NmM5YzFmZTA4ODc4ZWM2ZWUxNmM3OGJlM2U0Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745119" tvg-name="欢乐集结号58-70" group-title="輪播catvod",欢乐集结号58-70
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTE5P2V4cD0xNzg2NDgwODEzJnNpZ249MGNmMWZkZGJhMzNiYTc1MjNkNjI4YTAwN2NjOTlkNTgzNmVlM2YzMjJlZTllNjdjYjc2MWQ1YjgxZmI1MGM4OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936178" tvg-name="聊天必备技能" group-title="輪播catvod",聊天必备技能
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTc4P2V4cD0xNzg2NDgwODEzJnNpZ249YzFkNGJiY2U2YzVlODVlNTM4NjcwNzVmMWVmMjFhMzY1ZmU5Yjg0NjRlMGYwMDVlNTk1ZGMwOGIyZjU3NjI4ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736840" tvg-name="超炫科幻大片" group-title="輪播catvod",超炫科幻大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQwP2V4cD0xNzg2NDgwODEzJnNpZ249YjUzYjlmMTgxZTA1ODlkZTY0MWZhNjVlYTc2YTRlMjJlMWNjMzg3ZmJlZWFkNGI4NDg4Y2M4YTI1MWJhMjIzZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736723" tvg-name="从溺水到冠军，热血泳坛励志传奇" group-title="輪播catvod",从溺水到冠军，热血泳坛励志传奇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzIzP2V4cD0xNzg2NDgwODEzJnNpZ249YmNhNGJjNjM4NDhkMjFiMjFkZTNiMzYwNzg4YmVkNTllZGZkOWRmM2NjOTkwMDg0YmU2NmQ1NTE5MjQ4YzVkNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1355171357" tvg-name="热播电影24" group-title="輪播catvod",热播电影24
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU1MTcxMzU3P2V4cD0xNzg2NDgwODEzJnNpZ249NzcyNTRiNTc4NzlhYWFlNTVjNmY2OWJmYzRhMzVhNjk0YTRmODU2ZTljZmQ4Y2RkZDc5ODU1NGEyNzNiNTA4Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749944" tvg-name="高分经典动作片" group-title="輪播catvod",高分经典动作片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTQ0P2V4cD0xNzg2NDgwODEzJnNpZ249NGFlMzYzOWE4ODdiMzQ3NGE4YjRlODdhNjdlMDc4NDFmNGMxMGM2NjAzZDMzOWYxOWVkZTY0Njc3N2JmYWJiMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736861" tvg-name="经典反转之战" group-title="輪播catvod",经典反转之战
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODYxP2V4cD0xNzg2NDgwODEzJnNpZ249N2Q5MjgyY2MwN2U2NzA4MmY5ODAwMWUxZjg2ODIzMjRiYmM0MWY4MGViNGFlYWVlNzc1N2Q2ZDhkOTRiNTc5YQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936209" tvg-name="本山快乐营1" group-title="輪播catvod",本山快乐营1
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjA5P2V4cD0xNzg2NDgwODEzJnNpZ249NzgzMzU4YzBkZjZhNzAwY2I0ZTBhZTZmMjVmNmJkZWRkM2M3NTlmYTU0YmJiMjZjNmU5NTkzOWZkZmEzNWRiZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931503" tvg-name="国产电影-就是闹着玩的" group-title="輪播catvod",国产电影-就是闹着玩的
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNTAzP2V4cD0xNzg2NDgwODEzJnNpZ249MGVjMThhY2YxYzA5Mzc0MDQ0OTlmZDRhOTMzM2FjMWU1YzQ4N2U4MTBlYjVhNmRjMzU0ZTNlNDE2MTM3N2IwNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930957" tvg-name="他的一生竟然如此悲伤" group-title="輪播catvod",他的一生竟然如此悲伤
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTU3P2V4cD0xNzg2NDgwODEzJnNpZ249ZmQwNmEzMDA5MDVjODMxMGUxYTFmZWE2NTJiZTk0ZDYxZDI5ZWRkYjY1Mjg1NzhjZDlkNjk2YzYyZGFhMWEwZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736901" tvg-name="一分钟学道菜" group-title="輪播catvod",一分钟学道菜
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTAxP2V4cD0xNzg2NDgwODEzJnNpZ249OWUxZjA5NTQ4NzRkMGM3N2M0YWI3MGRjMWZkOThjZGI3MDM5NGEyNDBkMzE1ZjRiMDcwNGY3YzFjYzgzODg1ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1454859415" tvg-name="一起来笑吧" group-title="輪播catvod",一起来笑吧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDU0ODU5NDE1P2V4cD0xNzg2NDgwODEzJnNpZ249ZjBkMzE3NDI2MmM4ZGMxOTNkN2Q2YTM4OGM1ZWJiZjQ1MjcxOTQzZTllZDJlZTc5YmRhZDY2MWI4NjhlZTljZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936214" tvg-name="绝地生死营救" group-title="輪播catvod",绝地生死营救
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjE0P2V4cD0xNzg2NDgwODEzJnNpZ249OWY3ZGExMzEyNDFkNWM5NTQ0NDMxMmUyOGEzYzFkMmJiMDliZWRiOTA0YjliOGUxYTAxNjdlNjM2ZmQ2ZGEyYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930967" tvg-name="不可能的任务-碟中谍4" group-title="輪播catvod",不可能的任务-碟中谍4
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTY3P2V4cD0xNzg2NDgwODEzJnNpZ249NGRjYzk4ZDAyM2EwMzhkMjk2ZTFiYWM4NTA3ZWI0MzNkYzkxM2NiNTJhODI3ZGQ4MWU0ODJiMmZlMmY3MWYyYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354744544" tvg-name="人间正道是沧桑" group-title="輪播catvod",人间正道是沧桑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NzQ0NTQ0P2V4cD0xNzg2NDgwODEzJnNpZ249YzlhNjRiMDhlYzBlMTA1NGVmMGJkOTM5MGYyZDg4OTkxYzBmZmQxMThjZDQ3NWJiOWYzNGQwZGI3ZmJkODc4Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="37880083" tvg-name="24H地下交通站全" group-title="輪播catvod",24H地下交通站全
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8zNzg4MDA4Mz9leHA9MTc4NjQ4MDgxMyZzaWduPTBmNjNjMjZlMjlmMDZlZGQ5Mzc3ZmZjYTcyZjRlOTQ0NWY4YjliM2M3ZjY3NzI0YjUxMTMyMmMyZTY5ZDdkMzQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936249" tvg-name="爆笑诡扯记" group-title="輪播catvod",爆笑诡扯记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjQ5P2V4cD0xNzg2NDgwODEzJnNpZ249YWI5MjkzMWM1MzAzYWY5MjJmMWM5ZjIwMDgxZDQzODc5YjNiOTUyMDc5N2MzZTUzOTg0YjVlODcxMTQzZWEwNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926671" tvg-name="爱在璀璨时" group-title="輪播catvod",爱在璀璨时
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjcxP2V4cD0xNzg2NDgwODEzJnNpZ249MGFjYzgxNGE2MmYzYTI0Y2JmYmMwOTcxYzNkNWNiOGM4ZDU4MjQ1ZTY0ZGFkN2Y3YTQ1YmNiMWEzYmE1N2M2Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749904" tvg-name="名不虚传-韩剧" group-title="輪播catvod",名不虚传-韩剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTA0P2V4cD0xNzg2NDgwODEzJnNpZ249ZmFmMWNlMTI3ODNiMTc5MDkyMGE2M2ZlZDBkYTdlZmJiMGM5NzQyYWM2Y2EzMmM3YzYzOThjNjA4MjBkZjU3MA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736892" tvg-name="辣警狂花" group-title="輪播catvod",辣警狂花
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODkyP2V4cD0xNzg2NDgwODEzJnNpZ249ZDkyMDNlMzNiZjgyYzM4OGU3NmM2ZmE3MmQ0NGI3NGFjM2MxZTc0MDUyYmM1ZWE3ZTQ3MDJjZDg3YzRjZDcyNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736891" tvg-name="流金岁月-经典港剧" group-title="輪播catvod",流金岁月-经典港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODkxP2V4cD0xNzg2NDgwODEzJnNpZ249ZTY1NTkxNDcwYTIyOTY4OGY2MTNiNmU3MWQyYjc3MTg4ZGQxODgwMWRkOWQ5ZTQ1OGZhY2E1NjEyZjI3ZWY4ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930912" tvg-name="远去的飞鹰-影视剧" group-title="輪播catvod",远去的飞鹰-影视剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTEyP2V4cD0xNzg2NDgwODEzJnNpZ249NjBhZjkxODMyNjExMzczY2RiOTc2YmI2YzJlMDc1ZmRkNTdhZmVlNjE0MWRkYjhhZTY4OTVmMTZkMzA0MzQwMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736918" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTE4P2V4cD0xNzg2NDgwODEzJnNpZ249YjA5NTg1MzJiNWYxY2NlYjQxYzZmY2EzNjRkMTRjNGIyNjIzY2I4ZjkzODRlMzcwY2I1YTdjODY0Y2M1YzMzMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382741639" tvg-name="百家讲坛-红楼梦篇" group-title="輪播catvod",百家讲坛-红楼梦篇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQxNjM5P2V4cD0xNzg2NDgwODEzJnNpZ249YWYyZTc5YWVkODlmMjkyMDg2ZjY4NjZjMGE1YzM0YTEzNjllMjhmNWFhODU4ZTU3Y2RkMGRiODIwNTRlYzg5Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930225" tvg-name="忠诚无畏，战犬出击" group-title="輪播catvod",忠诚无畏，战犬出击
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMjI1P2V4cD0xNzg2NDgwODEzJnNpZ249YTUxMWZhYWVhYmVhYzAxMDJkMDljNTQzZDcxMTk5NjIyZGQ2YTg0ZmYwNGZiODViYzg2MzZkZGI4ODljYWUzNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930963" tvg-name="渴望" group-title="輪播catvod",渴望
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTYzP2V4cD0xNzg2NDgwODEzJnNpZ249ODFjZDgwNWJkMWNjYTQ4ODE3MjhkNGFkODQxMjU2ZmI4NWZhMDU0MjM4M2U3NWVlNDg4YjJkMzFjZjJiYzJmOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736883" tvg-name="国产家庭电视剧-如果岁月可回头" group-title="輪播catvod",国产家庭电视剧-如果岁月可回头
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODgzP2V4cD0xNzg2NDgwODEzJnNpZ249Njk5OTg2M2MyYWFmZDk4ODZiNTJhMGQ1NjNlZTliMzU3NjUwMGY2M2I4NmU0YWQ0YjQxOWMzMjQxOWEyMDc5Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736863" tvg-name="牧野诡事之赤丹珠" group-title="輪播catvod",牧野诡事之赤丹珠
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODYzP2V4cD0xNzg2NDgwODEzJnNpZ249ZWU5M2VmNmZkYzliNmVhZTEzMDg3N2IwNDhkOWY4ZWE1ZTdiNDU4NTQ0OWQ5M2YxMjE5MmNjZWNlNDVmNTAxYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749898" tvg-name="向日葵的爱恋-泰剧" group-title="輪播catvod",向日葵的爱恋-泰剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODk4P2V4cD0xNzg2NDgwODEzJnNpZ249OTQxYjhlODM1N2FlZDRmOWU1NzUyODZiZmRkZGY5OTAwMDM5MjQ5OWQ4YWViNjg3OTVlYjMyYzQ2NjJiYjIwOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735568" tvg-name="高分动作片——创可贴" group-title="輪播catvod",高分动作片——创可贴
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTY4P2V4cD0xNzg2NDgwODEzJnNpZ249NWYyOTNmOWU5Zjk2YjkyNzcwNTc0NTgyYjJjNzI5MzllMjFhM2M1NjAzZmRhZjU0MzIxYjRiMWM0ZWRjMjQ4Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889009" tvg-name="金牌喜剧班" group-title="輪播catvod",金牌喜剧班
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDA5P2V4cD0xNzg2NDgwODEzJnNpZ249ZmRhMzBjYzA3ZWIxMWQ3MjA5YzA0ZGI0OTllOWJjOGVjODI1Y2JkNGY5ZDYwYjBkMzQ3MGMzZGY3ZjFhYjY2Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745182" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTgyP2V4cD0xNzg2NDgwODEzJnNpZ249NjVmZjBlZjdlY2FiMDA1ZGY5NmUxNDJmODQ5NDkxN2QwZjY2YWI4Y2UzNWFmNWYyMmFhM2U3Y2I3ZWRlYmNkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="54886912" tvg-name="什么会让你快乐" group-title="輪播catvod",什么会让你快乐
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS81NDg4NjkxMj9leHA9MTc4NjQ4MDgxMyZzaWduPTczZjBmOWU3Yzg3Y2NjZTNiMzM1MDAwNjU2YzJhMjU0ZGZkNGU1ZjA4NDU3NTY1NWE1NTFjOWE0NDcyNDY4YWQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736802" tvg-name="热血少年上线，《长歌行》开播" group-title="輪播catvod",热血少年上线，《长歌行》开播
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODAyP2V4cD0xNzg2NDgwODEzJnNpZ249MTcyZTZmYjc5ZGMwNjYyZmIzNjRjNWMzZDkyYjc3N2E2MzAwOGU2ZWE1NGM5OWEyZWNlZGMyM2U5OTQzODcxYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930189" tvg-name="横行不霸道" group-title="輪播catvod",横行不霸道
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMTg5P2V4cD0xNzg2NDgwODEzJnNpZ249ZTY0Y2I5ZWM1NmY5Mjc0NGY0MDczNjE2ZTY3NjNhNzA2ZDBiNTk5MDRkYWEyMGI2M2Y3N2E3ODNhNmI0YzkwZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736718" tvg-name="本山快乐营2" group-title="輪播catvod",本山快乐营2
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzE4P2V4cD0xNzg2NDgwODEzJnNpZ249NzFhOGQ5NTIwNWMzOWIwMGQ5MTMwYjQ3MGZhMjZiNDAzMjZjMTcyZDkxZDRmZDc4MTZjYjI4ODNmMzVmMjg5NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926637" tvg-name="你最爱的小龙女-神雕侠侣" group-title="輪播catvod",你最爱的小龙女-神雕侠侣
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjM3P2V4cD0xNzg2NDgwODEzJnNpZ249MGFiZTgxMjRhOTE3OTk5YTQ0ZDk4ZmUyMjg4OTdhOTMxM2Y2YmRmYTI1ZGMzNDU4OWU3OWM5YjJlODdlZjM1ZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932431" tvg-name="国产搞笑喜剧片" group-title="輪播catvod",国产搞笑喜剧片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDMxP2V4cD0xNzg2NDgwODEzJnNpZ249NmQ4ZDcxNzk1NGM3NGZiNjczMTkxMWNiYTljZGQ2ODY2MTI1ZjQwN2E5MGZmYzZmOGUwZjM2ZThkMmU3NGU5Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936169" tvg-name="沉浸式体验深海死斗" group-title="輪播catvod",沉浸式体验深海死斗
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTY5P2V4cD0xNzg2NDgwODEzJnNpZ249YzBiNzk0YTJlZjU0ZTk4YmRjNzAyZDA4NzlhNWU2YzU0NWU0YjViMmFmMmJhOGZiOWYxYTViZmUwZWY2YjhmMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745087" tvg-name="热血战争巨作" group-title="輪播catvod",热血战争巨作
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDg3P2V4cD0xNzg2NDgwODEzJnNpZ249ZTFlYzU0ZGJlY2ViNmNjY2E0Mjc1NWJkMWI1ZGEwZjdmNDA3ZjJjM2I2YWEyZThkYTQ0N2RkODJmYmM5NDMwNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736832" tvg-name="甜心少女冲冲冲" group-title="輪播catvod",甜心少女冲冲冲
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODMyP2V4cD0xNzg2NDgwODEzJnNpZ249MDI3YzlmMWI4Y2FjMzQ5MGIwMmRhNjIwYTIzMmFhMjM4NWVhYTE4YTk2YzU1OGMzZmRkOGMxZjBkMWU0ZTMzOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736815" tvg-name="银河护卫队-国外科幻巨作" group-title="輪播catvod",银河护卫队-国外科幻巨作
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODE1P2V4cD0xNzg2NDgwODEzJnNpZ249Zjc4YzMwNjE1ZDY4MjM1NzQ0ZDM4M2E2ZDNhNWQ1ZjExYWUxMzQzNThiOTEzMGNhYzJiMThmMGIyOTM1ZDZjYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736835" tvg-name="超燃科幻大片：明日边缘" group-title="輪播catvod",超燃科幻大片：明日边缘
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODM1P2V4cD0xNzg2NDgwODEzJnNpZ249ZWE2MTI4MWE5YzI2YWFiYTQyMDU4ODZhMDUzM2Y4OTU3OTE4NjgwYzM4OTdkMGNhZGM4Y2EwNmYzZGE0MGIyMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932429" tvg-name="一辆豪车配四个戏精" group-title="輪播catvod",一辆豪车配四个戏精
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDI5P2V4cD0xNzg2NDgwODEzJnNpZ249YjFkNzcyOTM3NDYwMWExNzJiZDkwYjdiMzU4MmM2YjdkODZlY2I4N2QxYjQxZmY0YTZmMDBkOWQ2MmIyOGIwNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1356363815" tvg-name="1930年代经典电影" group-title="輪播catvod",1930年代经典电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU2MzYzODE1P2V4cD0xNzg2NDgwODEzJnNpZ249MmUxNmQ4MmFjYWZlMjc5ZjBlYzFmZTM4ZDE5OGVkYmQ3MzAxM2Q3Nzg3MDMzOWE3YmRlYzVjYmY3YzZkMzQ2Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735548" tvg-name="喜剧闹翻天" group-title="輪播catvod",喜剧闹翻天
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQ4P2V4cD0xNzg2NDgwODEzJnNpZ249MmExODYyOTZhMjExNTNmZTU1MjAxZjhjYTZlMzIzM2U0MWMxNGQzZTEwYjVjN2ZkMTgxODEyMTYwY2JhYmFjMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932391" tvg-name="老夫少妻搞笑忘年恋" group-title="輪播catvod",老夫少妻搞笑忘年恋
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzkxP2V4cD0xNzg2NDgwODEzJnNpZ249YTJlODRmYWRlNDEzNmZlZTFhNDBmM2RkNDg5NzYxMzYwMjUwYjZmNWYzYmFiMzNiZGVhMTRiMWIwMWIwNWQ2Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936208" tvg-name="当旺爸爸-港剧" group-title="輪播catvod",当旺爸爸-港剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjA4P2V4cD0xNzg2NDgwODEzJnNpZ249NDA3NzVkY2Q1YmYxYTYzN2U5Y2M4ZWZhNDZiNDU0NjM2Yzc4MWU2NDc4NDBlMjRjMWU1NjBkNWRjMzE1M2RhOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353518742" tvg-name="进来 陪你看电视" group-title="輪播catvod",进来 陪你看电视
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNTE4NzQyP2V4cD0xNzg2NDgwODEzJnNpZ249Y2EyOGM0NmNiMTVkMTI5MjliYmE3NWU3NTkzNWEzNzJhMTMwZDJlNmVmZDMwOTU1NDQzOTNiNzdlNjc5MzEwYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735571" tvg-name="现代战争教科书神作" group-title="輪播catvod",现代战争教科书神作
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTcxP2V4cD0xNzg2NDgwODEzJnNpZ249NmQ2MzYyZmMzYzY1NzUyYjg4NmJmYmE3YTdkYTNkZTYyNzg0MmFhMjAwZmY3ZDgxMThlN2VhZDAwNDNkMmVkMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736895" tvg-name="霹雳火：速度与激情" group-title="輪播catvod",霹雳火：速度与激情
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODk1P2V4cD0xNzg2NDgwODEzJnNpZ249MGEwOTc3NjQ5NmMzNmQ0MzZmMTQxMWYzZGQ2ZDg5ZGRkN2NlYjExMGI5ZjgyMTk1YTMxMWIwMDRmN2UxMzIyMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930954" tvg-name="暗夜良人：暗夜出击护良善" group-title="輪播catvod",暗夜良人：暗夜出击护良善
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTU0P2V4cD0xNzg2NDgwODEzJnNpZ249NjdkZDNiOWNlZDMzYjg2OTI0ZjUzMjhhNGIxYTc0NTZmZDg1MTRhMWRkMWI2NzkxZjRjYWUzNTc3MWUzZTVkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936116" tvg-name="狄仁杰智破红瞳谜案" group-title="輪播catvod",狄仁杰智破红瞳谜案
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTE2P2V4cD0xNzg2NDgwODEzJnNpZ249NDhmOGFkZDE4OWVkYTA0NWI5ZTQ1ODQwOTM2OGU3Yzk4YmZiMTk1ZGViN2QzNzhmY2IwNzM0NjUwNDdjMGJhMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745122" tvg-name="熊出没之探险日记-森林探险记" group-title="輪播catvod",熊出没之探险日记-森林探险记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTIyP2V4cD0xNzg2NDgwODEzJnNpZ249NDBhZDA4ZGZiNjFiNTNiNjRmMGUzMzMzZjZlZDU4ODg4YzAyMDM5MWNmMGNlZTZiMDQwMDM3NmZkOGQ1NzNmMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749909" tvg-name="清官难当？看芝麻官如何破局" group-title="輪播catvod",清官难当？看芝麻官如何破局
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTA5P2V4cD0xNzg2NDgwODEzJnNpZ249NjMyMzZmNDlhMWJjNmNmNzQ3NmYwNjU3OTYxZTZkMDU0MDI4Y2JkZDZjN2FiMzQ4MzVjZTJmZTYyNDA2MmUwMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735542" tvg-name="高分港剧合集" group-title="輪播catvod",高分港剧合集
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQyP2V4cD0xNzg2NDgwODEzJnNpZ249Yzk4M2U2OGE4OWFkNzkwYzhlYjQzYTVhZTk1YmEyYWM3YTBlYTliM2M1Mzg4NjVhZTk4OTVmOTVhNDM0MWRmMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936142" tvg-name="海王-院线大片" group-title="輪播catvod",海王-院线大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTQyP2V4cD0xNzg2NDgwODEzJnNpZ249NDFmZTRhYTk3OWY2ODAxNWYzMmNhZDk1OWYwZTU0M2VmZmYwYWZhMWQxMzc1OWM2OWE3MmEwMzBlZGU5NTZmNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736858" tvg-name="国产动作电影" group-title="輪播catvod",国产动作电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODU4P2V4cD0xNzg2NDgwODEzJnNpZ249M2YwMTQxYzA0MzYyOTAxOTViNDZjY2I3YmZjNWIyOGIzNWQ4NGU2OGUwOWEwODVkYThiNWNjOWZjZDlkNjFhOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736866" tvg-name="马永贞" group-title="輪播catvod",马永贞
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODY2P2V4cD0xNzg2NDgwODEzJnNpZ249YTExZDk4NGZjZDcwZmQ5MzNlNDJhZmE0ZTAyYjRmMDc5YzlmZjdjYmQzMzlmZjc4ZmRlZmFiYzZhNTZhMmRlOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936128" tvg-name="间接伤害" group-title="輪播catvod",间接伤害
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTI4P2V4cD0xNzg2NDgwODEzJnNpZ249ZTAyNjExMTFhMGI4ZDI3YWFlYjY0ZmExNzc4NGQxMmVlYWVkMTVlZDA5ZDc3N2M2YjU4OWQ3OTE5ZTBjYjc2MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749918" tvg-name="热血狂战燃爆全场" group-title="輪播catvod",热血狂战燃爆全场
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTE4P2V4cD0xNzg2NDgwODEzJnNpZ249Yzg2YTRkMjQ4NTA4YjExNDJhOTg5ZjYwNGI5OTg2YjQyZmE5ZjAzNjVkNjk4MmM3NjNkZWQyMDQ5YWJkOGI0OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936170" tvg-name="彪哥逆袭笑翻天" group-title="輪播catvod",彪哥逆袭笑翻天
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTcwP2V4cD0xNzg2NDgwODEzJnNpZ249YjNmYTg4NjFhM2FiOGVmYWExM2E5MDlkMDMzMmQ0ZDQyMGJhMjIyYjgwM2MyOGVmMDRiMGNmZGIwZjA2MmE2Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382851597" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODUxNTk3P2V4cD0xNzg2NDgwODEzJnNpZ249NDc5MDUyOWNkMGIwNTQ5MDMyODZkOThmZDhkYWEwNjhjZDI3Nzg0MzQwMjMzOGFlZTM1MDkzN2FlZTg4Yzk1ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931495" tvg-name="热门喜剧" group-title="輪播catvod",热门喜剧
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNDk1P2V4cD0xNzg2NDgwODEzJnNpZ249ZjVmMjM4ODk1YmI1NTgwNGFjZjZlNjgwMjdhMmJiYWY1Y2ZjNDk4MmU1NWRjMTYzMzI1ZmU1NDA3OTJkM2JiNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736720" tvg-name="贾玲春晚小品" group-title="輪播catvod",贾玲春晚小品
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzIwP2V4cD0xNzg2NDgwODEzJnNpZ249ZDQxM2Q4MjIzNDFhMTdkM2JhNGEwOGI4NzU0ODNkYzdhYWYwZWMzOTdiOGY2Y2E2ZDU4OGZkMDVjMjljY2M0Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930924" tvg-name="不用加班真开心" group-title="輪播catvod",不用加班真开心
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTI0P2V4cD0xNzg2NDgwODEzJnNpZ249NTE2MTliMDE1MGM2NTk0NTg2ODk0MDNmOWIxZjdmZDYwOTljMmE0NmI3ZGNhZDExNzcyMjUzMjRlYjE4OGVhYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745111" tvg-name="深海巨兽惊现，渔民与神秘生物的生存博弈" group-title="輪播catvod",深海巨兽惊现，渔民与神秘生物的生存博弈
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTExP2V4cD0xNzg2NDgwODEzJnNpZ249ZjhmNjRkOTFmNDZhMGVlNzcxMjBkOGQ5MmFkZDg0Y2U3OGUyZDBiZWExMjY4NWQyZDZkMjYwNDE1ODY5YTMxZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382741637" tvg-name="最佳下饭小甜剧，暖心暖胃" group-title="輪播catvod",最佳下饭小甜剧，暖心暖胃
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQxNjM3P2V4cD0xNzg2NDgwODEzJnNpZ249ZmM0OWNjYTA0OTBmZGE0MWM3MmViYTlkMGE3Y2ZmM2Y2YTA3OTIwNzg3Y2Y5YjdmNmM1MjRkMmQzNjM0OWUwYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926735" tvg-name="毒力觉醒的异能逆袭狂潮" group-title="輪播catvod",毒力觉醒的异能逆袭狂潮
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NzM1P2V4cD0xNzg2NDgwODEzJnNpZ249YmQ2OTA3MDBiYjdiZjhkZjg1ZjYzYmQ3ZGExNjNkZmM1NTIzMzRlYmRlZDlkMTM4NzgyMGY2NTE2YmVhNWI0Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382737886" tvg-name="影视小艺" group-title="輪播catvod",影视小艺
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM3ODg2P2V4cD0xNzg2NDgwODEzJnNpZ249MTAxYTU2MTEwZDdmN2NjYzMzNjc5NWVlYzkyZjIxZjExOGM5YThiYjc2NWQ2ZmQ1MzMwZTY0NzEzZmZhYzAxYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736837" tvg-name="宇宙护卫队--国漫" group-title="輪播catvod",宇宙护卫队--国漫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODM3P2V4cD0xNzg2NDgwODEzJnNpZ249Mzg3MGQ2MTk2YTY5OTNjNzIwM2FkZTI0YWE3ZDhkMzMxOGQ3ODY0MjkxMjQ5NDNhOTJhNTM1ZjYxMmY3ZGJmNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930915" tvg-name="战俘营大逃亡" group-title="輪播catvod",战俘营大逃亡
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTE1P2V4cD0xNzg2NDgwODEzJnNpZ249NjU0YWE1NDg5N2ZjNGU1ODk2ZDYzYTQ1MTBmNjQ4MDQwMmRlY2FlMjIyMWJkZjRkMTIzN2FjNDAwMTcwZTAwYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932409" tvg-name="艾迪格里芬：经典就是我" group-title="輪播catvod",艾迪格里芬：经典就是我
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDA5P2V4cD0xNzg2NDgwODEzJnNpZ249YjVhOTcyYWEyNmFhOGFkZjM1YTY0ZGFmODEyYjQ2YTliYzA0MWM1ZDBiMTJmNTQyNzA2YmNmZmZmNThmYzJhNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736804" tvg-name="战地：异种浩劫" group-title="輪播catvod",战地：异种浩劫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODA0P2V4cD0xNzg2NDgwODEzJnNpZ249MjdhNTg2OWZmM2UzZTQ0MTU3NjMzNTRkYzg0ZjVmYzNmZmVlMzc1ZTlkZGI3MTUwODc4MmJmZDJhM2I2ZjIxOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930894" tvg-name="英叔之古墓狂魔" group-title="輪播catvod",英叔之古墓狂魔
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwODk0P2V4cD0xNzg2NDgwODEzJnNpZ249Nzk2OThiZDU2NTEwZTQ3MTgxZTM3OTY0NmI2Y2VmY2U4YWYxZWE5NzBmYmU3MjQ2OTNjN2EwZjg4OGZlNDExNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930968" tvg-name="呆萌飞行员" group-title="輪播catvod",呆萌飞行员
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTY4P2V4cD0xNzg2NDgwODEzJnNpZ249YjhmZGUwZDk3NTkyYmY3ZDc4NjI0ODExOWI1M2VmZGNkZmVjMTQwNDkyZTZhYjllMjhkMTdlZTFlNDYyZTUyYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745090" tvg-name="打破第四面墙" group-title="輪播catvod",打破第四面墙
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDkwP2V4cD0xNzg2NDgwODEzJnNpZ249MGEzNmU1NTdmY2Y2MGMyYTkwOTkyZWQ3M2QwMjkzZDgyNjQ4YTEzZmQ1YzQwNmE2OGRhYWVkMzUzNDNlYmE4Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736819" tvg-name="雷霆再起惊现继续" group-title="輪播catvod",雷霆再起惊现继续
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODE5P2V4cD0xNzg2NDgwODEzJnNpZ249OGM0NGI0YWMwODA0NjViZmNhMjMzYWEwMmQzODI0OTliZTkwZTIxMmIzMjY0ZDUxNjExYmYxMzgzODExMmU4Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930971" tvg-name="萌妹特攻队爆笑出击" group-title="輪播catvod",萌妹特攻队爆笑出击
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTcxP2V4cD0xNzg2NDgwODEzJnNpZ249ZDQwMTY4YzAwZTQzYzEwM2FhYzdhODYwYzc2Y2FmZjgxMWFiNmRlMjUwNTUxNmFhMDU1YzhlNjk2YmZlYzFmYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749878" tvg-name="本山选谁上-喜剧人选拔" group-title="輪播catvod",本山选谁上-喜剧人选拔
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODc4P2V4cD0xNzg2NDgwODEzJnNpZ249MjU4MjBmMWUyMTI0ZmNmNGUzNzc0NDMwNjVhZTkxNWUwN2ZjYjJlNDVhOGQ3YTE5ZGMxMGMzNDM1N2EyYzhlMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354933556" tvg-name="仙剑风云再起" group-title="輪播catvod",仙剑风云再起
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMzNTU2P2V4cD0xNzg2NDgwODEzJnNpZ249Mjg1NTY1NDIyNTM0MjUzMDQ2Nzc4NWI2Yjg3MTE2YjI4ZTM0YmM3MDM2ZWY5ODI0ODNhNmMyN2U5NWViNzBjOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736887" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODg3P2V4cD0xNzg2NDgwODEzJnNpZ249OGNiYmI5ZGY5MDlmMjY2MDUzM2JjY2U1OTBkM2M5OWU4ZmY3MDEyNTMwODMxZDA4Njg4ZmY5ZjQxMGRhY2JlZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749950" tvg-name="四平青年喋血曼谷" group-title="輪播catvod",四平青年喋血曼谷
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTUwP2V4cD0xNzg2NDgwODEzJnNpZ249YjdkNzk2MTE5OTgzNTAxMTFkODQzZDViZjk4YzJhN2ZhOTViODgxNjI1ZTg5MjZiYzliMDVhZDhjZTMxZjMwMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736874" tvg-name="轻松+愉快" group-title="輪播catvod",轻松+愉快
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODc0P2V4cD0xNzg2NDgwODEzJnNpZ249MTExZTRhYWQ2NTUxZjczZDlhNWI0M2QyZTQwM2MyYWQxMzI2OGUzNmI3OTM5OTEyOTJiN2ViMjBmMDAxOWUyMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745184" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTg0P2V4cD0xNzg2NDgwODEzJnNpZ249MTk5YzRhNDU1NTljZjA2YjNjODc0MjM4NzliNjkyMjk0M2RiOGU2MTUwNGMyNzk1ZWQ2ODQ2ZTU2ZDM0YmY4Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736872" tvg-name="PK地球神" group-title="輪播catvod",PK地球神
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODcyP2V4cD0xNzg2NDgwODEzJnNpZ249Y2U3NmY4ODJhYzY3NjNlZmMzY2EwYThiMWJkZTM4MDMyOTc5MTJjZDc0ZTM3ZDU2ODE4MjE2OTE5NWNkNzdjYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930821" tvg-name="国内科幻片来袭" group-title="輪播catvod",国内科幻片来袭
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwODIxP2V4cD0xNzg2NDgwODEzJnNpZ249YTdhZGUwMDk3MGNjZjY5ZTVmYjg1MjA0NGE2MGNjM2JlYWI1MThhZDEzOTFmN2MyZTk2ZjM2ZjIzNjNjZGVjZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926643" tvg-name="天师驱魔令" group-title="輪播catvod",天师驱魔令
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjQzP2V4cD0xNzg2NDgwODEzJnNpZ249MzVkNmEwOGFiNzYwZWUxZTc5ZDhiNzk1MzkzNjg1YmM1YzM1ZTM2OGU3ODNmY2Q4OTMyMWI0MDQ5MGE5NDNiYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889234" tvg-name="苹果工会招募主播" group-title="輪播catvod",苹果工会招募主播
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MjM0P2V4cD0xNzg2NDgwODEzJnNpZ249NzM5ZGZmZWQxMDU5NzhkZDUyYjNkNTRjNjg5ZDA1Y2Q1OTQwM2QzNTVjZTQ4MTk4YTJhODNmM2M2NTk0YjdhMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736917" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTE3P2V4cD0xNzg2NDgwODEzJnNpZ249ODY4YzUzODQwZTg0NDM4ODI3NzhmMTJiNDU1YWVkNzM1NWYyNTEwNjViNjZmZTczNzk3NTc0ZmUwNzYyODFhNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930909" tvg-name="每天都要快乐哦！" group-title="輪播catvod",每天都要快乐哦！
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTA5P2V4cD0xNzg2NDgwODEzJnNpZ249YjM2NmI2ZTUyNTE4MzZmMzlhMjcyY2NjZGY3NWUxN2JiM2U2MmMxNzBmZmE3YmE1MzcyMjNkMDQ0YTc0YTJhMQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936181" tvg-name="村里来了个洋媳妇" group-title="輪播catvod",村里来了个洋媳妇
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTgxP2V4cD0xNzg2NDgwODEzJnNpZ249MzYyMzAyNTFhNGY5MjRmYmJkNGFkNDJkNjFkY2I4MjQzZmRhM2VmYTA4MmM3NjcwYTlhYmRhMGI4ZmJhMzVjMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749907" tvg-name="神偷次世代" group-title="輪播catvod",神偷次世代
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTA3P2V4cD0xNzg2NDgwODEzJnNpZ249YTc2ZDk4NmI1ODA2NzNlOWY3YjJjMjhiNjkxZDFjNDU5NzE0ZDEzNTk5NDYyMGZkMTJkNzg2NzllNWViM2M0Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736844" tvg-name="雷霆救兵（普通话）" group-title="輪播catvod",雷霆救兵（普通话）
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQ0P2V4cD0xNzg2NDgwODEzJnNpZ249MTkzYjJlYjdiNTY5MGNlYzNhNGM3NTRiYmE5NzI2YjBlZWNmMGU4ZTIzOGQyMDk0M2VlMjdiNTYxMGNjM2RjYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382773714" tvg-name="战狼7吴京退役" group-title="輪播catvod",战狼7吴京退役
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzczNzE0P2V4cD0xNzg2NDgwODEzJnNpZ249MTJjYmJiYzYwZmU1NzlkYWE4M2I3NjM2OWY0NTI4OTdiOTdiOTVjNzk2NWNlMzM0MzBkOTFlYWIxNzNiYTc3OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735559" tvg-name="烈焰战车破黑暗" group-title="輪播catvod",烈焰战车破黑暗
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTU5P2V4cD0xNzg2NDgwODEzJnNpZ249NDRlZWNmZjQ2NzQ5NGYyM2M4MTlmMDMxMmMzMGNjOGE3OTM2MTAwZmQ2YjgwZGI1ZWQ0NzllMmQ5Yzg4ZWQzOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735573" tvg-name="音乐才女与霸道总裁的治愈之恋" group-title="輪播catvod",音乐才女与霸道总裁的治愈之恋
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTczP2V4cD0xNzg2NDgwODEzJnNpZ249M2E5OTY4OGRkMmM0M2MzY2FjODNkMDA2MjUwOTExMmI3MjAwY2FlOTVjNDgyMWM0MmJkZDI0ZmQzNTc2M2FiZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745190" tvg-name="看底层打工人逆袭翻身" group-title="輪播catvod",看底层打工人逆袭翻身
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTkwP2V4cD0xNzg2NDgwODEzJnNpZ249YzViNmJkMjdhNmQzOGI5ZmI2ODYxOWU0YWE4ZDQxNDZiZDFjZTlmZjI3ZWUwOTdkZDQzYmVhMGRlODNhNDExZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353413683" tvg-name="新独臂刀诠释老派暴力美学" group-title="輪播catvod",新独臂刀诠释老派暴力美学
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNDEzNjgzP2V4cD0xNzg2NDgwODEzJnNpZ249YTZmZGQ4NzZkMjBmYmY2MTQ5N2Y4M2I2Nzg0Nzg2MGQ1YTI5Y2FhZjFiNjJmNTE5MTgyZjQ4YjAzM2JkZjk0OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382773728" tvg-name="【武林客栈】" group-title="輪播catvod",【武林客栈】
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzczNzI4P2V4cD0xNzg2NDgwODEzJnNpZ249ZjVjMDU0NmI0NTZjNDRhMDZhMjA4NDVjNzRlZTMxYTVlM2YwZDExMWY1YWIzMjBmNjRkMzQwMTY5OTZiMmQzZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354931488" tvg-name="你是我的荣耀" group-title="輪播catvod",你是我的荣耀
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMxNDg4P2V4cD0xNzg2NDgwODEzJnNpZ249ZDEyNjNlNjIzZDg5M2ExODIyNTMwZTZmZTFiYTA4YTdkMTI2YmQzNTgxZTc5ZDM5YWMzYzAwODBjMGVlMjRiNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736825" tvg-name="许光汉主演喜剧大片" group-title="輪播catvod",许光汉主演喜剧大片
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODI1P2V4cD0xNzg2NDgwODEzJnNpZ249OGRjNzlkY2MwYWVlMzRlZjAxZTcxMjg0NjgzZGFlYmY1NjFiZTA3NWMwOGE2N2Q5YThlMjFmZGE0MGI0ODllYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749888" tvg-name="淮水情深深" group-title="輪播catvod",淮水情深深
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5ODg4P2V4cD0xNzg2NDgwODEzJnNpZ249ODhlNGY1MGU2ODM1ZWVkYjBlOWU5YmIyZDRkYWEzM2YzOGIzNWEyMWY0OWI0YzI2MGI1YTVkNmE3MDJmZmRkZA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354658051" tvg-name="奇葩侦探高能探案" group-title="輪播catvod",奇葩侦探高能探案
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0NjU4MDUxP2V4cD0xNzg2NDgwODEzJnNpZ249ZDc4YjdhMjYxZGFhYWZlYTQ1ZDliOGFmMWQyYjU2MzNhODM3ZGRlOWZkOGJhMjc5MTJlNGI4YzE3NmUxM2ZhNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936120" tvg-name="兴风作浪 2：爆笑搞事再升级" group-title="輪播catvod",兴风作浪 2：爆笑搞事再升级
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTIwP2V4cD0xNzg2NDgwODEzJnNpZ249Mzk4YzFmZjM2N2ZmYWM1ZDI4ZjFhZjQxNTFlYjcxOWI4ODA2ODkxMDkwOGNjNDlhMGI3ZWM2MzgyMjRlYjI4NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749912" tvg-name="原始求生记 第1季" group-title="輪播catvod",原始求生记 第1季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTEyP2V4cD0xNzg2NDgwODEzJnNpZ249MmZmOTk5NjJiMjViNmViZDkxNGEzNTFjYjdjODFlM2Q0MjU2NTRkNGE3MzI1OGExOTMzZWU5NWRjZDM4ZDg3ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936157" tvg-name="非典型恋爱" group-title="輪播catvod",非典型恋爱
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTU3P2V4cD0xNzg2NDgwODEzJnNpZ249ZDZhOGE5NWIyMDM5N2ZhYThjYzUwMzBiYTg4ODJiMmE4ZjgzMGU4ZjE3OTYzY2RlMzAxODkzYzcyMWViNWI5Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382828769" tvg-name="决战中的较量才是神仙打架" group-title="輪播catvod",决战中的较量才是神仙打架
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODI4NzY5P2V4cD0xNzg2NDgwODEzJnNpZ249MGYzMzc3YjA2MDU0NWE4MDllNmRjNmNhODc1ODQ1NjNmMGNmMmZmODFiMzA1NjBiZGFlZWU3OGM0YWUxOWM2MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930195" tvg-name="能耐大了第1季" group-title="輪播catvod",能耐大了第1季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwMTk1P2V4cD0xNzg2NDgwODEzJnNpZ249YWJkZDYxNmI4MWVjODViNDkwYzMzYmU1MThjYTRhMDBiY2U1ZGJhMGZkMGE2MzI5ZDUxNjNiMTg5MDJkMThmZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936231" tvg-name="相亲时代真实到让当代年轻人头皮发麻" group-title="輪播catvod",相亲时代真实到让当代年轻人头皮发麻
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjMxP2V4cD0xNzg2NDgwODEzJnNpZ249YWE0NmFiYzJkNTMzNzA3NGE2ZjY2YzI2ZjI1NmM1OGRkNGExOTBmNzRlNjBmODM2NTMzODU2Zjg2MGU0MGNkMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936217" tvg-name="泰式欢乐超上头" group-title="輪播catvod",泰式欢乐超上头
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjE3P2V4cD0xNzg2NDgwODEzJnNpZ249ZDRiN2E4MWNkZmRlMTk5YzNkMDVkZGJjZjZiNTRlZjhlYzAzZGM5NzI2YTE1OWVlMjI4YTAxZTVjODcwZDhhNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932365" tvg-name="蜀山伏魔剑" group-title="輪播catvod",蜀山伏魔剑
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyMzY1P2V4cD0xNzg2NDgwODEzJnNpZ249ODJlODIxMTVjMjI5YWNiMTAxOTFmMTZhODM2NDM4MzY1ODk0YjY0Zjc1MzA3MTI5ZjZlMjlhYTU3OGZjYTZjYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932441" tvg-name="夺面双雄" group-title="輪播catvod",夺面双雄
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDQxP2V4cD0xNzg2NDgwODEzJnNpZ249OTUxOTZkMTA0ZWYzMTNlYzVkYTEzNGVhNDA4NWRkZTBkYmRhMjc4MGMxZGM5MWY5ZjEyOTEwMjM1MWY3Y2E3Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736913" tvg-name="哮天犬闹龙宫" group-title="輪播catvod",哮天犬闹龙宫
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTEzP2V4cD0xNzg2NDgwODEzJnNpZ249YWZhY2E0Y2FlYjNkOTQ5MTkxYzYzZGYyZWNiYjg0YzcyNTMzYjE2ZjU2NWE5Mjk0NzBjNzMzYTg0NDJjMzdlNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736855" tvg-name="史前一万年" group-title="輪播catvod",史前一万年
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODU1P2V4cD0xNzg2NDgwODEzJnNpZ249YWE0OGVjOWM2YTkwMjFmOGQ4M2E5ZmNkNzcwY2QzZTYyNThjMmM5MThiMmRlOWNkMzg2Y2ZkNTljMDUwZDIzYg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735566" tvg-name="猎魔道人在线施法" group-title="輪播catvod",猎魔道人在线施法
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTY2P2V4cD0xNzg2NDgwODEzJnNpZ249MjljZDU0OTdjZmQwNzg5ZGEwODc2MDMzMjc2NmU1MTBkYTEyZmZhODcwODY2NzEwZWU1ZjA1MmY2MmNhNTk2Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749953" tvg-name="亲爱的味道" group-title="輪播catvod",亲爱的味道
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTUzP2V4cD0xNzg2NDgwODEzJnNpZ249MjlhYzM1MTY0OWEzMjVkZTM4Y2E2MDRkYzhmYjU0OGVlOTRjZjY4NzBhZmJlNmQ1YzM1YWUwM2YyZThiMzE3Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735545" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTQ1P2V4cD0xNzg2NDgwODEzJnNpZ249NzA4MmIyOGZmZTM4YjU1OWFmZjlmN2I0ZDk3ZGVjYmE5YThmZGFhYWZkMmJlNzA0MGU0M2JiOTk5OWE2NmFhOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736719" tvg-name="生死极速救援" group-title="輪播catvod",生死极速救援
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzE5P2V4cD0xNzg2NDgwODEzJnNpZ249N2IyY2VmN2JmNWI1YjE5NDgwZjk3NDIyNmJjNzE2ZjZhZDNlMjI4OGZiOWE0MGZiNmY5NWE3ZjM5OTI0ZWZlYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936160" tvg-name="坑你没商量" group-title="輪播catvod",坑你没商量
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTYwP2V4cD0xNzg2NDgwODEzJnNpZ249ZjdkNDVhYThhODQ3Y2Y0ZDZjZWRiM2RlMTFhZjAzYWYwMzg4ODkxN2FmZTVlODk5YTNhMjM0NTMyZWQ5MTU4Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930903" tvg-name="巨蛛嗜血狂" group-title="輪播catvod",巨蛛嗜血狂
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTAzP2V4cD0xNzg2NDgwODEzJnNpZ249ZTQ4NmI5ZTVmZTY2YzgzMzhlMjJjZjA5ZTk5NzU3YTgwODU0NTI5YTI1ZmNiZTE0YmY2ZDAxNDVmNDc0ZjE0ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736882" tvg-name="我是谁：失忆强者寻真身" group-title="輪播catvod",我是谁：失忆强者寻真身
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODgyP2V4cD0xNzg2NDgwODEzJnNpZ249MDU1ODA4OTY2MjE0MGE1ZTAyNDdiYzMyODAzMDdmMTkwMzRiZDlmMzFhYmQ5Mjc0Nzk1NGU0ZGRiMmVlYTVlYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736798" tvg-name="热烈的玫瑰" group-title="輪播catvod",热烈的玫瑰
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2Nzk4P2V4cD0xNzg2NDgwODEzJnNpZ249MDIxYzE1M2I5ODZhNzg2ODY5ZWExOTU4YTNmYThmOTg0NmZlYjRkNzQ1ZDMxM2QwN2Q4NGE3YmQ1NzhlZGM1Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736849" tvg-name="苍狼特战突击" group-title="輪播catvod",苍狼特战突击
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQ5P2V4cD0xNzg2NDgwODEzJnNpZ249ODM0ZjU3YWFmMTQ2NjhmYzllMTc4M2IwNTZlM2RiMzZmNTNmYTZjNTc5ZjE5NTQ5ODBmZTZhNzFiZWZkNDY0Ng&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736841" tvg-name="重启之深渊疑冢" group-title="輪播catvod",重启之深渊疑冢
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODQxP2V4cD0xNzg2NDgwODEzJnNpZ249OWJhYjZkMTMyYTA0MDEzNzkxZDFkNWMxZWFiNjNlMjViNTRkYWU3OGI4N2FiZTRmNGQ1NjMyM2Y5OTQ0MjE2Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735560" tvg-name="嗜血巨狼突袭人类" group-title="輪播catvod",嗜血巨狼突袭人类
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTYwP2V4cD0xNzg2NDgwODEzJnNpZ249OGFkZWRlMDY3YTQ0NzFhN2EwYzA2NWU3MzA3YjM4YTc1NGUzYmE5ZmQ3YjljODRjMjc2NWFlY2I2ODM1YzQ1Mw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932405" tvg-name="快递小哥变身英雄" group-title="輪播catvod",快递小哥变身英雄
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDA1P2V4cD0xNzg2NDgwODEzJnNpZ249ZGM2OTc3YzA1MDc4ZWQxZGZkNGY5ODIwNjUyYTRjOTMxYWZiNTgwMTQ2ZTRlMzFiMDlmYzFiM2QyMWM2MmQxMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936207" tvg-name="最佳时机：命运转角的最佳抉择与奔赴" group-title="輪播catvod",最佳时机：命运转角的最佳抉择与奔赴
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjA3P2V4cD0xNzg2NDgwODEzJnNpZ249OGI5OGY5MjAxOWJjNzFjNDNkYzBmNTM5ZGQyYWU3MGRkOTVkYjIxNjI4ODhiOTZlNzk3NDE4MWZjYmE4ZDkzNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1351496216" tvg-name="电影电影电影电影电影电影" group-title="輪播catvod",电影电影电影电影电影电影
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUxNDk2MjE2P2V4cD0xNzg2NDgwODEzJnNpZ249ZDVkMjVlNjcyMzNlZjkwNjQxODE0MmMwNzRlZWY3ZmQyOTRjNzQ4YTJmMjU1YzU0ZmY5NTY0MGM2ODk3YzI1OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382828768" tvg-name="狂虐悍匪姐姐太飒了" group-title="輪播catvod",狂虐悍匪姐姐太飒了
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyODI4NzY4P2V4cD0xNzg2NDgwODEzJnNpZ249YTBhM2YzNDc1MTkzMDY2YTU1ZTc5M2JhMTAzZjhiZTM3NjljZDBkM2FjYTBmMmM0NzRlMDMwMzQ0NDdmNGVhNA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745189" tvg-name="热血激辩社里的天才学霸神级对喷" group-title="輪播catvod",热血激辩社里的天才学霸神级对喷
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTg5P2V4cD0xNzg2NDgwODEzJnNpZ249ZTlmN2FlOTk0OWFhYmU0NjZiY2U3NmIxZDc2NjhjZmEyZDMwN2MzODE5NzgxNGE0MWIzZmJkYWYwNmMyMDIxMg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354888736" tvg-name="戏法师" group-title="輪播catvod",戏法师
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg4NzM2P2V4cD0xNzg2NDgwODEzJnNpZ249OGZhMmM4ZmRiNmU1M2Y4NjU0MmIwYmUyZDEzNDJjZGMyMjU4MDFkN2FkY2FhOTBmYmU2YmZlNTlkMmUxYWM1NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736715" tvg-name="新时代农村青年的热血奋斗记" group-title="輪播catvod",新时代农村青年的热血奋斗记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2NzE1P2V4cD0xNzg2NDgwODEzJnNpZ249M2I1YmM0OWNlNzgyYjljOTViMjFmMDI2OTY5Mzk2ZWRmNTBlMzhjYjQ3OTM5OWMyYTM5ZDQwMjVjYjFjOTkxYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736820" tvg-name="神秘来客闯入" group-title="輪播catvod",神秘来客闯入
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODIwP2V4cD0xNzg2NDgwODEzJnNpZ249MDU2N2EyM2UyYzg0NDA0YWIzMzhmYTJiMTNhNDA3YmI2ZDc4ZDU3ODMxZTRhOTk0YmQ1ZTJjYmUzMGE4OGVkNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936221" tvg-name="水怪2黑木林" group-title="輪播catvod",水怪2黑木林
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjIxP2V4cD0xNzg2NDgwODEzJnNpZ249NDgyNjBhMDJmZDZhOGZmOThlY2NhMGM0MTc1YmU4ZTIyYjcyM2RkOWE4YTU2NTkyMzU4YmRiMGI4NmY3NTI2Mg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936136" tvg-name="燃眉追击（普通话）" group-title="輪播catvod",燃眉追击（普通话）
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTM2P2V4cD0xNzg2NDgwODEzJnNpZ249ZmE1NDU2ZjE4NjJiNzVhZDY2ZTczMTkxMDY5NzFhZWJkOWYxZGQ4Yzk1ZWY4YWUwNzdlNmIwMGUwOGE0ODI3OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936228" tvg-name="迈阿密行动街头狂飙" group-title="輪播catvod",迈阿密行动街头狂飙
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjI4P2V4cD0xNzg2NDgwODEzJnNpZ249OTUxZTc5ZDJjODJlMzQxM2Q3MzRmNWZmYTMzMjI2YTQ3MGM2NDdiYzBhMDc4NjU0ZDgxMGZmYzRhYTZlMWE1OQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930945" tvg-name="侏罗纪复活战" group-title="輪播catvod",侏罗纪复活战
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTQ1P2V4cD0xNzg2NDgwODEzJnNpZ249Y2IwZGQ2ZGMxNjg1YjdmYzQxYTkwYjdlMGY2ZDA4MWVkZDBiYWJhZTgwNGQ4NTI0N2ExYmEzNDAxYzllZjkyNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889042" tvg-name="灭绝" group-title="輪播catvod",灭绝
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDQyP2V4cD0xNzg2NDgwODEzJnNpZ249ODJhNDQxMDYyMGQ1YWNhMThjNDJiZTBhOTA1MjA4YWRlOGIyYzMyNjY5NzkxODk4YzJkMTE3MTBlMzA0NGVlNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736817" tvg-name="法网难逃！天网狼蛛如何束手就擒" group-title="輪播catvod",法网难逃！天网狼蛛如何束手就擒
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODE3P2V4cD0xNzg2NDgwODEzJnNpZ249NTMwNDJhZGQzNzE4Mzk4NjRiNzhlMjQ0NjU4ZDIyZGE3NzBjNTJlOTk3NmVkM2RlYWZmOTRmMWM3YWM4ZDRhNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736865" tvg-name="千里不留行" group-title="輪播catvod",千里不留行
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODY1P2V4cD0xNzg2NDgwODEzJnNpZ249OTIxZGQ2ZGRhYzA4N2M0ZTNkMjcwYzNlYjk1MjViNjdlNmE1MzlhZWQ3YTc4OWYxODFlNzk2MWRmMDMwZTEwNQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745094" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDk0P2V4cD0xNzg2NDgwODEzJnNpZ249YWEzOTAwMTUyNzU5NTY3ZWMyMDVhMDJhODY1NGRmOWU2OWNmNzE1MmI0NjVjZTNmNWE3NzA4MGQyNzM1OTlkMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745099" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDk5P2V4cD0xNzg2NDgwODEzJnNpZ249OWI0OTI0YjM1ZTY3MzE0NjdiZGNkNTYxOGRhNTUwNDVhNjMyMTEyZGRlMmZkNGEwNjhlMDZhOWU2MGEwMTIwNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936155" tvg-name="另类猪妖爆笑逆袭" group-title="輪播catvod",另类猪妖爆笑逆袭
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTU1P2V4cD0xNzg2NDgwODEzJnNpZ249MWZmYWJhMmM3OGU3NDUwOWM1YWNkOGMxNGI2YzU3NjQwNWI5NWM3YzE4NTQ1YTg0MDM3OWI3ZTFmOWU3MDUyZg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735552" tvg-name="铁甲狂猴雷霆" group-title="輪播catvod",铁甲狂猴雷霆
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTUyP2V4cD0xNzg2NDgwODEzJnNpZ249OTA2YWRjNWRjNDg4NDlkZTUxNzFhYmMxZjI1OGYyODViMjBlZTBkMTY4ZjVhMDgwNTU1YTcyOWZjNDZiMTA2MQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930927" tvg-name="像萤火虫一样用微光治愈精神内耗" group-title="輪播catvod",像萤火虫一样用微光治愈精神内耗
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTI3P2V4cD0xNzg2NDgwODEzJnNpZ249ZmY2MThmNDEzZmRlN2E4NTZhZGFlNDZiYTkwY2E1MmY4YzRjZTY4N2JjYWYwYjFiM2U3ZGY4ZDg2NDQwN2UyYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1450556636" tvg-name="少年歌行" group-title="輪播catvod",少年歌行
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDUwNTU2NjM2P2V4cD0xNzg2NDgwODEzJnNpZ249ZmE4MmJhODI3NjA5NDZmZmIzYTBhYmM0Njk2ZWFhMmI0YzJlMWU1NjBiZDM5NmNmODRlZGIzNTM2Y2U1NzI1Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="29600150" tvg-name="《东北小品》" group-title="輪播catvod",《东北小品》
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8yOTYwMDE1MD9leHA9MTc4NjQ4MDgxMyZzaWduPWE4MDRjM2FjM2Q2M2I2MjExMzRhYWYzY2JhOGZhZjViZWUzM2I0YzNjMTc0N2IxNjlmZmMwZGI0MDE1ZWFhMGQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="34313906" tvg-name="东北小品王" group-title="輪播catvod",东北小品王
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8zNDMxMzkwNj9leHA9MTc4NjQ4MDgxMyZzaWduPWNiNmQ4YzYyOGU0ODY1MzA0NmMxMWIxZTMxNjgzY2QyNDNhNzhmNWEzNDVkYWE0ZmQwODFhYmIzYzkzMmNhNTI&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736912" tvg-name="揭秘！经典传奇背后的未解之谜" group-title="輪播catvod",揭秘！经典传奇背后的未解之谜
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTEyP2V4cD0xNzg2NDgwODEzJnNpZ249NjIyOTBjYjc5NWMyMDc3ZWEyNmFlOWE4NDkwZjFjYWJkMmI3NDYwOTY3YWUzOGQ0Zjc2OTBjM2I1NTVmZWY5OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745098" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDk4P2V4cD0xNzg2NDgwODEzJnNpZ249MDZhMTU5N2QzODdhNjM0MGQ3Y2NhMmVjZDNhMGYyODIzNjkxMTlkMmNjMDU5NThjMTc0Nzc5MDNmNGQ3YWNhMw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932402" tvg-name="中华英雄之风云再起" group-title="輪播catvod",中华英雄之风云再起
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDAyP2V4cD0xNzg2NDgwODEzJnNpZ249NTU3YThmNWEzN2U2YzUzMDM5ZmY4NGY4MmZjZGI4NjU1ZjhkNzViMzc0ODMxYmY1ZjMzNGM3Y2E4ZDlkY2NjZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735581" tvg-name="窈窕奶爸反差萌翻，硬汉被迫营业" group-title="輪播catvod",窈窕奶爸反差萌翻，硬汉被迫营业
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTgxP2V4cD0xNzg2NDgwODEzJnNpZ249Zjg4NDg1MjUxN2EyNWYxY2ZkNTY1NTAzMThlZmM2MDQzNjYyMDY3NjQ4NTUxODc3N2Q4Y2EwMDAzZDg5Y2NkYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736893" tvg-name="长夜危机" group-title="輪播catvod",长夜危机
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODkzP2V4cD0xNzg2NDgwODEzJnNpZ249NDRmYzFlZjcwMDJjNzE4ZTZlYWQxMDU5ZmE1Nzk2ZTRmMDA2MWQ2ZTc4ZDcyMmEwMTQ2NDIxOWIwMDhiMzE4ZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1414779538" tvg-name="玄幻喜剧修仙" group-title="輪播catvod",玄幻喜剧修仙
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xNDE0Nzc5NTM4P2V4cD0xNzg2NDgwODEzJnNpZ249MDgyNGMzNDRlYjA3NTNhMjdmZjdmNjI3ZTM2NzU2NjdjNTQ0MmM2MTUzOWViMWZiOTUwNjZlOGE2MjQ3MGY4NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736857" tvg-name="巅峰救援行动" group-title="輪播catvod",巅峰救援行动
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODU3P2V4cD0xNzg2NDgwODEzJnNpZ249YzkxYmQ3NmY4NzUwZDgxZTRhN2YxNmZmZGMwZGM4M2I5ODkzMWVlMTM2ODQwMWNiNDc0OWIyZmNkMDExMDBhOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736869" tvg-name="痞子殿下（普通话）" group-title="輪播catvod",痞子殿下（普通话）
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODY5P2V4cD0xNzg2NDgwODEzJnNpZ249ZjhjYWUzOTRhNjE1OTMzZTVlNDBhODRkMDdhZTI4MDZhMTI0NDhhNThmYmU2ZWQ4MDc2ZmQ1NjBjMWM2NzEzOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736853" tvg-name="欢喜冤家宜解不宜结" group-title="輪播catvod",欢喜冤家宜解不宜结
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODUzP2V4cD0xNzg2NDgwODEzJnNpZ249NGU0MDg3MDdmYmE1NGVlOWFkODQyZTBhNmFkMmZhNDNmYmQ3YzI0ZTBhNzliZjYzMTk3NmFjMmFlOTliYmI2Zg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936210" tvg-name="皮皮虾总裁也太沙雕了" group-title="輪播catvod",皮皮虾总裁也太沙雕了
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjEwP2V4cD0xNzg2NDgwODEzJnNpZ249NmIxYjRlZmNmMDljYjFjMzMzYTBlNmE3Zjk5YTdhMDlkNGNmZTc4NmQ3ODU3YWMyMTJkYjhmNGY4ODQyZGRlMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936238" tvg-name="一场袭击改写了所有人命运" group-title="輪播catvod",一场袭击改写了所有人命运
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjM4P2V4cD0xNzg2NDgwODEzJnNpZ249MzIwMTdhOTg4ZTRhZmZjNzhkNGQ1NzM5NTUxMjA3NDcxMjI0MDY1ZTdmMjM0YzZkZjZhYjIwMzk1MTFlZTJhMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736852" tvg-name="致命伴旅" group-title="輪播catvod",致命伴旅
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2ODUyP2V4cD0xNzg2NDgwODEzJnNpZ249NDAyMDFhOWRhZTMyODQ2MDBlZmVjYTY1YmQxNmE5ZmU5NWJhMjRmY2ViNjljZDMyYjJiMzBhOWNiMGYzOGFkOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354930984" tvg-name="这反差萌让猫奴顶不住" group-title="輪播catvod",这反差萌让猫奴顶不住
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMwOTg0P2V4cD0xNzg2NDgwODEzJnNpZ249YzMwMzUyNzM1OTRmNDJjMGEzMTlhM2M1MTkxNTA3YTBkYjk4ZTkwNTYwZmY0NTM4OGI4YzY5ZWQzN2Q2Y2ZiYw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745106" tvg-name="儿大不由爹" group-title="輪播catvod",儿大不由爹
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTA2P2V4cD0xNzg2NDgwODEzJnNpZ249NjhkYWJlODNhMzRjYjFmOGNhNTI0YjdkZDBlMDE1ODFiM2VkNmI4Y2E5ZDBmMjAyMTA1ZWM0NmYyNjc5MGNhOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735561" tvg-name="这才是真巨星养成记" group-title="輪播catvod",这才是真巨星养成记
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NTYxP2V4cD0xNzg2NDgwODEzJnNpZ249YWFkNjI2Y2E3NmM1MDI5NzVjNGMwZDM1ZDhlMDk3N2JjNDhmOGUwYzFiNmYzMzBmYzEzYWU0NjNkMTRlZmU2Yw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735627" tvg-name="护卫者守护真情" group-title="輪播catvod",护卫者守护真情
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NjI3P2V4cD0xNzg2NDgwODEzJnNpZ249NzY3MGNmZTVhZWU5M2M1NGYyMjI5YzE0ZDU5YmU4MTE5YmRkY2VjNjFlZjgzYTUzMWNmOTA5NWEwNWE4OGE5NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382736920" tvg-name="开播！情景喜剧第二季" group-title="輪播catvod",开播！情景喜剧第二季
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM2OTIwP2V4cD0xNzg2NDgwODEzJnNpZ249ZTc1OWM4OThlZGU2MTNiZjRmYzA1Mjk5NjEzMmVjM2E4MDNmMTFmMzcxMjJiYjFjYjgzMTIzYWVkM2IyNDhkZQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936229" tvg-name="体验另一种生活！" group-title="輪播catvod",体验另一种生活！
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MjI5P2V4cD0xNzg2NDgwODEzJnNpZ249NjJmZmQ2NzA5NGI1NTkzZGE2MjNjMWE4NThjOWNhOGI1NjU3MGMwNTQ1MTFkNmUxYjZmMzdkMzYyOGYwMGM4Yg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745178" tvg-name="人鱼" group-title="輪播catvod",人鱼
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTc4P2V4cD0xNzg2NDgwODEzJnNpZ249YzkyZTQyNzk5OGE4MzcxMDU5MzU5NDYyZjNhMWQ0NjU4ZWRiNjg4Y2VhNWZlMTI3MmIwNDI3MmY1MGU2NzBmYQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936154" tvg-name="看十四天之暖春来如何治愈严冬" group-title="輪播catvod",看十四天之暖春来如何治愈严冬
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTU0P2V4cD0xNzg2NDgwODEzJnNpZ249YmY5NmIwM2I1NzZmZDYzMTU5ODJlMGNmMGE3YmYwMjFhNmFmNjVmZGUwMDE2Y2I4NTRhODE0ZTU1NGU5NWVjOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932426" tvg-name="疯狂电影人2带你解锁无厘头拍戏" group-title="輪播catvod",疯狂电影人2带你解锁无厘头拍戏
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDI2P2V4cD0xNzg2NDgwODEzJnNpZ249NGQwMDM5YTY2ZmVlNmI4MGEzOGMxNjUyODE0YWNlMDdhM2E4NzI3MTRmMTY5MjIwMDU2Y2RiODBmOTBmZGEwOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936199" tvg-name="百战英雄" group-title="輪播catvod",百战英雄
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTk5P2V4cD0xNzg2NDgwODEzJnNpZ249OGU0NGI5NWEyM2ViOGUzZDI4OTM1MzQ1YzNlMTVhNGE5NGI2NjM1NmI5M2JkZTQwOTlkZTFkNTBmYjllZGRjNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749940" tvg-name="特派先锋出击" group-title="輪播catvod",特派先锋出击
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTQwP2V4cD0xNzg2NDgwODEzJnNpZ249ZmQwMWNmODE0ZmQ0OTQ4YjVhODI5ODJmM2VhMmQ5NDI3NWIzMThjYjFjMjEyYjI0ZWZhNDRhYmZlNjQ1NGViOA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354926622" tvg-name="沸点" group-title="輪播catvod",沸点
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTI2NjIyP2V4cD0xNzg2NDgwODEzJnNpZ249MmQzODBlNDJkMjRlNzA4ZjlkYjhmYjg1ZmExYmQ5NmNiNTYwZDgwMTg5N2RiZTU0NzA4ZjEyZDEzNjY3MjQ3NA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745092" tvg-name="离谱！我被自己追杀了" group-title="輪播catvod",离谱！我被自己追杀了
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MDkyP2V4cD0xNzg2NDgwODEzJnNpZ249NTc0YzFhZGE1NDg3ZDYxMGRkMjE4ZDllZGJkM2FjZWU0YjBmYWI4YzkxZTlmZDEzZTJjMGRhZmY0MjJiYTY1OA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382745181" tvg-name="外星人入侵" group-title="輪播catvod",外星人入侵
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ1MTgxP2V4cD0xNzg2NDgwODEzJnNpZ249MWI2ZWEwMmI4NjFmNWNiYThmNGQ1MTUzNGZjNDE3MjQ2NzQ3YjIzNzA1Njg3YTgyMTYzNGQzZDNlNDk0NWQyMA&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382749910" tvg-name="在悬崖边缘狂舞" group-title="輪播catvod",在悬崖边缘狂舞
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzQ5OTEwP2V4cD0xNzg2NDgwODEzJnNpZ249ODc3NGUxMjMwYjdmZWU3MDQ5ZTc4YTVmMjA5OWMzZGExMGQyYjkwYzVlNzU3MjgzMjRiYzM5Njk5MWZmNmEzNw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1353454489" tvg-name="新主播求关注和支持" group-title="輪播catvod",新主播求关注和支持
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzUzNDU0NDg5P2V4cD0xNzg2NDgwODEzJnNpZ249NDI4ZjUwZGUzYzdkOTM2YzliMTc4MjNkZWY1MTdiZDlkM2JlNzFiNGUwNjM5OGFmOGI3MmQ4NmEzYzUxZDE3NQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354932407" tvg-name="幸运贩卖机" group-title="輪播catvod",幸运贩卖机
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTMyNDA3P2V4cD0xNzg2NDgwODEzJnNpZ249NDcxNzQ3M2NmYWNkMjRlMGFhMDFmNjdiZDBlOGE3OGNkODYwYWVkMjg2MGNhNjVkZDRlNjdlOTgyMjRkOTk2Nw&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354936195" tvg-name="杀机四伏" group-title="輪播catvod",杀机四伏
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0OTM2MTk1P2V4cD0xNzg2NDgwODEzJnNpZ249ZmZlNTE2NDUyZWMxYzRjMWE2Yjg5NjhjYjI4YmJiNzk2YThkN2Y4OTFlZGQ5ZmU2YzMzNzA4YzM0ODQ3NjhkOQ&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1354889015" tvg-name="有个精灵闺蜜是种什么神仙体验" group-title="輪播catvod",有个精灵闺蜜是种什么神仙体验
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzU0ODg5MDE1P2V4cD0xNzg2NDgwODEzJnNpZ249ODdlOTFiYTc4MWNjZTVkZjhkOWY3Nzg3MjEyNDY1YmExMWJmYTNhZDkzMzgwNDI0ZmYxOGU2NDk5NTU5ODcxNg&tk=4136611d5e00edf05553bd9c3cbfee19
-#EXTINF:-1 tvg-id="1382735625" tvg-name="YY用户" group-title="輪播catvod",YY用户
-https://live.catvod.com/?id=fx%3AaHR0cHM6Ly9pcHR2LmNhdHZvZC5jb20veS95eS8xMzgyNzM1NjI1P2V4cD0xNzg2NDgwODEzJnNpZ249NWMwZDg1OTFhYTZlYWUwYWIyZjg5ZGRmMGRiNWM2OTFkYTc1ZWY3YmI2ZDI0MmM0MTEzM2I2MWYxMWNiZjBkZg&tk=4136611d5e00edf05553bd9c3cbfee19
+
 
 
 #EXTINF:-1 group-title="经典🦔轮播",古惑仔
