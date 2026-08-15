@@ -24,63 +24,6 @@
             "changeable": 1
         },
         
-
-    {
-      "key": "hipy_py_一起看[Ayq]",
-      "name": "🍻一起看[Ayq](hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "AppYqk",
-      "lang": "hipy",
-      "ext": {
-        "host": "https://gapi0320.3njzmrx1.com/config.json,https://gapi0320.lq0okex8.com/config.json,https://gapi0320.zabqs8xp.com/config.json,https://yappconfig-20250628-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://yconfig-20250628-1360051343.cos.ap-guangzhou.myqcloud.com/config.json",
-        "appId": "d6d520ea90904f1ba680ed6c9c9f9007",
-        "appkey": "70af67d2b6cf47679b397ea4c1886877",
-        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
-        "bundlerId": "com.flotimingo.ts",
-        "source": "1001_default",
-        "version": "1.3.10",
-        "versionCode": 1104
-      }
-    },
-    {
-      "key": "hipy_py_橘子TV[Ayq]",
-      "name": "🍊橘子TV[Ayq](hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/AppYqk?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "AppYqk",
-      "lang": "hipy",
-      "ext": {
-        "host": "https://gapi0725.5p8jcjc.com/config.json,https://gapi0725.olrv5gz.com/config.json,https://gapi0725.mvljeat.com/config.json,https://jzapp-1318635097.cos.ap-shanghai.myqcloud.com/config.json,https://juzi-config-1360051343.cos.ap-shanghai.myqcloud.com/config.json",
-        "appId": "fea23e11fc1241409682880e15fb2851",
-        "appkey": "f384b87cc9ef41e4842dda977bae2c7f",
-        "udid": "bfc18c00-c866-46cb-8d7b-121c39b942d4",
-        "bundlerId": "com.voraguzzee.ts",
-        "source": "1003_default",
-        "version": "1.0.1",
-        "versionCode": 1000
-                   }
-          },
-      
-          {
-      "key": "drpyS_可视影院",
-      "name": "🌜可视影院(DS)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/可视影院?pwd=dzyyds",
-      "searchable": 2,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "可视影院",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    },
     
         {
       "key": "drpyS_非凡采集[采]",
@@ -96,43 +39,6 @@
       "ext": ""
     },
     
-        {
-      "key": "hipy_py_新浪资源",
-      "name": "🏖新浪资源(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/新浪资源?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "新浪资源",
-      "lang": "hipy",
-      "ext": ""
-    },
-    {
-      "key": "hipy_py_新韩剧网",
-      "name": "🍋‍🟩新韩剧网(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/新韩剧网?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "新韩剧网",
-      "lang": "hipy",
-      "ext": ""
-    },
-    
-    {
-      "key": "hipy_py_爱瓜APP",
-      "name": "🍈爱瓜APP(hipy)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/爱瓜APP?do=py&pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "title": "爱瓜APP",
-      "lang": "hipy",
-      "ext": ""
-    },
     
        {
       "key": "drpyS_枫林影视",
@@ -173,19 +79,6 @@
       "ext": ""
     }, 
     
-        {
-      "key": "drpyS_七猫短剧",
-      "name": "🍭七猫短剧(DS)",
-      "type": 4,
-      "api": "http://192.129.140.23:5757/api/七猫短剧?pwd=dzyyds",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 0,
-      "title": "七猫短剧",
-      "类型": "影视",
-      "lang": "ds",
-      "ext": ""
-    },
 
                 {
             "name": "🪁杜北|秒播",
@@ -200,17 +93,7 @@
             "ext": "./lib/dubk.json"
             
         },
-                {
-            "name": "📹U视|墙外",
-            "key": "YouSP",
-            "type": 3,
-             "jar": "./lib/bfdb--cvdvds.png;md5;29ee0730017660db62f57a585cd1aeb6",            
-            "api": "csp_YouSPAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+
         {
             "name": "🍕欧乐|墙外",
             "key": "Olyy",
@@ -272,15 +155,7 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-        {
-            "key": "1905",
-            "name": "💡1905｜影视",
-            "type": 3,
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+
 
         {
             "key": "橘皮",
@@ -304,18 +179,7 @@
             "type": 3,
             "api": "./lib/apiv1197永乐视频.js"
         },
-        {
-            "key": "金牌123",
-            "name": "🥇金牌｜影视",
-            "type": 3,
-            "api": "./lib/apiv1211金牌影院.js"
-        },
-        {
-            "key": "鬼片",
-            "name": "🥇鬼片｜影视",
-            "type": 3,
-            "api": "./lib/apiv1239鬼片之家.js"
-        },
+
         {
             "key": "爱看机器1人",
             "name": "🥇爱看┃影视",
@@ -324,18 +188,7 @@
         },
 
 
-    {
-      "key": "剧圈圈",
-      "name": "⭕剧圈圈",
-      "type": 3,
-      "jar": "./lib/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",            
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/剧圈圈.json",
-      "click": "document.getElementById('playleft').children[0].contentWindow.document.getElementById('start').click()"
-    },
+
         {
       "key": "csp_Ikanbot",
       "name": "👾Ikanbot",
@@ -349,41 +202,7 @@
       
     },
 
-        {
-      "key": "湾湾频道",
-      "name": "🌀┃湾湾┃频道",
-      "type": 3,
-      "jar": "./lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
-      "api": "csp_Ptt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-        {
-      "key": "采集机器人",
-      "name": "🤖┃采集┃合集",
-      "type": 3,
-      "jar": "./lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca",
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-        {
-      "key": "追追",
-      "name": "追追|弹幕",
-      "type": 3,
-       "jar": "./lib/custom_spiderhb.jar;md5;441dd4beb706631ac292120cd3ba1f05",
-      "api": "csp_Wcai",
-      "ext": "https://zjuys.com/"
-    },
-        {
-      "key": "独播",
-      "name": "独播|弹幕",
-      "type": 3,
-             "jar": "./lib/custom_spiderhb.jar;md5;441dd4beb706631ac292120cd3ba1f05",
-      "api": "csp_Duboku"
-    },
+
         {
       "key": "234XBPQ",
       "name": "234|弹幕",
@@ -420,14 +239,7 @@
       "api": "csp_HBPQ",
       "ext": "./lib/三四影视.json"
     },
-        {
-      "key": "雪糕",
-      "name": "雪糕|弹幕",
-      "type": 3,
-             "jar": "./lib/custom_spiderhb.jar;md5;441dd4beb706631ac292120cd3ba1f05",
-      "api": "csp_HBPQ",
-      "ext": "./lib/雪糕影视.json"
-    },    
+
   {
             "key": "奶酪",
             "name": "🧀奶酪┃秒播",
@@ -469,14 +281,8 @@
             "jar": "./lib/fcat.jar",            
             "api": "csp_AppGet",
             "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
-        },
-        {
-            "key": "csp_SP360",
-            "name": "📺┃360┃官源",
-            "type": 3,
-            "jar": "./lib/fcat.jar",                   
-            "api": "csp_SP360"
         }
+ 
                
 
     ],
