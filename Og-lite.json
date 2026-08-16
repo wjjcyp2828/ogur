@@ -354,7 +354,221 @@
       "ext": "AIBOX1/cXJzdHV2d3h5ent8fX5/gJSHXACxiaOhlDsHGFhMei42hQcM21N1YL+Xjmn/dKIPhqPH04rJTjOD/dOVV8xThpo8ekks7+zZ/m4ua+/zI/K+ye7uPM48dz3mLJjkRDq1drjfeyBLU7TXPc4ObBoQ4gAAgBzMpY+ltlaIgvXJb5RIkKfjaoKNdRJFS97/L40LCEGo3dYBge3z+4IjY3bUDByQ7fsiA6Sc2YKL6b6fxl9VDBOtsf3WvH3vDcj5EtOi"
     },
 
-
+    {
+      "key": "王子",
+      "name": "🍟王子",
+      "type": 3,
+      "jar":"./lib/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "api": "csp_Xdai",
+      "ext": "7lj763gg402i7942503g9g9jk909jji3g0li9j088291253h4k141gggkk41435h43924kg6ik48i0856j01k882glkh4kllg538704jl5k4j1gl27j321g03lll"
+    },
+    
+        {
+      "key": "baofeng",
+      "name": "🍀暴风资源",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "短剧"
+      ]
+    },
+    
+        {
+      "key": "modu",
+      "name": "🍀魔都资源",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "短剧"
+      ]
+    },
+    
+        {
+      "key": "lezi",
+      "name": "🍀乐子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "短剧"
+      ]
+    },
+    
+    
+        {
+      "key": "piaoling",
+      "name": "🍀飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "短剧"
+      ]
+    },
+    
+        {
+      "key": "灵虎",
+      "name": "灵虎|弹幕",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "jar":"./lib/custom_spider.jar;md5;f06aa2a9d607b104773691315f5c997d",
+      "api": "csp_HBgetapp",
+      "ext": {
+        "host": "https://bind.315999.xyz/89.txt",
+        "appkey": "#getapp@TMD@2025",
+        "appiv": "#getapp@TMD@2025"
+      }
+    },
+    
+        {
+      "key": "csp_Cjhj",
+      "name": "🎿采集┃[采集]",
+      "type": 3,
+       "jar": "./lib/vox.jar;md5;bacaf87156a5bbfa698bff1fd9d8e1d5",
+      "api": "csp_Cjhj",
+      "searchable": 1,
+      "changeable": 0
+    },
+    
+        {
+            "key": "爱看机器人",
+            "name": "💡爱看｜影视",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+            {
+      "key": "果果短剧",
+      "name": "果果 • 短剧",
+      "type": 3,
+      "jar":"./lib/08071330.png;md5;aa23687f6d958550651c1d49f3c2651b",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
+        "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
+      }
+    },
+    
  
         {
       "key": "drpyS_非凡采集[采]",
@@ -462,16 +676,6 @@
 
 
         {
-            "key": "爱看机器人",
-            "name": "💡爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
-        {
             "key": "骚火影视",
             "name": "💡骚火｜影视",
             "type": 3,
@@ -510,28 +714,6 @@
             "type": 3,
             "api": "./lib/apiv1197永乐视频.js"
         },
-
-        {
-            "key": "爱看机器1人",
-            "name": "🥇爱看┃影视",
-            "type": 3,
-            "api": "./lib/apiv1253爱看机器人.js"
-        },
-
-
-
-        {
-      "key": "csp_Ikanbot",
-      "name": "👾Ikanbot",
-      "type": 3,
-       "jar": "./lib/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",      
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/peizhi.json"
-      
-    },
 
 
         {
