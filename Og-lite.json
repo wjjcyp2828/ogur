@@ -907,6 +907,16 @@
             "timeout": 10
         },
         
+                {
+            "name": "🐱Catvod",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+        
    
         {
             "name": "🐬4GTV(梯子任何节点)1080p",
