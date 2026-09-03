@@ -881,6 +881,17 @@
     ],
     "lives": [
     
+    
+            {
+            "name": "dog4glive",
+            "type": 0,
+            "url": "./lib/dog4glive.txt",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+            },
+    
          {
             "name": "🐙港奥台国际",
             "type": 0,
@@ -889,25 +900,6 @@
             "timeout": 10
         },
     
-                    {
-            "name": "🐱Catvod",
-            "type": 0,
-            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
-             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-    
-        
-      
-   
-        {
-            "name": "🐬4GTV(梯子任何节点)1080p",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ha.msbot.dpdns.org/4gtv_api.php"
-        },
         
          {
             "name": "🍒fuzy",
@@ -955,20 +947,8 @@
       "url": "https://iptv543.com/bbb.php",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        
-        	    {
-            "name": "🐬海豚佬xxx视频资源🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/xxx视频资源.txt"
-        },
-	    {
-            "name": "🐬至尊🔞",
-            "type": 0,
-            "ua": "okhttp",
-            "url": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/至尊.m3u"
         }
+        
 
 
     ],
