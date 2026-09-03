@@ -1,453 +1,452 @@
 #EXTM3U
 
 
-tvg-id="1" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="🏖️四季I",民視第一台
-http://tv123.cc.cd/live.php?ch=1766&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6da80346426894aef928e1c1be931545210b2bbaae50a342e8bfc5f3dd5eaf95
+#EXTINF:-1 tvg-id="1" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="🏖️四季I",民視第一台
+http://tv123.cc.cd/live.php?ch=1768&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=05ffe9883bd51d478b58d2b794dbbd92e1dd8e1c6042f094c922d43c26729b73
 #EXTINF:-1 tvg-id="254" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="🏖️四季I",民視第一台
-http://tv123.cc.cd/live.php?ch=1767&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b740222a1ec38285cf95d0edf0c33d168475d7abaa2ae07e20bc6ce71a6eab55
+http://tv123.cc.cd/live.php?ch=1769&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=45345a90e911992225f455d4c34590c019da52f8cf775b3bef227a33e4ecd7e1
 #EXTINF:-1 tvg-id="470" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_pc.webp" group-title="🏖️四季I",民視第一台
-http://tv123.cc.cd/live.php?ch=1768&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6b5e528247f546f5ed5022ce62bb818fbf521872a9c9236b7beb439a25c245dc
+http://tv123.cc.cd/live.php?ch=1770&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3a291806eed460fd1b52e0c148f46a2e98c5668d48132f043c1b17f6aa1af2c5
 #EXTINF:-1 tvg-id="2" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="🏖️四季I",民視台灣台
-http://tv123.cc.cd/live.php?ch=1769&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4811f003fd9eb45df21ae556b39ed48cadf947ff210c4f8d8fff978720cd4b42
+http://tv123.cc.cd/live.php?ch=1771&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=180d203e585cf0d473fa24cfabbd1f471e7a40765395f69c0be0508538d993af
 #EXTINF:-1 tvg-id="255" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="🏖️四季I",民視台灣台
-http://tv123.cc.cd/live.php?ch=1770&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=253b933740a4c9b923d14e529b26a9554df560cb98646a36f8c84c2034ebb1a8
+http://tv123.cc.cd/live.php?ch=1772&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=993a4c79a29099209e7c1eb09ef2df3c2faf5a3d5e9d5d45e5981f284c85cd0a
 #EXTINF:-1 tvg-id="469" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_pc.webp" group-title="🏖️四季I",民視台灣台
-http://tv123.cc.cd/live.php?ch=1771&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=77837d6ac6eb0f61f02a9929954be3f8e58356abad01f2a71b7ad9725746be2d
+http://tv123.cc.cd/live.php?ch=1773&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=638f8048d98a1c9db80dd0a2b99ff5b8aef009a5a9c8a4de99bc5f2f656fd24f
 #EXTINF:-1 tvg-id="246" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="🏖️四季I",民視
-http://tv123.cc.cd/live.php?ch=1772&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=a7291c0a3cbb0a9edbea046a862b551eec76ab957e0bcf2fa2f78043407b10e3
+http://tv123.cc.cd/live.php?ch=1774&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=21dc8c3604db246aa1138bea1970b0876a4671c2e05b7dd938b137f6f37dc6ef
 #EXTINF:-1 tvg-id="3" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="🏖️四季I",民視
-http://tv123.cc.cd/live.php?ch=1773&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c2592d78dbf9f0fb3f7f35cec4f0d0c8bab811b36a07999a1d4021f8b9c5d131
+http://tv123.cc.cd/live.php?ch=1775&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=cbb6bcde862f205a709db43babffc37ed12d695f9f1ead198b550e8a435f1d9d
 #EXTINF:-1 tvg-id="468" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_pc.webp" group-title="🏖️四季I",民視
-http://tv123.cc.cd/live.php?ch=1774&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=0f1ab1999ea93270eb768c352b36877d915318b1ae2a67e0bdd6b49e1bca98cb
+http://tv123.cc.cd/live.php?ch=1776&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f3ad320fa1bf6c2e60671fa78d319d9cf292b26925c7ed2f2c58a39a6e6c5e6d
 #EXTINF:-1 tvg-id="209" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="🏖️四季I",大愛電視
-http://tv123.cc.cd/live.php?ch=1775&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f18c39ad56d030a259dcd356cb2cbd76f387b9b77cbc42433ea8f915700e57a4
+http://tv123.cc.cd/live.php?ch=1777&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f8871f4276c11a8b8605122910c185f41de6e0ae67ce269d5e2fdde46a417c75
 #EXTINF:-1 tvg-id="4" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="🏖️四季I",中視
-http://tv123.cc.cd/live.php?ch=1776&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9c8a34635b499ea64d7af0ec1c38d3a42d2d93550ca3366cd3e9bff8ad6a9b26
+http://tv123.cc.cd/live.php?ch=1778&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=40f310843faaf9ae90278e60f7887131e713345fa4b928d69cd57b16f31e8fb9
 #EXTINF:-1 tvg-id="6" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="🏖️四季I",華視
-http://tv123.cc.cd/live.php?ch=1777&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=da4bd77c9e0be7357a746d327ddbf6fc0df808b7bdb1ff745dfd0f1a31399995
+http://tv123.cc.cd/live.php?ch=1779&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d728ffe3de816579276174c15c68a8658a248cc3425359f6a3dfc800fc480724
 #EXTINF:-1 tvg-id="169" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="🏖️四季I",三立綜合台
-http://tv123.cc.cd/live.php?ch=1778&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=46e09c3aa3510f8eb8e9add6d2d4110145f8512a760a36a35666f95fc277971c
+http://tv123.cc.cd/live.php?ch=1780&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b6f9c4776984832ddf01256a207226d67a3c2c78d1b68d59662aa21b724e1383
 #EXTINF:-1 tvg-id="107" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="🏖️四季I",客家電視台
-http://tv123.cc.cd/live.php?ch=1779&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b714b3e6988384ec4cee5166cdf6a18bd1481b0878dbe4ebb8bd0da47eff2504
+http://tv123.cc.cd/live.php?ch=1781&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a90d4a04e96be968ca2a3321f813c09b491bed421da8c05aa563281a0734071a
 #EXTINF:-1 tvg-id="114" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️四季I",八大綜藝台
-http://tv123.cc.cd/live.php?ch=1780&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e58eaf94423cc50949dd717eb4aa1beebf544bd97d8d0127945bc02d54d058ad
+http://tv123.cc.cd/live.php?ch=1782&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=72e87f016f056a589f81e701f8cddfd47403c1708340f0e03e3085217e244788
 #EXTINF:-1 tvg-id="276" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv410_mobile.png" group-title="🏖️四季I",八大綜藝台
-http://tv123.cc.cd/live.php?ch=1781&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9f08cab9da12042dd24aa59d8afdd3fbbe0295ccbbc3b4cad2a98e1bd83105b4
+http://tv123.cc.cd/live.php?ch=1783&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=11c867f7127709abb36fc8d5bb6b3b08c9416f0e1a15d7a7e3c928fe89e4303e
 #EXTINF:-1 tvg-id="227" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="🏖️四季I",TVBS精采台
-http://tv123.cc.cd/live.php?ch=1782&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=bbb41ea6a801135aa6b914a738d00b084337bf17c93a78af7dbfccca15587a26
+http://tv123.cc.cd/live.php?ch=1784&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=71b6825e5183c5e28a4a794e771d2625c84161683032317c0261f3ea5ec7ecd2
 #EXTINF:-1 tvg-id="21" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="🏖️四季I",靖天綜合台
-http://tv123.cc.cd/live.php?ch=1783&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=ac8c28d4045b1c6dd3957681c9a32f9c458e64ffbe38c21ecf423e043a28a999
+http://tv123.cc.cd/live.php?ch=1785&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=77741bf868be9fdeb6816f8af47991a46dce760aed759b3bc34876bbf977ce83
 #EXTINF:-1 tvg-id="22" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="🏖️四季I",靖天日本台
-http://tv123.cc.cd/live.php?ch=1784&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9af07caf7dbda845cfdd702b9ad6df9a492a87f686a4175244e74f462c3e5303
+http://tv123.cc.cd/live.php?ch=1786&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=abe437895464274807698ec1d44c5bd08cce0362378310810adfa387cd0cbd9a
 #EXTINF:-1 tvg-id="223" tvg-name="新唐人亞太台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live050_mobile.png" group-title="🏖️四季I",新唐人亞太台
-http://tv123.cc.cd/live.php?ch=1785&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=68813eaacd902e6f7f0b41cfbbcbc707cc9b38d7ac47cd0b96d8b480cbfe9ba6
+http://tv123.cc.cd/live.php?ch=1787&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=09b95997f2179eeaa0883e1f7aee21a5a8bae693e9debfcb0c41a411568a7620
 #EXTINF:-1 tvg-id="189" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="🏖️四季I",ARIRANG阿里郎頻道
-http://tv123.cc.cd/live.php?ch=1786&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d36549db2770c0a4009b57033ecfd6447f7e70345c01927b18c3e72cc923134f
+http://tv123.cc.cd/live.php?ch=1788&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=33cac8a403e37408c305fd501e773efe40afe16bedf854a87a13ea7ed51ca25f
 #EXTINF:-1 tvg-id="252" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="🏖️四季I",Global Trekker
-http://tv123.cc.cd/live.php?ch=1787&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=8a5ddd6386f045a4254ac017b8fdb415d90970926030db2f98a6f11b66105b6d
+http://tv123.cc.cd/live.php?ch=1789&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a1476abfce8e5e7580cdc50f06fab3beb59d7a61577196dd503c1c2ff6df064a
 #EXTINF:-1 tvg-id="124" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="🏖️四季I",原住民族電視台
-http://tv123.cc.cd/live.php?ch=1788&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3b4469bb405d7993a15bffcbf95ee877d2b6408b907296bf63976252b2c33480
+http://tv123.cc.cd/live.php?ch=1790&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b6f3a8a8145e946f7a1719f1475902447b0a1fe953f98a61a19ad1541f6d3eea
 #EXTINF:-1 tvg-id="499" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="🏖️四季I",東森購物二台
-http://tv123.cc.cd/live.php?ch=1789&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=8b26101de3845ab9b57ac64a3bdee3462603dca83876b61891812d0a319732e2
+http://tv123.cc.cd/live.php?ch=1791&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c21a74ae39cdf23e2cfea8356f9e3334e76a86b1b8d6cf06cf4a4c61b1afd108
 #EXTINF:-1 tvg-id="188" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="🏖️四季I",LiveABC互動英語頻道
-http://tv123.cc.cd/live.php?ch=1790&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e672ea0ef1769d16e35cc2ed474370c4100fcfa63c9e322183f15252419957dc
+http://tv123.cc.cd/live.php?ch=1792&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=37a4cbf159fa05338d269629f6dce08f02331ca6f257583be88faa697762f979
 #EXTINF:-1 tvg-id="11" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="🏖️四季I",達文西頻道
-http://tv123.cc.cd/live.php?ch=1791&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9b72926bba6d9991774e4b49ff07d4967f200e0d5a6df8f4ebafd901b000d111
+http://tv123.cc.cd/live.php?ch=1793&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=19bb52d03ccd5c0f7cd7d0ee685207e5a974d8bf5c950250dfd3925a9a1d6acb
 #EXTINF:-1 tvg-id="490" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp" group-title="🏖️四季I",ELTV生活英語台
-http://tv123.cc.cd/live.php?ch=1792&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9c20a7f6681cf25153a132ffd584b0656b26d73f9f5c9ead1844ffcf138fc145
+http://tv123.cc.cd/live.php?ch=1794&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=8cf7ab6597dbdacfca56fd5a7a96258d4b2b88bedc58a0264474aa8d72e92038
 #EXTINF:-1 tvg-id="219" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="🏖️四季I",Nick Jr. 兒童頻道
-http://tv123.cc.cd/live.php?ch=1793&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=0cdbbe2a709ef9b12fc08eec609c6498d1790d6761275ec44b05d96a7d8bd594
+http://tv123.cc.cd/live.php?ch=1795&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=6b1f2b0c7cc50b871cf3c4e31985a7347e2027644bd2aa743b15cb6578937637
 #EXTINF:-1 tvg-id="185" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="🏖️四季I",尼克兒童頻道
-http://tv123.cc.cd/live.php?ch=1794&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b715d82d641f6df52e6d9555a2297454f586674dd0e785a368e91e4c1dc2f16f
+http://tv123.cc.cd/live.php?ch=1796&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f365e85f72b623dfa624ce2739596fc20273b44b28fab82df1f41a23c226f5f8
 #EXTINF:-1 tvg-id="282" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="🏖️四季I",DreamWorks 夢工廠動畫
-http://tv123.cc.cd/live.php?ch=1795&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=30e7723f5419c1626e66677df10546ca59cffed64fc401c4e6678752b577fa52
+http://tv123.cc.cd/live.php?ch=1797&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c4742dae4cb9400fa139db97d0e471725c0b2dd1cabfe643f2e1596477a99c39
 #EXTINF:-1 tvg-id="15" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="🏖️四季I",靖天卡通台
-http://tv123.cc.cd/live.php?ch=1796&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=cabe28132bfca8d3b4af0c7b36668cb4de7a95f9e70239a9bfcf7fdc60ae86f5
+http://tv123.cc.cd/live.php?ch=1798&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=58d6e2429656044b67e71e2048f3499529bcda1013b343ec76dd545655386e14
 #EXTINF:-1 tvg-id="59" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="🏖️四季I",靖洋卡通Nice Bingo
-http://tv123.cc.cd/live.php?ch=1797&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c2e13534f18d53fab19c84fddd8b9fbf404f189509db8c67e026e1674d58468a
+http://tv123.cc.cd/live.php?ch=1799&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f9578ccc8debbaf4872c22576a3266f2ec995e23101a4bb46126697e1acf8936
 #EXTINF:-1 tvg-id="231" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/4gtv-live107.png" group-title="🏖️四季I",MOMO親子台
-http://tv123.cc.cd/live.php?ch=1798&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=114dc31b20256095407903baaf4a08a27c9f6e52f24f64803ed496b21b14326c
+http://tv123.cc.cd/live.php?ch=1800&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c4ca66db219ddc914b124ae665ec84bc73ca817eac7c8ddbc426957707364753
 #EXTINF:-1 tvg-id="173" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季I",東森購物一台
-http://tv123.cc.cd/live.php?ch=1799&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=cecb307922b021850ded65c795a7543371b97ddabf0fd62d03489e1090b8f756
+http://tv123.cc.cd/live.php?ch=1801&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a419af7f1fa5b2a62f11150c3d8749b3a530ed6bdb6773a7d7d8d5b6d742ce65
 #EXTINF:-1 tvg-id="268" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="🏖️四季I",鏡電視新聞台
-http://tv123.cc.cd/live.php?ch=1800&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b7eba7810e6c20706a8c9de53070a510ab0f66e9ea2bc134b3a15ab3d90d4b3b
+http://tv123.cc.cd/live.php?ch=1802&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=2a65ef4e438f990b447ba545914e66d5274a6c9d620e09ffe586754ebfd67a21
 #EXTINF:-1 tvg-id="234" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live114_mobile.png" group-title="🏖️四季I",東森新聞台
-http://tv123.cc.cd/live.php?ch=1801&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e6971ec98987cd191ed2d0d7ad23bf5677b693b2a48aba16c8d2f0a3c0593090
+http://tv123.cc.cd/live.php?ch=1803&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=761319d07f005be5ecb552bb398fa355b27cae99d28caa1aa61815a2e0e1a89a
 #EXTINF:-1 tvg-id="292" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="🏖️四季I",東森新聞台
-http://tv123.cc.cd/live.php?ch=1802&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=877719c314b0605db6f47f25b0d8c1920210ad3fe47cbe73df3daf09f50490a7
+http://tv123.cc.cd/live.php?ch=1804&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a19b7185118448623dd424bcfcda19686d2d397b93e3700936c2b40a34dac7b2
 #EXTINF:-1 tvg-id="34" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="🏖️四季I",華視新聞
-http://tv123.cc.cd/live.php?ch=1803&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=752ef2a45bee779898ec61fe516cc175779353b08da269839854bea63cced09a
+http://tv123.cc.cd/live.php?ch=1805&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3462fae6d6cd419cd3f198598f70d7a4466293ee0e08d3e88cc05ab2a3c2247c
 #EXTINF:-1 tvg-id="256" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="🏖️四季I",華視新聞
-http://tv123.cc.cd/live.php?ch=1804&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9fd2ddd5e45eb7e2825f094904741d7780949eabe5afebea9028d9c25a087408
+http://tv123.cc.cd/live.php?ch=1806&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5b025540a8d67dc38ee24aef093257284f3cf9cf2b04dd2bd5685fcd3e9a8a17
 #EXTINF:-1 tvg-id="257" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="🏖️四季I",民視新聞台
-http://tv123.cc.cd/live.php?ch=1805&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=75df382aa21510a602da07c7ac0edf1dd6e68baf450347b27b5a32a847771b93
+http://tv123.cc.cd/live.php?ch=1807&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f91c6f4d366d4d81da68923abfe9b54c2598228db3b48b20e001f61323f33074
 #EXTINF:-1 tvg-id="31" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="🏖️四季I",民視新聞台
-http://tv123.cc.cd/live.php?ch=1806&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=afe462b177a75bc1277a6ca49a3c453dffe2e360b88be35a172077cb1c0af4a4
+http://tv123.cc.cd/live.php?ch=1808&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a456b8a3c972cabefe455528c5015c3973681d47c8187561fa523820e3579348
 #EXTINF:-1 tvg-id="467" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_pc.webp" group-title="🏖️四季I",民視新聞台
-http://tv123.cc.cd/live.php?ch=1807&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2949fd171603fc461d7948c26a4d43c193a56335b7c9fa6c9a7428f43bc12b27
+http://tv123.cc.cd/live.php?ch=1809&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c7eb0bb0aab04a16e990fae99a088b2762d5415c2ba3ed968ab5ff5a8bd98465
 #EXTINF:-1 tvg-id="229" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="🏖️四季I",三立新聞iNEWS
-http://tv123.cc.cd/live.php?ch=1808&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=ec5b7a67996e58ef783f2e3bfc0514492ced35754e2cc7266f2a74ef04927f42
+http://tv123.cc.cd/live.php?ch=1810&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=1e50d038dc7b6abc4440b1a689bfc81023e90a58a51344de0d9b56255569cac9
 #EXTINF:-1 tvg-id="291" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv072_mobile.png" group-title="🏖️四季I",TVBS新聞
-http://tv123.cc.cd/live.php?ch=1809&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3f4e0b16e8e6170f26bc2843c05a6b6b21a1cda89fd4989d53e40a8fbba0e272
+http://tv123.cc.cd/live.php?ch=1811&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ef3377d39991d080747b78c0b0d5b952445cf0bdef79772f328e091e39b80483
 #EXTINF:-1 tvg-id="473" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="🏖️四季I",TVBS新聞
-http://tv123.cc.cd/live.php?ch=1810&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f828d14030b884d27f5f5b0f5ee5e6954c600796cb3420f5727fd66aa5e053cb
+http://tv123.cc.cd/live.php?ch=1812&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0931a6986bec5e3ff69dd670e1bcc857b191462305ef0f89b9881c171b6c778a
 #EXTINF:-1 tvg-id="211" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live019_mobile.png" group-title="🏖️四季I",東森財經新聞台
-http://tv123.cc.cd/live.php?ch=1811&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e6fed0311300cdac42d917a6d014ee51268f5764189fec53cd512cee102934ec
+http://tv123.cc.cd/live.php?ch=1813&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=19cc6dcc5f24097afd577999a431a9b21fdd16e8249b40d4cd10e3e0ce0bf23b
 #EXTINF:-1 tvg-id="293" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="🏖️四季I",東森財經新聞台
-http://tv123.cc.cd/live.php?ch=1812&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=1b00f0f840d63a037c275b989ccee92a947dfc719c4d11e6d27f8bba40f5e430
+http://tv123.cc.cd/live.php?ch=1814&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b68b580b2d19467587d67d8833cde20d6e3199e4dbec8c8e5a71e515f6f6bedf
 #EXTINF:-1 tvg-id="33" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="🏖️四季I",中視新聞
-http://tv123.cc.cd/live.php?ch=1813&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=cd61b53a6697b6cb638567369f22bf5a2b34beb12a805e21d861b101862d4ec1
+http://tv123.cc.cd/live.php?ch=1815&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=556db501e169aeb126281f306fe4e974f13c2b2087abf7038d7320ea6434d629
 #EXTINF:-1 tvg-id="283" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="🏖️四季I",Bloomberg TV
-http://tv123.cc.cd/live.php?ch=1814&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6876c67eb5caeff208d0c537935517816cc022174e4f5910852f1582430f90f9
+http://tv123.cc.cd/live.php?ch=1816&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=331f2b207fcff953b4bf94331ce9bae01f36e6946a33bca5422222009efa3934
 #EXTINF:-1 tvg-id="36" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14.png" group-title="🏖️四季I",寰宇新聞台
-http://tv123.cc.cd/live.php?ch=1815&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=40471ff8d66d2cbc05eb98ebda5a7a23c0aa3aa7ec892c974564c95529fcd8e3
+http://tv123.cc.cd/live.php?ch=1817&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ecfb7d3a36ea90da287efc294badc13c149e9ec03db741b3e6c6f328264eb723
 #EXTINF:-1 tvg-id="280" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv156.png" group-title="🏖️四季I",寰宇新聞台灣台
-http://tv123.cc.cd/live.php?ch=1816&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2ecbd248b653ac4da90ab92007a8c22c0d0a34fc6fce694b6d206243ba1aff74
+http://tv123.cc.cd/live.php?ch=1818&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c460438c216a82b75136f0d88a40e37281301e2b817f9ffe758e36f90f2d6543
 #EXTINF:-1 tvg-id="224" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="🏖️四季I",SBN全球財經台
-http://tv123.cc.cd/live.php?ch=1817&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=71548081c47b85ec48f6f74e8c1bd0e382f441debedd01af55654e4b7e856268
+http://tv123.cc.cd/live.php?ch=1819&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c506a60f2e3764c06c68f56894566bf92db7425ad52b58f2159f90faacf543e0
 #EXTINF:-1 tvg-id="281" tvg-name="寰宇財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv158.png" group-title="🏖️四季I",寰宇財經台
-http://tv123.cc.cd/live.php?ch=1818&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=eaf2e689bd1a4147af8c116fb1157ab46e2e1223d3d53f12d44a34d85eded166
+http://tv123.cc.cd/live.php?ch=1820&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=508482eaca117bf478fa469da1a08cd781d2b9e42a976993ad7c14699f6998ad
 #EXTINF:-1 tvg-id="183" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv073_mobile.png" group-title="🏖️四季I",TVBS
-http://tv123.cc.cd/live.php?ch=1819&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e88b230b5e7da3ec907af32193c0decd653e94495b0e7b719527d42112855048
+http://tv123.cc.cd/live.php?ch=1821&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0e74cc2db6fb21b686955ada0632c02b27da2e61188bd84d4e3774a6f8517c49
 #EXTINF:-1 tvg-id="472" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="🏖️四季I",TVBS
-http://tv123.cc.cd/live.php?ch=1820&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=28deea75b5a4324bfd8fe348738bdcd178180f0787a2af0b5fe15f94d2d7d477
+http://tv123.cc.cd/live.php?ch=1822&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9147b3c22afddd6235cd8305d17febce7941e1926e95e3de0dd8ad6f9c876698
 #EXTINF:-1 tvg-id="500" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.webp" group-title="🏖️四季I",東森購物四台
-http://tv123.cc.cd/live.php?ch=1821&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f910e9f20c7e5d0fcd6de0283485cdc31ef8d11edc30eb74bd0ba0f0357ef74e
+http://tv123.cc.cd/live.php?ch=1823&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=378db7e4baf8019695445758c3d342917464ba0866f7ce965778f0cada8b7c8e
 #EXTINF:-1 tvg-id="16" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="🏖️四季I",民視綜藝台
-http://tv123.cc.cd/live.php?ch=1822&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=df17a1c8834bdcbae8084e7b565a21548e03cbcbafbe5dba66672ef138bc3bc8
+http://tv123.cc.cd/live.php?ch=1824&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e475bd2f637716de64c1dcb944cca122cf53b84a25badc269ed94697df5f7e9f
 #EXTINF:-1 tvg-id="113" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="🏖️四季I",豬哥亮歌廳秀
-http://tv123.cc.cd/live.php?ch=1823&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e27111e49c25a5e7016867e2f7a353c6623e3035671c57b7029e2704274275dd
+http://tv123.cc.cd/live.php?ch=1825&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9c650cb6866eb48cabf036d6d0a4c1384ced613792448e3053ac0c208bdbf375
 #EXTINF:-1 tvg-id="83" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="🏖️四季I",靖天育樂台
-http://tv123.cc.cd/live.php?ch=1824&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3fef212c03760ee57bb2c5ccd200fc925ff2ef6b844cbb1912d7ae14424104be
+http://tv123.cc.cd/live.php?ch=1826&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=dd503517c317075a7983504ca76810ae49f611661e4f31effa3ee90be7ce17df
 #EXTINF:-1 tvg-id="84" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="🏖️四季I",KLT-靖天國際台
-http://tv123.cc.cd/live.php?ch=1825&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d235120d1800512fb4cd62a48179663afb34b398c6f8275fb0639a68bb656b91
+http://tv123.cc.cd/live.php?ch=1827&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a3d774b3cd302b779cacad08ac8ee9a10151a684b5d8c796acbe96f3f5b77dd8
 #EXTINF:-1 tvg-id="119" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="🏖️四季I",Nice TV 靖天歡樂台
-http://tv123.cc.cd/live.php?ch=1826&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c0fdf77568bc3ebb645cb7f2908d8051f7702cafeabd6f8c444d8b804edd6f2e
+http://tv123.cc.cd/live.php?ch=1828&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f712f2f324f701f065e5a590f71888201c8c7d5a25c276c7e03930082a665e69
 #EXTINF:-1 tvg-id="88" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="🏖️四季I",靖天資訊台
-http://tv123.cc.cd/live.php?ch=1827&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=1732cc202582c7a2150b33caf503d18031f6ef9cecadfbde4c40272eacbbf28d
+http://tv123.cc.cd/live.php?ch=1829&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=dbae1d13df11b11f69d5929588cb81aa990f79e64cbc7ae1e51e08fe7d127a12
 #EXTINF:-1 tvg-id="184" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="🏖️四季I",TVBS歡樂台
-http://tv123.cc.cd/live.php?ch=1828&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9a8b603b850c0e84275fdb42599aac1a5ca2d852479898c2569fc1eea79b92ee
+http://tv123.cc.cd/live.php?ch=1830&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=38a6a39102ed5c575af2b4d964b729ee72c82d307ecaa74546aac46e9fb6a46f
 #EXTINF:-1 tvg-id="446" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="🏖️四季I",韓國娛樂台 KMTV
-http://tv123.cc.cd/live.php?ch=1829&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e6dd5dbecbd388d5be18660ba10c29392331c68472caa09a0537a6ab6a9698e2
+http://tv123.cc.cd/live.php?ch=1831&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=48092ba11dd8b274f28ab67bc293a3162cc626590107e83ba7a90b9cf6904263
 #EXTINF:-1 tvg-id="275" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="🏖️四季I",ROCK Entertainment
-http://tv123.cc.cd/live.php?ch=1830&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3f9c509d2447870dc2243ccf561373f63b8b28e20575648fa14f89800473e9f3
+http://tv123.cc.cd/live.php?ch=1832&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d381a2964a7aff93e38f477913392b2c84ac23385c9938381cbddacb2320d481
 #EXTINF:-1 tvg-id="217" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="🏖️四季I",Lifetime 娛樂頻道
-http://tv123.cc.cd/live.php?ch=1831&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4749330b96dfb03cbc3a9339a3625d2920b5b16b5a0910d8711370a621b66cc9
+http://tv123.cc.cd/live.php?ch=1833&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3bfe7bdcb7b2c921c9b816bd0bf675dc567472f1ef9ef53367dbedee791c9335
 #EXTINF:-1 tvg-id="218" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="🏖️四季I",電影原聲台CMusic
-http://tv123.cc.cd/live.php?ch=1832&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=02f0bf180c96241315f152ee4f7a77ee52ad9ec7d4ea7042837b5048547d3c04
+http://tv123.cc.cd/live.php?ch=1834&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=de23ee74dd330f30c9a9a1cb37fc968ecf3abdc8076d89d9de4439b78729cab9
 #EXTINF:-1 tvg-id="78" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="🏖️四季I",TRACE Urban
-http://tv123.cc.cd/live.php?ch=1833&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=a040e51096cb63a2018f4f9d887442aa49f9c9f3760dc70265967f6c50c9578f
+http://tv123.cc.cd/live.php?ch=1835&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=64dfe8c5a5f4ed14159d9675241612fb82cb57aa871b1efb05583bfee6020c63
 #EXTINF:-1 tvg-id="79" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="🏖️四季I",Mezzo Live HD
-http://tv123.cc.cd/live.php?ch=1834&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=97195c5f53ba6bfcb3b5cfd14f292666afb8581b5c5ba89939cab954a0dd3035
+http://tv123.cc.cd/live.php?ch=1836&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a4bc0b4955138c32c93f3a5d656027039790bf447985cd50e732e3a2c59f6464
 #EXTINF:-1 tvg-id="80" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="🏖️四季I",CLASSICA 古典樂
-http://tv123.cc.cd/live.php?ch=1835&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c680d8101c579f195a23eef8507ea6e236fbe0d4134d48e3751598f77e8c6ddc
+http://tv123.cc.cd/live.php?ch=1837&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=af96d2bc3dfc0994cde7b45c8a8a04d46e84e3d30d9813396a0ec6af7cd60c91
 #EXTINF:-1 tvg-id="287" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季I",東森購物三台
-http://tv123.cc.cd/live.php?ch=1836&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=11b2b8e93971876f1a0f793f0fbb482d374eca8dd21018f83086908eef9bf1f4
+http://tv123.cc.cd/live.php?ch=1838&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=69f30b31bf66176717d35a46af172b6a972dbd8b596522eeedff4c771e80c2a1
 #EXTINF:-1 tvg-id="93" tvg-name="getwin sport運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/getwin頻道LOGO.png" group-title="🏖️四季I",getwin sport運動台
-http://tv123.cc.cd/live.php?ch=1837&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4e483101a8ca61045008864a697ac41689ab60127f91f265e1b8cf6986dfc11b
+http://tv123.cc.cd/live.php?ch=1839&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=fc9e2c7b83cd8f98ac8185613da80290f5d904c32c7394af492477cdf0bd558d
 #EXTINF:-1 tvg-id="501" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.webp" group-title="🏖️四季I",INULTRA
-http://tv123.cc.cd/live.php?ch=1838&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e72ff723c3f8af305e4a164aeaf669d6c5c476c6ce3f70b0b7ac37978bb585c5
+http://tv123.cc.cd/live.php?ch=1840&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e210d35f0c85e93c3d636922d7f9af19bd2a74833f4d9a1d648fd074bf1c54e0
 #EXTINF:-1 tvg-id="486" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="🏖️四季I",博斯高球台
-http://tv123.cc.cd/live.php?ch=1839&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b697b452c5e6f95e1b949dd987ee9b4c233e9293c218dd6a9e55bc19b01380a8
+http://tv123.cc.cd/live.php?ch=1841&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f53c75e44fef4180adb1711e3f59f06076573edbb939137f94ba4e854efd224a
 #EXTINF:-1 tvg-id="494" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="🏖️四季I",博斯高球二台
-http://tv123.cc.cd/live.php?ch=1840&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=18504d954db3856c017e06f95d84b03554772f7e289e65e77ecee65fa3cfc9ef
+http://tv123.cc.cd/live.php?ch=1842&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=85e424061f4f74af8f14a0051ec0e46dd2568503ca9610ee1abfc2cc84f4909e
 #EXTINF:-1 tvg-id="487" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="🏖️四季I",博斯運動一台
-http://tv123.cc.cd/live.php?ch=1841&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f611dc444bd5240d5f3dc9dccc7d6a3e15f72bd8c15936fd423ded9942e5a752
+http://tv123.cc.cd/live.php?ch=1843&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7dabddd8d97944ef81e30af44769a7819279eb3d4663f46fd807c9fd548819c2
 #EXTINF:-1 tvg-id="489" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="🏖️四季I",博斯無限台
-http://tv123.cc.cd/live.php?ch=1842&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=fa3b5b7c136ac478721fed33bc491c8b53c7b88055c0b32b1404d938c2931371
+http://tv123.cc.cd/live.php?ch=1844&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=2480304a03d5e00e601fe10232d918abeb6b93dbf79458e67b65ec1164883c6c
 #EXTINF:-1 tvg-id="488" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="🏖️四季I",博斯網球台
-http://tv123.cc.cd/live.php?ch=1843&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=7b63fcf3e94b6c4765c53353ed7ddbfc2826c5b215928cb715d4ef72ee098bc9
+http://tv123.cc.cd/live.php?ch=1845&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d63b2d4167a4eaf931213714f49caec1ff8fa3fb64e91854ed1275b23c55e3e1
 #EXTINF:-1 tvg-id="495" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png" group-title="🏖️四季I",博斯運動二台
-http://tv123.cc.cd/live.php?ch=1844&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=dc529592cf629c429b44312cb9828d4f7244b4c24e1125463c21c880d9ecae5e
+http://tv123.cc.cd/live.php?ch=1846&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=742f69040b9973843dc22a8065d4e0d2416859c5bfad6447280d5af898e392d5
 #EXTINF:-1 tvg-id="493" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png" group-title="🏖️四季I",博斯魅力台
-http://tv123.cc.cd/live.php?ch=1845&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9e0e3335fb0229d243d7a8a0899caedab8a624a064cb5f55294eab9a44a30bda
+http://tv123.cc.cd/live.php?ch=1847&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=007c5558fe2222d5874bc946098a97160ac09914a11d2b441defb8375359fb58
 #EXTINF:-1 tvg-id="496" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png" group-title="🏖️四季I",博斯無限二台
-http://tv123.cc.cd/live.php?ch=1846&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=24accb930210a2ed4eea92fa39967fc74cbc91fc2308ad99e75dcdf9933831fc
+http://tv123.cc.cd/live.php?ch=1848&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d18882f2087649a8b9eeb1b59e82e6aa26462f8d2c36215510fbdc3ba16837f1
 #EXTINF:-1 tvg-id="57" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="🏖️四季I",TRACE Sport Stars
-http://tv123.cc.cd/live.php?ch=1847&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=163cd1677ae8db22fe75690a4397d0f994197b002cc60a2cc55bbd51cc2b7229
+http://tv123.cc.cd/live.php?ch=1849&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9f3e81ae8538551592fedf75916dd1998a176c6d2056608e2d4c1b5d37997663
 #EXTINF:-1 tvg-id="58" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="🏖️四季I",智林體育台
-http://tv123.cc.cd/live.php?ch=1848&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e3f1cc61ab922d4af48ef4505503a0a97a4f4df4906e29fc7dc7965e54df8224
+http://tv123.cc.cd/live.php?ch=1850&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=acc1f3ffb7b5ca7ffa574dbe3a321db94141914804fcaef7f626c6dae18397fe
 #EXTINF:-1 tvg-id="69" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="🏖️四季I",時尚運動X
-http://tv123.cc.cd/live.php?ch=1849&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=0e9753724d5b4038ecbd64d7f7f62727702d3834e5cbadf7e16c2b1e1ec52d01
+http://tv123.cc.cd/live.php?ch=1851&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=1bc43c2642219e90950d777c6e2855a2fd71777d73b9d4a8c351179e97ea0192
 #EXTINF:-1 tvg-id="277" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv411_mobile.png" group-title="🏖️四季I",時尚運動X
-http://tv123.cc.cd/live.php?ch=1850&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=def75e34691a42bba4a146c3bd85e3da8a36dce1f4ddb364e285be75925ee32a
+http://tv123.cc.cd/live.php?ch=1852&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=47f384c5dde9584b68c3e5a1d4e50fa1f811a9e2a3a439d01fc13c7262473ff7
 #EXTINF:-1 tvg-id="160" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="🏖️四季I",車迷TV
-http://tv123.cc.cd/live.php?ch=1851&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f4686a880071b8f7714dfb9bfdfa3b0ed1f72d00fa00d6025500b77a7692da2f
+http://tv123.cc.cd/live.php?ch=1853&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a038e09b124d1f80415f2b0ef842885943c89505bd9e72d11bedd14945177484
 #EXTINF:-1 tvg-id="179" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="🏖️四季I",GINX Esports TV
-http://tv123.cc.cd/live.php?ch=1852&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=aa4825a382144a1c144f18dc41f8389fbdd62d1dc4e9cc34605876591e3e0a47
+http://tv123.cc.cd/live.php?ch=1854&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=4599eac83eab0f0c9915e905f2be1281b776b27f6831ccb425964d138869008b
 #EXTINF:-1 tvg-id="464" tvg-name="Pet Club TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live110_mobile.png" group-title="🏖️四季I",Pet Club TV
-http://tv123.cc.cd/live.php?ch=1853&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=7344b242deabe87e5bebab81ff8126d6b82b6d48e01448ef51027a93cd20f24f
+http://tv123.cc.cd/live.php?ch=1855&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d46b15788e893fb02c6cc4c1cb625a3f4399aecc10443c9fe23cbbe2219da6f8
 #EXTINF:-1 tvg-id="61" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="🏖️四季I",民視旅遊台
-http://tv123.cc.cd/live.php?ch=1854&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=910c88ece038cfbe688791489d276264a2a2e841bdb7bd1c554ec4f8488d6b05
+http://tv123.cc.cd/live.php?ch=1856&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ef47d58d7ca7d51b3530fb77efb9d36db2a40678e1dc662bc236d212d62ecd4e
 #EXTINF:-1 tvg-id="249" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="🏖️四季I",滾動力rollor
-http://tv123.cc.cd/live.php?ch=1855&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=dcf5797708c2d5e537366a50f40383d3ee248c7e610683feebb6ad94b950a371
+http://tv123.cc.cd/live.php?ch=1857&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=4498d60d20a80a5784bd43ef75e1d1ddbf64c0940e08658fe8bc29f3d4a86449
 #EXTINF:-1 tvg-id="250" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="🏖️四季I",亞洲旅遊台
-http://tv123.cc.cd/live.php?ch=1856&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c7579f2bd382a17fba40e26d1bc74ab7197603f4830a6e07c767f2e20ce0d0d9
+http://tv123.cc.cd/live.php?ch=1858&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0b216c6ee3914580c6fe6a65e76e6e0b4b3c2f195f4a7c20490cf1d020739295
 #EXTINF:-1 tvg-id="261" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="🏖️四季I",亞洲旅遊台
-http://tv123.cc.cd/live.php?ch=1857&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f4b8021967250696270e49b4d2926ae0c2f52da23acaad4a2f80bad99229c790
+http://tv123.cc.cd/live.php?ch=1859&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=09f8487ad2c62538c94ac4603c39cbb2d7cfbd4996c67de4cdc2b8bfc03910cb
 #EXTINF:-1 tvg-id="274" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="🏖️四季I",fun探索娛樂台
-http://tv123.cc.cd/live.php?ch=1858&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e0a1543db59352130c8d14a6a314f353f4f14591ca2b698ba8ffdd83a9c21a33
+http://tv123.cc.cd/live.php?ch=1860&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7ec4dff07370afbe194237aa1224300e405c9c2fe265f5532ac9a31b99529ceb
 #EXTINF:-1 tvg-id="123" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="🏖️四季I",幸福空間居家台
-http://tv123.cc.cd/live.php?ch=1859&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f4ce5ffc87b07d6a6aaa9add513d612acbcdb2a396327370357a3bc1442a5e37
+http://tv123.cc.cd/live.php?ch=1861&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0f8dd33205c06b82f227f69ca7c8fde9850a8ffc2234584ce1c46fd99ef9ddb8
 #EXTINF:-1 tvg-id="139" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="🏖️四季I",Love Nature
-http://tv123.cc.cd/live.php?ch=1860&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d11476859dc0d8326c7b4db105f2c94484974f67dda5c9de134de8b0edc5d67f
+http://tv123.cc.cd/live.php?ch=1862&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c7b6edd41aff1ae29f7bd288fb25af5b233435fc5c548582f0049d21add1cab7
 #EXTINF:-1 tvg-id="214" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="🏖️四季I",History 歷史頻道
-http://tv123.cc.cd/live.php?ch=1861&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=8a9c2742d41f7f729a0fbf700b9388f90f29e4e84c2da75a5f187d9c1d4b6299
+http://tv123.cc.cd/live.php?ch=1863&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7f6e981d00443f304bc9530126f4f7e1b0e7bd7dbd3afe13d8442f961cbd68b8
 #EXTINF:-1 tvg-id="237" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="🏖️四季I",愛爾達生活旅遊台
-http://tv123.cc.cd/live.php?ch=1862&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=400946a6dd70dcdec39f1164c52072999ee4cf66c34595fdf6283ef5c1da3791
+http://tv123.cc.cd/live.php?ch=1864&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3b8d47e078a62ade299b21ef362dd20e3742c3c8adc6c41e696f67540d4e7f7d
 #EXTINF:-1 tvg-id="175" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="🏖️四季I",LUXE TV Channel
-http://tv123.cc.cd/live.php?ch=1863&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2755620374ac39e4a956f02bd6e132c67a7b2ce153382b5439e4442e285df86c
+http://tv123.cc.cd/live.php?ch=1865&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=4ad0d34162fa8db150c368584eb4ddc3364fd74e109ae07213fe8f2173abba77
 #EXTINF:-1 tvg-id="178" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="🏖️四季I",TV5MONDE STYLE HD 生活時尚
-http://tv123.cc.cd/live.php?ch=1864&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=7a94f622eb616374954c0184f44b20f350b74029d8815105f9bd953109215911
+http://tv123.cc.cd/live.php?ch=1866&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=30eda96407af1f46e98df73e10125399a502f9006105b283dd338a6d861c3509
 #EXTINF:-1 tvg-id="450" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="🏖️四季I",MagellanTV頻道 (麥哲倫頻道)
-http://tv123.cc.cd/live.php?ch=1865&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=618a796cb05a897b9a51bca099e161ac9fdf722de9116c761d17f955bb278ac7
+http://tv123.cc.cd/live.php?ch=1867&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=69e61134c9b8b324489e8d40ae5a5f708ce21f3bae3e0f0ff5d37aaafcd53bf9
 #EXTINF:-1 tvg-id="485" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="🏖️四季I",ROCK Xstream搖滾極限頻道
-http://tv123.cc.cd/live.php?ch=1866&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=bb072ce0c432c7615714301d0a59f9769972ea476df5299496dc120742efa055
+http://tv123.cc.cd/live.php?ch=1868&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d175032db9c2a48d50dd7917570fbed88ed4d9e0b23278ce083eabf65b179103
 #EXTINF:-1 tvg-id="7" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="🏖️四季I",公視戲劇
-http://tv123.cc.cd/live.php?ch=1867&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=461a1377ad7e750bdce931583ea863aaaaee449d001f9c6b788fd03382a00db7
+http://tv123.cc.cd/live.php?ch=1869&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bf076e56c7e0b4b86151fefec185af04c319e01ae965e14a92e83542b8c5a84d
 #EXTINF:-1 tvg-id="24" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="🏖️四季I",民視影劇台
-http://tv123.cc.cd/live.php?ch=1868&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=91967e7fc78b4027d35f40c083d3bf79b80854b7418121544419aade3df8c036
+http://tv123.cc.cd/live.php?ch=1870&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=6e64ad33fd6676325b40935e238e82c98fcc71024ea5f508bdff0e84cd5c3de4
 #EXTINF:-1 tvg-id="186" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="🏖️四季I",HITS頻道
-http://tv123.cc.cd/live.php?ch=1869&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9896c272d7e34840dc76729fede73eeb98c3e639dbb30ab5249715970a98eb76
+http://tv123.cc.cd/live.php?ch=1871&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bb9af479d18750d3d8e09b2df166c279ad69d526d22f050e16ddd23404828025
 #EXTINF:-1 tvg-id="172" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="🏖️四季I",八大精彩台
-http://tv123.cc.cd/live.php?ch=1870&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=dd65b77fece2abad38f0a51d9a3d76b2f7a102c7e5b008c797725fad2722d2e0
+http://tv123.cc.cd/live.php?ch=1872&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=805a789ed5dcccdced8bfb6c973f66ed916f215acc3603b3e05f6cdcea1dcc74
 #EXTINF:-1 tvg-id="116" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="🏖️四季I",靖天戲劇台
-http://tv123.cc.cd/live.php?ch=1871&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=39984fd880f6e08d51bca4891dac432d659dd927d63467344cbd43abbd3003f8
+http://tv123.cc.cd/live.php?ch=1873&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ac8e9b90d1d346b74d9a6e15d85879e08cd965dd39eea1d17b71f7e859088d64
 #EXTINF:-1 tvg-id="118" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="🏖️四季I",靖洋戲劇台
-http://tv123.cc.cd/live.php?ch=1872&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9f474439870b82b5025ca6f08659fdb2b7b2ec6c098382c90cc96529945b0446
+http://tv123.cc.cd/live.php?ch=1874&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=42f93bec68b0e18bcaab12da54d50f8d10674763ac9f4224e8b3d9c5410e3e1e
 #EXTINF:-1 tvg-id="215" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="🏖️四季I",CI 罪案偵查頻道
-http://tv123.cc.cd/live.php?ch=1873&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6c7b5942741416c36b0f3cd93dbc4b78548ba21ceec98058ce0da6c78fbb73c3
+http://tv123.cc.cd/live.php?ch=1875&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=75454d2883932c71f0fe71bbff6c3bcb4e75a5138ba99058125d61e770d5c377
 #EXTINF:-1 tvg-id="38" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="🏖️四季I",視納華仁紀實頻道
-http://tv123.cc.cd/live.php?ch=1874&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=ca898a27b54cb731eed3f3fbb78423a5e3781a3f58c5de918d4fcec29d0d1d47
+http://tv123.cc.cd/live.php?ch=1876&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=15ec2220a71256992dcc10658c97cf0b14b1e8e3cdb83151231750482c2dd790
 #EXTINF:-1 tvg-id="445" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="🏖️四季I",影迷數位紀實台
-http://tv123.cc.cd/live.php?ch=1875&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=bd56500fffbdeeb0c78dcfb7ca34b4b238d06fd9382baf1f99c4d9cb7ab60ed3
+http://tv123.cc.cd/live.php?ch=1877&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0d73410a7c1eb52de3137d96d959946ff64bcc0798091af46d0244a08fac0c2f
 #EXTINF:-1 tvg-id="236" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="🏖️四季I",金光布袋戲
-http://tv123.cc.cd/live.php?ch=1876&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=0d1abeaae60c2ff871544a1f4525163a304febbf9fcfd9de3eaba8266b412b79
+http://tv123.cc.cd/live.php?ch=1878&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=8726eaa4ca371956483727358111d1c110a5055b7c169c3b3d056ec71f9d0afe
 #EXTINF:-1 tvg-id="180" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="🏖️四季I",ROCK Action
-http://tv123.cc.cd/live.php?ch=1877&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d8d35edd3f73f2cd42e231992a4e5e57d795323abf6951cbbb1af46ea4883e88
+http://tv123.cc.cd/live.php?ch=1879&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9d1ec1b7a8ff9f317936bb00f07bdd05c78e2cab7c86229385523bd961eddd89
 #EXTINF:-1 tvg-id="478" tvg-name="GagaOOLala 精選LGBTQ+好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live139_mobile.png" group-title="🏖️四季I",GagaOOLala 精選LGBTQ+好劇
-http://tv123.cc.cd/live.php?ch=1878&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=755fdd8fb9072c544e44c5d0118ba93e97e267032eeb7c6655e90bce594d5431
+http://tv123.cc.cd/live.php?ch=1880&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=6645b30e13c83214eecc62246700dee1efbba5297c8d4fe0b39fc0195232a4be
 #EXTINF:-1 tvg-id="502" tvg-name="OUTtv" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live140.png" group-title="🏖️四季I",OUTtv
-http://tv123.cc.cd/live.php?ch=1879&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=ac82bf0f107c1c13037e8c0509cf04f0eed61041f560fc76d922b8ce93b6a6e0
+http://tv123.cc.cd/live.php?ch=1881&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5b54d104299f271b79c89d5bc8350d9f27da1ddd24bb097368f0dbae7fbc3fc5
 #EXTINF:-1 tvg-id="25" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="🏖️四季I",采昌影劇台
-http://tv123.cc.cd/live.php?ch=1880&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=fd44f03bc011667f74b62ed41658144b028c744ecf1db9f0777a472f6a585def
+http://tv123.cc.cd/live.php?ch=1882&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=87f5fef845cd8e4224fc90c6db48d355e90439efaa9206a54aa5a617d4a0ebff
 #EXTINF:-1 tvg-id="42" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="🏖️四季I",靖天映畫
-http://tv123.cc.cd/live.php?ch=1881&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=87bb2cbc3ddd162c63ee11a9269eb0da7170783ac12522281e2558b3ab7e136c
+http://tv123.cc.cd/live.php?ch=1883&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bbe1235d92c266f1ffc1822aadfb3417295dca0a2ffb2a31742fb3cac2761d46
 #EXTINF:-1 tvg-id="82" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="🏖️四季I",靖天電影台
-http://tv123.cc.cd/live.php?ch=1882&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9cd20c1142e5c86c0c794124b0a6197ee357c43e9d25f61935a008109f73f871
+http://tv123.cc.cd/live.php?ch=1884&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bcfff4fc7c4c36a95cc7fc5201ab3709afc0d3593a5fbd44dc7507f7bf6475ae
 #EXTINF:-1 tvg-id="503" tvg-name="wedotv Movies" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv-live148.png" group-title="🏖️四季I",wedotv Movies
-http://tv123.cc.cd/live.php?ch=1883&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=45e2a15e146d1db4e4cb75e2a4bd57db37898948e14b6dff3f0fbfc1efc4ee8d
+http://tv123.cc.cd/live.php?ch=1885&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=69a78fe81a6a92e92a1c53672eef086032dc90c820ef8c2a569ac8ac23977752
 #EXTINF:-1 tvg-id="40" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="🏖️四季I",影迷數位電影台
-http://tv123.cc.cd/live.php?ch=1884&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=5b8a9495ee4d7d497db6641171e00148b51c68391cc27634739da8953ce092e2
+http://tv123.cc.cd/live.php?ch=1886&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0f9a3ad2ac58f75100b248ab9e1c5192db0fee18d1434d0647306c2bc4433010
 #EXTINF:-1 tvg-id="39" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="🏖️四季I",amc電影台
-http://tv123.cc.cd/live.php?ch=1885&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4cc0da1e6f63215d810bbc0f588a0e790af2d9d50cb6d9372967f1ac3dd7f9f4
+http://tv123.cc.cd/live.php?ch=1887&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b9bd56e84d659e58644e14117c7cde5f4d974bcffe1ec422465cdfff5d126612
 #EXTINF:-1 tvg-id="225" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="🏖️四季I",CinemaWorld
-http://tv123.cc.cd/live.php?ch=1886&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=08e89667117934d3ddaa7af1bf73341ef8c27ecd5b1568754558643163f38324
+http://tv123.cc.cd/live.php?ch=1888&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=741b3d43480abcab6fcfab9b1fe479668ab82e017bbfb986690ef8a5ec96faf8
 #EXTINF:-1 tvg-id="463" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="🏖️四季I",My Cinema Europe HD 我的歐洲電影
-http://tv123.cc.cd/live.php?ch=1887&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e9d27acba6402f6b906caca463188d34bd1fb7b0d856e298f5876d42078a6ae2
+http://tv123.cc.cd/live.php?ch=1889&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=55fbd34102781d2af6ff41a27eb6cf61753fa800bb4805129d472c641da38c79
 #EXTINF:-1 tvg-id="9" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="🏖️四季I",好消息
-http://tv123.cc.cd/live.php?ch=1888&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=02068178f5f97235844ae0fc89ca671806af922243e436c2471a72c17b74f222
+http://tv123.cc.cd/live.php?ch=1890&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f18119423fb7818e49ed7249ad198af2a8242733c7a831c5d1d49b8278f7f275
 #EXTINF:-1 tvg-id="8" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="🏖️四季I",好消息2台
-http://tv123.cc.cd/live.php?ch=1889&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=0306322f46754699d4e45773f0272da016a26d0feeda9f8543a0df1a5b07ff04
+http://tv123.cc.cd/live.php?ch=1891&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=16b9c547cdc28d0446190e0a71c810248e0dcb1395149a96ccc6cfb8c8365b00
 #EXTINF:-1 tvg-id="230" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="🏖️四季I",大愛二台
-http://tv123.cc.cd/live.php?ch=1890&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=22d1cc8c1e54753f112745a7b27c791d059e79151694868c5be7522f72aabf1b
+http://tv123.cc.cd/live.php?ch=1892&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=51d446c0dbe51df26268a45b657bb7755e77a23d6b520846490394deff1c1506
 #EXTINF:-1 tvg-id="210" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="🏖️四季I",人間衛視
-http://tv123.cc.cd/live.php?ch=1891&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=92a2372148092c3eefeca8983dc9facb18ed4cc3af3b576b664ed2db37a9330f
+http://tv123.cc.cd/live.php?ch=1893&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=86655414e5fcccc92e85f8fda5d139b96f06a484cfd2919212e87e02493a3f42
 #EXTINF:-1 tvg-id="498" tvg-name="ABC Australia 澳洲公廣頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live167.png" group-title="🏖️四季I",ABC Australia 澳洲公廣頻道
-http://tv123.cc.cd/live.php?ch=1892&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=8c92f1b5a09d291252043f86380627ec9f3f10a8cbad5d4dfbf09ef165ad1a31
+http://tv123.cc.cd/live.php?ch=1894&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=901814d7ada9cdc866008d73b5ae83c1cda85a96708f294d5c37c72b7ed098de
 #EXTINF:-1 tvg-id="461" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="🏖️四季I",NHK WORLD-JAPAN
-http://tv123.cc.cd/live.php?ch=1893&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=60e10f1ffec5beca7ceb63500b0247641e6cc980ea3b0e330e7fa6a98916638a
+http://tv123.cc.cd/live.php?ch=1895&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=486fd9b5172d0aa9b635c30b6b0578b90e1d9aa5acc62084fbeaf5c0fd8f0d2f
 #EXTINF:-1 tvg-id="316" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="🏖️四季I",FRANCE24 英文台
-http://tv123.cc.cd/live.php?ch=1894&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=df7be277e2f057c54688134840d65187cd398c12cec7b1a888c6b56b7fcada8e
+http://tv123.cc.cd/live.php?ch=1896&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9244dca2b2d092188462002a2bb05e1e82c60a3ad6e64a3be39edb827e30236f
 #EXTINF:-1 tvg-id="462" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="🏖️四季I",半島國際新聞台
-http://tv123.cc.cd/live.php?ch=1895&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=80445f4d7d800d20060527af98cf8999ac020e93fe0cac519811c9e7466b0d85
+http://tv123.cc.cd/live.php?ch=1897&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=372c106df1f6732531046188f71d0ae34dd63533a82176ea96363c1ccac5c41d
 #EXTINF:-1 tvg-id="235" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="🏖️四季I",CNBC Asia 財經台
-http://tv123.cc.cd/live.php?ch=1896&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6afb88a63a37f66f723f03ce169dace98ba895e8c0dfb249478b2601a9f9be82
+http://tv123.cc.cd/live.php?ch=1898&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a2a17e7ed1d653a137e0cbf82f13e667771a89ddb4ae7536c9ea48e6718d998e
 #EXTINF:-1 tvg-id="226" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="🏖️四季I",DW德國之聲
-http://tv123.cc.cd/live.php?ch=1897&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=35b63859598ff9c9741db208b91f9e308831d4e6ad3c648a62f15733a15c97c1
+http://tv123.cc.cd/live.php?ch=1899&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e9349c1c35acfa472697c0d5618e045922389f2031e5b1bc455d82dd16559e4d
 #EXTINF:-1 tvg-id="94" tvg-name="香蕉直擊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv038_mobile.png" group-title="🏖️四季I",香蕉直擊台
-http://tv123.cc.cd/live.php?ch=1898&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=5dc96f2dbdfab4764bb85d8c44bd10401d188f844161888a586df0251673667e
+http://tv123.cc.cd/live.php?ch=1900&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=57da99785c5a980066aeaaaa857ee0d2ca7c789128927535aa88917ddbe686b0
 #EXTINF:-1 tvg-id="170" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="🏖️四季I",國會頻道1
-http://tv123.cc.cd/live.php?ch=1899&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6007f56e9a679c7ec88fde7c021eca82374160ff554199f790ab5730e5170d15
+http://tv123.cc.cd/live.php?ch=1901&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=57aa1b1759a074b62abc2ba013599b20406f60dbda7596bbab74b7ddc7110c5a
 #EXTINF:-1 tvg-id="171" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="🏖️四季I",國會頻道2
-http://tv123.cc.cd/live.php?ch=1900&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3d88e6e2a6465f23d2d281efc33a5345f6abc1ad9ac4b9d284f9f7c6a4bef33a
+http://tv123.cc.cd/live.php?ch=1902&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=fc6701f0178ded3e449b652c35d1c2cc000feeee0ea074f7f8e5c0f93168f644
 #EXTINF:-1 tvg-id="476" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="🏖️四季I",TVBS綜藝台
-http://tv123.cc.cd/live.php?ch=1901&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=ad2236169d4eb7202bb42d16033d647335e111684cd13bfd6ee79350db567930
+http://tv123.cc.cd/live.php?ch=1903&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=1591859884e18e91978782bf5d780414f2f2bbd0f2ca67c16fc7a6ed908c7522
 #EXTINF:-1 tvg-id="477" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="🏖️四季I",TVBS台劇台
-http://tv123.cc.cd/live.php?ch=1902&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9b34e8cdcf2dc89ca94e2e0b6b9fd17acde06beb6c87f8cee30e49315d04139e
+http://tv123.cc.cd/live.php?ch=1904&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d2b38291c023f505df65ff439fdf5c395519ff02f7f3878ea500dd0f3aa478fa
 #EXTINF:-1 tvg-id="201" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="🏖️四季I",經典電影台
-http://tv123.cc.cd/live.php?ch=1903&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=bd731036ea86747baabde1f5f651400f2230f09f864684eb72cffe6c401c6ad4
+http://tv123.cc.cd/live.php?ch=1905&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=12595b76ce65b6a21de74037c08f551cfc6faa1f9b29b56fadfd90220c369bab
 #EXTINF:-1 tvg-id="202" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="🏖️四季I",經典卡通台
-http://tv123.cc.cd/live.php?ch=1904&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=86e57c206dcd31c3b4fc1833e5ca8a6da3abc974996a046ef6ec706586bb4d2d
+http://tv123.cc.cd/live.php?ch=1906&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=de54a4854cfcc305546f6334e4c9fb5ab8b57d252940cc19b9c5b6339e0a2c35
 #EXTINF:-1 tvg-id="204" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="🏖️四季I",精選動漫台
-http://tv123.cc.cd/live.php?ch=1905&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=85e11397fb52aa9d34cb2fe886db6f27c813c0997cc32690e48ca08cbc0a32dd
+http://tv123.cc.cd/live.php?ch=1907&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a3ed1844275d8e971f0857e0de985d4d77aa92bbca3711f93fb377d558466f09
 #EXTINF:-1 tvg-id="341" tvg-name="市井豪門-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live001.png" group-title="🏖️四季I",市井豪門-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1906&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=79cb9ab9586cf45a8906421a0509656eece0b58b6ee8a8eec58100ee4b0ca556
+http://tv123.cc.cd/live.php?ch=1908&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bdf8b8d19646a37b1ebcd855cd10d3e70d4fba91c9e3eab35a038689c99e98fc
 #EXTINF:-1 tvg-id="330" tvg-name="華視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live005.png" group-title="🏖️四季I",華視好劇-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1907&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=1111681714ac2a737312ab4a04cd2cadd7ec84b6955969b54a9c7461af5a54f4
+http://tv123.cc.cd/live.php?ch=1909&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=804c37fee05e310704e61c9fc2f696412ed74563c0f51a9106b793f06e173fef
 #EXTINF:-1 tvg-id="337" tvg-name="公視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live006.png" group-title="🏖️四季I",公視好劇-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1908&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=ce34aa24c6fe2fa8d8459f9a3bfd652835ca48298156f85871788ef79ebe4735
+http://tv123.cc.cd/live.php?ch=1910&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3509033520e20fd4ec5d32da129c7616468223be54141e27530e0dfa83aff3d6
 #EXTINF:-1 tvg-id="346" tvg-name="客家好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live007.png" group-title="🏖️四季I",客家好劇-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1909&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=50bbf956767b01d0096c8fdc56a0995972f2f0c3de54ac9d88011fddcae8bcee
+http://tv123.cc.cd/live.php?ch=1911&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ce6f7e5816921cd621b603499b8a15e610898e6ec378ff553a7d5c37da951e96
 #EXTINF:-1 tvg-id="333" tvg-name="懷舊經典電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live008.png" group-title="🏖️四季I",懷舊經典電影-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1910&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=cbff1cbedb532646f0ab24288a96a5ce71babd39a74c77619c6d08c548b58fee
+http://tv123.cc.cd/live.php?ch=1912&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=413e65b59d7e10fa05e7a7c8b91a6235db0990eed3a812b4d5f9c2fdd28aa616
 #EXTINF:-1 tvg-id="326" tvg-name="台灣靈異事件-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季I",台灣靈異事件-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1911&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=5c9c923076ff764be3f329114d1cb99456c0c74c7bfe64971fbc25bf8f82d704
+http://tv123.cc.cd/live.php?ch=1913&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5c61eed07a52305df10aa80ce0eafcb9b5652d1c68703c133cac7793d137d7b0
 #EXTINF:-1 tvg-id="382" tvg-name="新兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live011.png" group-title="🏖️四季I",新兵日記-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1912&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=1942bb8cd63b935a179da273f5fb22913368a83087331882b4cd8bda1974d931
+http://tv123.cc.cd/live.php?ch=1914&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=451674d5e6a2e18ae533a20cc21bc27d127cec74ee416af57e9cc541744a1dec
 #EXTINF:-1 tvg-id="384" tvg-name="加油喜事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live013.png" group-title="🏖️四季I",加油喜事-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1913&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=be7155563c080294b6231b322cb091fe8179924658329a3d0c620ba0d85ed5c5
+http://tv123.cc.cd/live.php?ch=1915&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=221431d5b6285afb1f4c1e0ab6aea263e16142762082ffdea7531368b70bfd61
 #EXTINF:-1 tvg-id="386" tvg-name="去有風的地方-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live014.png" group-title="🏖️四季I",去有風的地方-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1914&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6ad1721b1e85d729ec46e4424394e6a2eb377842f285c5b0bc59bb35e5d29c27
+http://tv123.cc.cd/live.php?ch=1916&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7c62cd289824de83af0df054c9eb083097b34d0b22e33c63ce78d0fc8b2681b8
 #EXTINF:-1 tvg-id="389" tvg-name="多情城市-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live015.png" group-title="🏖️四季I",多情城市-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1915&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3974c8e9dda98677598ab7cf066afaab8e1eab142e930abc8849ff4078e6a270
+http://tv123.cc.cd/live.php?ch=1917&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bac98779ba560685a3b0c0f9612d1d9448e109c75fde66b6a818bbf1f935bf91
 #EXTINF:-1 tvg-id="392" tvg-name="黃金歲月-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live016.png" group-title="🏖️四季I",黃金歲月-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1916&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2959379e090fd4f4476bde344b55d69c4b44c7d900f3e6e3eed8108431078166
+http://tv123.cc.cd/live.php?ch=1918&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=86581ad0296fb2778fd50091b4438e66b9f764cca2d50355461aec4c43e346d6
 #EXTINF:-1 tvg-id="397" tvg-name="花千骨-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live017.png" group-title="🏖️四季I",花千骨-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1917&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d8cd805a0e73dbbd8b45b5139ff0c2e411411026f359736533d843c134f5f117
+http://tv123.cc.cd/live.php?ch=1919&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c0f1ad5d1c102fc163b79783a98bb18f07c5671c6afc92dbe2d0dc5206357b12
 #EXTINF:-1 tvg-id="398" tvg-name="別打擾我種田-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live018.png" group-title="🏖️四季I",別打擾我種田-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1918&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=f67db031edf33d72d74813bd0c8cbee09f24fc2f393d298d6ec06122bd9e1400
+http://tv123.cc.cd/live.php?ch=1920&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=2c3cbccf3d23a021f0867fcee5692fe01891877842165470f8a6ad9a3ae9384c
 #EXTINF:-1 tvg-id="416" tvg-name="大愛精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live023.png" group-title="🏖️四季I",大愛精選-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1919&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=15ab7004fb8fd0ddef7c9e2faa259f3910dd64426eb97025f9b6d14727a77ab6
+http://tv123.cc.cd/live.php?ch=1921&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ac52c54f984a1169632a3b6e58b9d36095639bcf55a34dd9c914d3bd20ef74f2
 #EXTINF:-1 tvg-id="417" tvg-name="飛龍在天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live024.png" group-title="🏖️四季I",飛龍在天-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1920&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c0f337f373104bd537d6263a743de2ea163e9abdbf4e886d4b2bff5f6ca6ab0f
+http://tv123.cc.cd/live.php?ch=1922&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=c3359bb9f631e3a1c37f2af0f5b65049250df922ef6fa03e1abcdf7bd8703490
 #EXTINF:-1 tvg-id="419" tvg-name="台灣傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live026.png" group-title="🏖️四季I",台灣傳奇-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1921&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=10d522f88bfcabdaa220a2d4d50729f5652337d8095d19384be393d9e7f09cb7
+http://tv123.cc.cd/live.php?ch=1923&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7ab72dd6f74b91b50051ccc2244982f4d6a6bf6643e421d1bba8dbbc8a4cd3b4
 #EXTINF:-1 tvg-id="421" tvg-name="世間路-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live028.png" group-title="🏖️四季I",世間路-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1922&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=424db1b9903ea1970dd78055210bca63054f5bf344fbe8e354da5eb27bb8e63b
+http://tv123.cc.cd/live.php?ch=1924&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d45dd942fef80e7761e0732f0ccb50554cda6a76d6645a216b2a1c13c4cdd637
 #EXTINF:-1 tvg-id="423" tvg-name="古裝武俠劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live030.png" group-title="🏖️四季I",古裝武俠劇-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1923&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=92d8bdc1c439c1584fdea34483c6eca874449bd46ddfb3370d46f7d22ca10197
+http://tv123.cc.cd/live.php?ch=1925&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=70441fedc31aa8da506347d53c55df596cc6eb93e827dc558c3a8a18e7fe60eb
 #EXTINF:-1 tvg-id="424" tvg-name="以愛為營-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live031.png" group-title="🏖️四季I",以愛為營-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1924&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d8e740d373bc862496d3577a3d01a883e86025b700dd7b7927a40fa1874ac5e2
+http://tv123.cc.cd/live.php?ch=1926&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d30e5e46a0781b2bcfa2059cd61516378ef5240d65f0b9c8343c146a5f9d7c4f
 #EXTINF:-1 tvg-id="425" tvg-name="藍色水玲瓏-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live032.png" group-title="🏖️四季I",藍色水玲瓏-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1925&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=53568457157be47df8fbb7869a4d90c803fd39686b721194eea0ff2a70d6a507
+http://tv123.cc.cd/live.php?ch=1927&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a565d0d19d0073a384f5c35b4afc7767169f8bccc33037539c2a3217fbbddfc3
 #EXTINF:-1 tvg-id="426" tvg-name="精彩陸劇1台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🏖️四季I",精彩陸劇1台-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1926&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9a7c66d970a3cc6a8cc9811c0ab879a00a78d53c92c07d72fc230f23274a9d91
+http://tv123.cc.cd/live.php?ch=1928&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=aab35f67f285a835132926875e364ea4e52754b02fcf914413cafc1dee191c08
 #EXTINF:-1 tvg-id="427" tvg-name="包青天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live034.png" group-title="🏖️四季I",包青天-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1927&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=12b15bbfc8085e423a53a54b0e2c6ff98601d155c1c0248288de4c6d3a39e10d
+http://tv123.cc.cd/live.php?ch=1929&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=6aaec19fa4dde554f31285e0da7eba684c753572c8c54ca401d2709f6234f25b
 #EXTINF:-1 tvg-id="439" tvg-name="007情報員-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(007).png" group-title="🏖️四季I",007情報員-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1928&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b34375a498c923acc0efb14dc6ec3bc1f1086a17b59cc2358bb8261bc6c42f70
+http://tv123.cc.cd/live.php?ch=1930&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a74b2ade0d485eb9cea43e6652872a61635a2279c3fa2046be05d577aa950d73
 #EXTINF:-1 tvg-id="451" tvg-name="葉青歌仔戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-葉青歌仔戲.png" group-title="🏖️四季I",葉青歌仔戲-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1929&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=20c8536f17c8aa4634ba92ebe98c2729a4f40c144120fce9315b10889a5bb97c
+http://tv123.cc.cd/live.php?ch=1931&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a5e148fd33bf6b46393b95aa2a19923c96de75c5dbf65ce1ccbd8d749fd861fa
 #EXTINF:-1 tvg-id="452" tvg-name="大兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季I",大兵日記-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1930&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9594c4832275ba0930f53c28ad9c502bb4b33cc2ab52b65cf12336b5548228f9
+http://tv123.cc.cd/live.php?ch=1932&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=37aed7bbc756195b974f5745aad970de96d21a5ab1f5bcc30481014ba7e6991d
 #EXTINF:-1 tvg-id="453" tvg-name="親戚不計較(特輯)-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季I",親戚不計較(特輯)-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1931&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=942a1244d3769d07b82c2e6aa6abb0894e4443c75b98babd6bdc97409d21fd8d
+http://tv123.cc.cd/live.php?ch=1933&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b59fcc0bbb315d3b83ecbdb5f4a4e5add5a7cbab228adcfca944c5f13fce0b34
 #EXTINF:-1 tvg-id="455" tvg-name="武媚娘傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🏖️四季I",武媚娘傳奇-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1932&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2e796571d1fb7acc7ca29dbb3cc4be724f30076db67a432a2079cdee9274cf35
+http://tv123.cc.cd/live.php?ch=1934&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e5f071314c630605f96b711904cdc421ea1a54fc486d937cf80664d9849b78a4
 #EXTINF:-1 tvg-id="456" tvg-name="精彩陸劇2台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🏖️四季I",精彩陸劇2台-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1933&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=e15305933b6e49404e9a0e3f45ecbfdc757e4de475d4cfafecb37c5b2647719d
+http://tv123.cc.cd/live.php?ch=1935&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=261798365755d88e0afbe1d48af757096c5cce51af92d27532d39d91f1842e1f
 #EXTINF:-1 tvg-id="458" tvg-name="中國傳奇故事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🏖️四季I",中國傳奇故事-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1934&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6cd732f471ef464444a3d42e7196f4680c7958846f2b5e6837bed3a1418a6cee
+http://tv123.cc.cd/live.php?ch=1936&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=861c741b02261bc6d1c5ca8752b64a2708e20a7f6e6ad80e26391cefe91e6bb4
 #EXTINF:-1 tvg-id="479" tvg-name="機智校園生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季I",機智校園生活-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1935&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=297fa804606dd225d1ca97d2b930a169280eae4687206c1f40a831390c64c43d
+http://tv123.cc.cd/live.php?ch=1937&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b6cacb50af1a662768572768822eef8ef2dbbeb634e9322b136e4620c3e6c242
 #EXTINF:-1 tvg-id="480" tvg-name="女力報到-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季I",女力報到-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1936&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4169e5e2e2913908957d939e2ef0a7160218f254f3626fbe9d7dd4ad3df34b38
+http://tv123.cc.cd/live.php?ch=1938&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=983c691604f86cfe3d79898d3688fb59366f14491953d961b05c27ef0e8ba159
 #EXTINF:-1 tvg-id="491" tvg-name="終極一班-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live010.png" group-title="🏖️四季I",終極一班-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1937&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=0bdf4567796acac0b46a6dce7d64b245eaa772de42db4a5f3ef424f19fa92b0d
+http://tv123.cc.cd/live.php?ch=1939&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3980e114149d64331ac34c163792608e4fb81ead19a1749ef7558ac4da8784e4
 #EXTINF:-1 tvg-id="492" tvg-name="鬥魚-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live010.png" group-title="🏖️四季I",鬥魚-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1938&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=175fc7ec553c8cf38c1b397620f9be0e8999259ece66fe4be0971d63846b6b9a
+http://tv123.cc.cd/live.php?ch=1940&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b4b03c79f583f86eedf371c9e6bf428b8edb03d8ff169feb02bac23ee2966325
 #EXTINF:-1 tvg-id="497" tvg-name="傅子純的時光機" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季I",傅子純的時光機
-http://tv123.cc.cd/live.php?ch=1939&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=7ef1a74dfe36669ab61f051360cd2f282cb66f83c3515d26db23409b521d8244
+http://tv123.cc.cd/live.php?ch=1941&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=088832c9bd065a520ba0f69851e06938a56009b300153643c31d29319db344a6
 #EXTINF:-1 tvg-id="343" tvg-name="天才衝衝衝-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live201.png" group-title="🏖️四季I",天才衝衝衝-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1940&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=43fc5fc582803cf53f03021ef07b23d27d87d4d1b4fdcb1a185621bbae5b00dc
+http://tv123.cc.cd/live.php?ch=1942&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=8a8889a0b5cdf56dc110570debad201c0415572ac7b1195f3121b1926e7628f2
 #EXTINF:-1 tvg-id="344" tvg-name="一字千金-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="🏖️四季I",一字千金-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1941&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=529f5a1f544c0578aca97c5f7d312806f42059843293520da12802de50bb87df
+http://tv123.cc.cd/live.php?ch=1943&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=abbe4f2236332d60df57866b399558bcedf817704b57769a5231138a373b01bc
 #EXTINF:-1 tvg-id="345" tvg-name="綜藝大集合-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live203.png" group-title="🏖️四季I",綜藝大集合-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1942&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=46de8ccf5701bf00d7592a3d994231f13be36446c28d73994a0b2a5404c85bac
+http://tv123.cc.cd/live.php?ch=1944&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5021ebb5a6e6ee742d386a3f37679ee12795b9c21c144e5ae04df7a8ff0f24a6
 #EXTINF:-1 tvg-id="347" tvg-name="女人我最大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live204.png" group-title="🏖️四季I",女人我最大-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1943&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c45adb0a62e51c6ead287559075c4ffd8881f86d24cdd7733b4a297a29c5e6f9
+http://tv123.cc.cd/live.php?ch=1945&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=1e193de96e14ad0cdb34c094968f829881301fdcf2531aa0da84ab5a9039f64f
 #EXTINF:-1 tvg-id="348" tvg-name="食尚玩家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live205.png" group-title="🏖️四季I",食尚玩家-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1944&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6da0dc0148952fe9aca0825db68ab4ecf98a14cd0aefc6811b99ec7bc0795904
+http://tv123.cc.cd/live.php?ch=1946&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=1b9e3e218f3ddfd502ef01670a8b8a0d59d6607e66d11397ca9453af72891733
 #EXTINF:-1 tvg-id="349" tvg-name="11點熱吵店-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live206.png" group-title="🏖️四季I",11點熱吵店-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1945&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2a53dffa814e0200bc0773875979a138cd37573c037c7de636c6b20b716e91e1
+http://tv123.cc.cd/live.php?ch=1947&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=2a0ad291b35c18fb6e9f9890ac11f0f9cac25e61fd07eb02317ff7d5904adddd
 #EXTINF:-1 tvg-id="350" tvg-name="WTO姐妹會-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live207.png" group-title="🏖️四季I",WTO姐妹會-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1946&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=05ed21a28b1a078d1959c3f06a546d6a64c9bae59ae5b5e7a2370c188d63b750
+http://tv123.cc.cd/live.php?ch=1948&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5aa3898ca5c274171f79d3fff9e84a3a3b804c2d6fd138c7212dfb814a9a0388
 #EXTINF:-1 tvg-id="435" tvg-name="威廉沈歡樂送-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live208.png" group-title="🏖️四季I",威廉沈歡樂送-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1947&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=27c63979aaf55c31ecf68f659d1217f707f4b636d7df138b74a928c85ad550ec
+http://tv123.cc.cd/live.php?ch=1949&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9bbb38e3ac6e492adca17ec084505793099b55a52e4757034c70f3bd758011b5
 #EXTINF:-1 tvg-id="375" tvg-name="全家有智慧-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="🏖️四季I",全家有智慧-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1948&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=a9720ceb1ef236535aa2b72e5027d32388b515e9735d181e4ed3828c3569e16b
+http://tv123.cc.cd/live.php?ch=1950&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=19dd97a40deaad9a1523c0c6175f25f238a31abb6d5cdf9afa4bcb3310ade31d
 #EXTINF:-1 tvg-id="376" tvg-name="民視健康美麗生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live210.png" group-title="🏖️四季I",民視健康美麗生活-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1949&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=330ab06512ae72a153335384c1dcf4cf908262b754ffb4be13cb2338c8a91e4f
+http://tv123.cc.cd/live.php?ch=1951&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=67ce67c7d1f308740b2d7908b683ebe0b8a0a1e48e8ca83d65fd96b77bdbafdd
 #EXTINF:-1 tvg-id="377" tvg-name="姊妹亮起來-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="🏖️四季I",姊妹亮起來-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1950&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=7ca19e33086278c91b9cc160ace626646be06b2132dbf40eca04a6951614af12
+http://tv123.cc.cd/live.php?ch=1952&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5364b03c38b4a1ec5b07d0236c6522518ca54fa6edea1830deb2841800283845
 #EXTINF:-1 tvg-id="378" tvg-name="娛樂百分百-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="🏖️四季I",娛樂百分百-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1951&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=192608c216c19364d3d456fe92410c8b87bed9cdb3654b0bb79f033747672b7f
+http://tv123.cc.cd/live.php?ch=1953&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=13c99a088aca92e73ceb5bb8f707b2792e3583b97c862ca7b01165aa0966787d
 #EXTINF:-1 tvg-id="379" tvg-name="超級冰冰Show-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live213.png" group-title="🏖️四季I",超級冰冰Show-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1952&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c84dedc8afc28ee0fd0e376c40e494247604af8c8ce6c0c9df9aa0ae679b2fcf
+http://tv123.cc.cd/live.php?ch=1954&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=50b2c2ac10130329b38c9169dc4fcca1d93360514c9f81c88aed1aa250a80af1
 #EXTINF:-1 tvg-id="380" tvg-name="豬哥會社-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live214.png" group-title="🏖️四季I",豬哥會社-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1953&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=050061ac186113d4059ea850e7ca59a5b9c6f89a96c9a9babafbf30eb2b87725
+http://tv123.cc.cd/live.php?ch=1955&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=5f024c41a58e33b83468eae8738b599a8dfa5f0b912d82bcaf70e3e2aa9075de
 #EXTINF:-1 tvg-id="387" tvg-name="民視生活通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/消高FASTTV LOGO.png" group-title="🏖️四季I",民視生活通-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1954&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=14b44baf64c6c10a255f92ba368637c760904530ea3c4b80f7e0dde8fe25b110
+http://tv123.cc.cd/live.php?ch=1956&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=0dcb727f6016fef671daab27985824e4bcd84cc2ceee239a3caaf1e7c3969d32
 #EXTINF:-1 tvg-id="388" tvg-name="鬥陣大廟埕-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live218.png" group-title="🏖️四季I",鬥陣大廟埕-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1955&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=b1e8462ceab840130ff4c2122ca7a403b8c685853a85866dc4b1505d9aa8516e
+http://tv123.cc.cd/live.php?ch=1957&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e613d9043ead5763b0a1f12c6c6cab4818b6a947e2462b92c094941d9507d1f5
 #EXTINF:-1 tvg-id="390" tvg-name="我的成長-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live219.png" group-title="🏖️四季I",我的成長-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1956&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=8740374938ef7b6de2be587a68bbfb64b913e5d9d0a1460153ab75f814cb0898
+http://tv123.cc.cd/live.php?ch=1958&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=b60781aaedf01e84cb1ae555abd6a7a1ed2f9a7b25781dd21631d075f055c746
 #EXTINF:-1 tvg-id="391" tvg-name="健康2.0-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live220.png" group-title="🏖️四季I",健康2.0-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1957&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=a74694faee38463addec9aa48df6d961f77092b95ad84388c57ab99599d729d5
+http://tv123.cc.cd/live.php?ch=1959&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=33c7774cc9404728f4f28e82c48a3cf0b04b09daaa2e5563bc6d4498665c8a7a
 #EXTINF:-1 tvg-id="393" tvg-name="輕鬆看法律-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live221.png" group-title="🏖️四季I",輕鬆看法律-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1958&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9e41aa311114b4bc91183b701d81da73cfda834b658fe2a4d07adc1dcbff0b8b
+http://tv123.cc.cd/live.php?ch=1960&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=2a661498c541378ae164c9b7b87443594dac36c4134cc1a53ab9eb533a12af1a
 #EXTINF:-1 tvg-id="394" tvg-name="TVBS看板人物-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live222.png" group-title="🏖️四季I",TVBS看板人物-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1959&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=68e40c5ff32011408902e4141b0f5cd4c50009e8f58ee7ab10a5820c407bc6e7
+http://tv123.cc.cd/live.php?ch=1961&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=6277d057061c53c19f8e6e647e7ee3ed03b581b7a843b92038ec2e1e548aa2a9
 #EXTINF:-1 tvg-id="395" tvg-name="野蠻遊戲：We Play -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live223.png" group-title="🏖️四季I",野蠻遊戲：We Play -FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1960&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d8c64afc8eb075214e0dd7a324c85b607b642332111a77b8154f17e87b8faf5b
+http://tv123.cc.cd/live.php?ch=1962&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=cf5890993700133a501d17a52358867f8800d4909fbde13e9643448b157f9cb3
 #EXTINF:-1 tvg-id="396" tvg-name="最愛韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live224.png" group-title="🏖️四季I",最愛韓星-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1961&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=01781105decdc741b8381f74f38ecc894db45276a620217c17905a8d19831c23
+http://tv123.cc.cd/live.php?ch=1963&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=d907f0dbc8bea53ea08746090f66e0397b68b7d07e671ebc00106da07082804f
 #EXTINF:-1 tvg-id="402" tvg-name="廚神明星秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live226.png" group-title="🏖️四季I",廚神明星秀-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1962&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=760b1122300067a989be11465868a9090bb121eeae6ea6f771f2ab9f87dcd861
+http://tv123.cc.cd/live.php?ch=1964&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ead088d7434c340dc701d9bb602331fc22164b3efdcccfe01848ada4fd1bf9dd
 #EXTINF:-1 tvg-id="403" tvg-name="浩克慢遊-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live227.png" group-title="🏖️四季I",浩克慢遊-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1963&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=82bfee30fa9ab5af114072cd20aeae3599b98609f4cc07da334adc72dab2c8e8
+http://tv123.cc.cd/live.php?ch=1965&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=35dbaa78dc6042280f72659c26c2ffe51ceb41a819e798a23a63b2add61b060a
 #EXTINF:-1 tvg-id="413" tvg-name="環遊世界800天 -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live228.png" group-title="🏖️四季I",環遊世界800天 -FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1964&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=c32cb81c8c5d72ac9b0049ef59304b22470200192bad51cf9ff8e30327efaa03
+http://tv123.cc.cd/live.php?ch=1966&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=83bdc5b9c78cd3c737b901d94a8a9256b9628f8faa101cc0a0d44870bca24af7
 #EXTINF:-1 tvg-id="429" tvg-name="綜藝新時代-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live230.png" group-title="🏖️四季I",綜藝新時代-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1965&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4a582a0c77f3f9ff8069675fe7575423d04948abc50e2b4ab1159ac4b06e4038
+http://tv123.cc.cd/live.php?ch=1967&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=6f66b1a19774f2d8b4eb36345eec9d2acfe40171a28a771bf4c9f15b35cc10db
 #EXTINF:-1 tvg-id="430" tvg-name="幸福保衛戰-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live231.png" group-title="🏖️四季I",幸福保衛戰-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1966&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=1915d3e1a1e86a8893543a96734849f15faeae0e080d52df9fd3bfbf16542568
+http://tv123.cc.cd/live.php?ch=1968&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e8eb2b2645f4e3df8f0fd4a5e4b43610ca6b2dad05671e50c250fb8fe8e6cc49
 #EXTINF:-1 tvg-id="431" tvg-name="同學！搞什麼鬼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live232.png" group-title="🏖️四季I",同學！搞什麼鬼-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1967&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=6ad54dfe5814f8833253cb4bf3c6a0a693d987c9626e87ae9fbf957f95315392
+http://tv123.cc.cd/live.php?ch=1969&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a0f9cebd288a7780875652c54154abb2b2bee577478a407f9449f1e48a0efb4c
 #EXTINF:-1 tvg-id="432" tvg-name="爸媽囧很大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live233.png" group-title="🏖️四季I",爸媽囧很大-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1968&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=248db6242fc0c0864081343c2371f2be930141f4c6c904cd0c2d13d1b2fa1943
+http://tv123.cc.cd/live.php?ch=1970&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e7e8139b80bcb6e1fc647b2b46b10e666ae91c60642010d1c8032d0a88676438
 #EXTINF:-1 tvg-id="433" tvg-name="醫學大聯盟-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live234.png" group-title="🏖️四季I",醫學大聯盟-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1969&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2d2f452014fba0f81265ecee3bb5a35ad9662e7a295ee29151ced5c80e3d2667
+http://tv123.cc.cd/live.php?ch=1971&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=a3bce7dbbb9e426cde97749c70ee3ee18e556028d7818551725d4ee860f7169a
 #EXTINF:-1 tvg-id="434" tvg-name="GoGoTaiwan-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live235.png" group-title="🏖️四季I",GoGoTaiwan-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1970&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=3677a6f4c9f198989a13573b45e959352a8f559124dc394ae7e7f46a7e585c4d
+http://tv123.cc.cd/live.php?ch=1972&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=25a4a71b56a8c1f9b6a8f13556d04264e30ffcf9b55dbe9965392a88c58c6096
 #EXTINF:-1 tvg-id="459" tvg-name="2025雙北世壯運-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-世壯運.png" group-title="🏖️四季I",2025雙北世壯運-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1971&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=21eefa9556717aaa1e988442a5cbc7d05832e1882a3164a98b5e94f81ba04b67
+http://tv123.cc.cd/live.php?ch=1973&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=21f00e33f2ec3f45e3429837b0180b880239ad0b8c444976eee94e9206d05a98
 #EXTINF:-1 tvg-id="447" tvg-name="一起追韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live239.png" group-title="🏖️四季I",一起追韓星-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1972&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=1e22f6efa294a2088d4915e5592abf47c2cbc9fe4b86e81837e88e322b0fc0f4
+http://tv123.cc.cd/live.php?ch=1974&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=28d60a655497924885fddbcff7db4926d93c86e649f0ac722d14c4847bedee1b
 #EXTINF:-1 tvg-id="449" tvg-name="韓流美食料理秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live240.png" group-title="🏖️四季I",韓流美食料理秀-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1973&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=472b225cc606108c555c8667edebe354584ffa915aad97b9836928cc98660e1d
+http://tv123.cc.cd/live.php?ch=1975&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=745b11ab5a248af397af75284553ac35a1e86a44e575a6065b4a00cf1f5c73fa
 #EXTINF:-1 tvg-id="460" tvg-name="綜藝大贏家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-熱門綜藝.png" group-title="🏖️四季I",綜藝大贏家-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1974&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=885b3593d27c7b8c155fea58bea02f9cf7af40cba5c82c6ac46d66b4373a52a8
+http://tv123.cc.cd/live.php?ch=1976&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=95a7eb1113eb73fa0b4874522bdb6ef9a81a499ab187b24d1f1d2a896c9b91ca
 #EXTINF:-1 tvg-id="465" tvg-name="台灣No.1棒球精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live242.png" group-title="🏖️四季I",台灣No.1棒球精選-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1975&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9a8b7099847c75d7223a6e424d0df9ad9fe96b01caf7ebe6370483be6c3be4fa
+http://tv123.cc.cd/live.php?ch=1977&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=ecb065f81fe2595631edd5348fbfd6a7cd2757b8d17b15d1a89261574261f5ec
 #EXTINF:-1 tvg-id="466" tvg-name="HahaTai 哈哈台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="🏖️四季I",HahaTai 哈哈台-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1976&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=d38130493a6f89e19e01bafd7a425f1363e21e6dd9ff21c1521b018c2bd742a9
+http://tv123.cc.cd/live.php?ch=1978&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7d5d4b18728a470331e0dd2be3085f7cb18eec47b81be55f0b1fc5444a4e2479
 #EXTINF:-1 tvg-id="339" tvg-name="金光布袋戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(金光).png" group-title="🏖️四季I",金光布袋戲-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1977&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=49497e18f4b0b0701df4407ba59dbf467e62324813c0c47da6636846a8be78a4
+http://tv123.cc.cd/live.php?ch=1979&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=4278a8ea878b0827808865c847dc7bc2e9b93a63894c77407c51405bf0c48a7b
 #EXTINF:-1 tvg-id="318" tvg-name="超人力霸王《TV版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王TV).png" group-title="🏖️四季I",超人力霸王《TV版》FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1978&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=03cfa7fb8682abbf2626e60968ce74da1730fc22c03b57f2ed582aeeb650c160
+http://tv123.cc.cd/live.php?ch=1980&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=911c1d3a3cbc38c3e57393025b03816742588daba47e67dd7c197a280649fb07
 #EXTINF:-1 tvg-id="325" tvg-name="超人力霸王《劇場版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王).png" group-title="🏖️四季I",超人力霸王《劇場版》FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1979&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=898cf0799dea32c7c4d4ed46665d1c31f3eb63803007ce6ebeae2554e9368d0e
+http://tv123.cc.cd/live.php?ch=1981&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=961b4389891d6c6e57419764cae5f56e347a52dfd7acf440fca8a4adfaa1491c
 #EXTINF:-1 tvg-id="331" tvg-name="哆啦A夢-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(哆拉A夢).png" group-title="🏖️四季I",哆啦A夢-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1980&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=9d2379cdc93f9f684b54b762055f58284dfeeb9694079eed5d48864901588cf0
+http://tv123.cc.cd/live.php?ch=1982&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=e8f09d41a5d7798ec5e052c04e259da5d8f6d4873afd82aac205b119f5ba401c
 #EXTINF:-1 tvg-id="332" tvg-name="經典卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-經典卡通.png" group-title="🏖️四季I",經典卡通-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1981&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=5e220d63441b223b3ce91c47dc89104402f188779b220d04245e8ce786e1a573
+http://tv123.cc.cd/live.php?ch=1983&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=f8527fcc7112948cbbef2ef24aa060de479fd4c67338f12ce3acf7070ca9af14
 #EXTINF:-1 tvg-id="437" tvg-name="免費精選動畫-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-動漫.png" group-title="🏖️四季I",免費精選動畫-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1982&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=12bbccea1752670a519904b53a4f33f85b1089ffa36b1bf65a0ca3d6644f2f0b
+http://tv123.cc.cd/live.php?ch=1984&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=8ca717d69eb76d3cdb99fb365d532066b1aa07711af875c2578a628040f99e3b
 #EXTINF:-1 tvg-id="340" tvg-name="經典迪士尼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季I",經典迪士尼-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1983&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=644c7f5cdf60ec6989984506f20d8d3c5085885d3b9237125208ad91e704eaba
+http://tv123.cc.cd/live.php?ch=1985&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=9d3022f616935126b5f1bf8ab96da5a4253773a514240d07291f69d779fb6c12
 #EXTINF:-1 tvg-id="334" tvg-name="Duck TV兒童卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/pngegg.png" group-title="🏖️四季I",Duck TV兒童卡通-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1984&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=644ffa3fc0a9f0826160374d2b0818ece12ece5cd33d661f4ab516afba9c0107
+http://tv123.cc.cd/live.php?ch=1986&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=7529261da075557ea5ef2d9783b3eb56b1ca5eb1bfafb7ba6bf9577dca9e2b04
 #EXTINF:-1 tvg-id="327" tvg-name="FOOD超人-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季I",FOOD超人-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1985&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=78de6d156a429ea8736614730166a12c6b97f97b3ec7f6b56204d4bae91c964d
+http://tv123.cc.cd/live.php?ch=1987&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=3ca8ec4571fc713d382013810d77bd4af84f5cf1360f33506af7948fc542a42b
 #EXTINF:-1 tvg-id="436" tvg-name="親子一起看-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-親子.png" group-title="🏖️四季I",親子一起看-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1986&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=8815aa9bd5eb477a0e24b5994258aeece6e074f4d9eb9cc1a4056e9ff58038d7
+http://tv123.cc.cd/live.php?ch=1988&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=30c664c5280d755fd861bec0e4467857867c9ee9e0ed58058ef31e501bc4aeb7
 #EXTINF:-1 tvg-id="438" tvg-name="怪獸之王-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(怪獸).png" group-title="🏖️四季I",怪獸之王-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1987&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=2b91016948a36fbce84408e629c8112bdd6864bde180a0a17e9f5c1b2af1d809
+http://tv123.cc.cd/live.php?ch=1989&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=2ced8637890ed1b7ae5fad1a25f4b53b275418f4f09dbff46b5aa8733bbb063f
 #EXTINF:-1 tvg-id="484" tvg-name="MOMO親子精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live415.png" group-title="🏖️四季I",MOMO親子精選-FastTV飛速看
-http://tv123.cc.cd/live.php?ch=1988&sid=467aaf39b8aab1ae9fa53136fb792cee&exp=1788485656&sig=4c0f518629f5cd79f94dbb955d7f52409aaef06a61bc7ede78e7dd18147078df
-
+http://tv123.cc.cd/live.php?ch=1990&sid=4e467fc185d86ab22219c5823e0e3931&exp=1788490469&sig=bf86c388623835308233929db89731cd9adaf5a8a883d9f8c6f00d3ea869096d
 
 台灣
 
