@@ -65,23 +65,7 @@
       }
     },
    
-    {
-      "key": "双星99",
-      "name": "🥪双星┃热门动漫",
-      "type": 3,
-             "jar":"./lib/f26f89c9230d39276e715f7283e1fa67.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-      "api": "csp_App99",
-      "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
+
     {
       "key": "稀饭动漫[APP]",
       "name": "🍚稀饭┃热门动漫",
@@ -897,6 +881,24 @@
     ],
     "lives": [
     
+         {
+            "name": "🐙港奥台国际",
+            "type": 0,
+            "url": "http://tv123.vvvv.ee/tv.m3u",
+            "playerType": 2,
+            "timeout": 10
+        },
+    
+                    {
+            "name": "🐱Catvod",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+    
         {
             "name": "🍡finallive",
             "type": 0,
@@ -907,16 +909,7 @@
             "timeout": 10
         },
         
-                {
-            "name": "🐱Catvod",
-            "type": 0,
-            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
-             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
-        
+      
    
         {
             "name": "🐬4GTV(梯子任何节点)1080p",
@@ -945,13 +938,7 @@
             "timeout": 10
         },        
     
-     {
-            "name": "🐙港奥台国际",
-            "type": 0,
-            "url": "http://tv123.vvvv.ee/tv.m3u",
-            "playerType": 2,
-            "timeout": 10
-        },
+
               {
             "name": "🌌香雨TV直播58＆68",
             "type": 0,
