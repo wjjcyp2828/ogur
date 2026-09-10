@@ -881,11 +881,10 @@
     ],
     "lives": [
     
-    
-         {
-            "name": "4gtvlive",
+                        {
+            "name": "catvod",
             "type": 0,
-            "url": "./lib/chlive0903.txt",
+            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
@@ -900,7 +899,18 @@
             "playerType": 2,
             "timeout": 10
         },
+        
+                 {
+            "name": "4gtvlive",
+            "type": 0,
+            "url": "./lib/chlive0903.txt",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
     
+
         
          {
             "name": "🍒fuzy",
