@@ -91,17 +91,6 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     
-        {
-      "key": "奥特",
-      "name": "🏝奥特┃多线",
-      "type": 3,
-      "jar":"./lib/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",      
-      "api": "csp_AueteGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
     
         {
       "key": "原创",
@@ -116,21 +105,6 @@
       "changeable": 1
     },
     
-     {
-      "key": "立播",
-      "name": "🌟立播┃不卡",
-      "type": 3,
-      "jar":"./lib/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",            
-      "api": "csp_LibvioGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "siteUrl": "https://www.libvio.pw/"
-      }
-    },   
     
     {
       "key": "比特",
@@ -677,16 +651,6 @@
 
 
         {
-            "key": "橘皮",
-            "name": "💡橘皮｜影视",
-            "type": 3,
-            "api": "csp_Jpys",
-            "playerType": 1,
-            "jar": "./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
-            "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-        },
-
-        {
             "key": "荐片",
             "name": "🥇荐片｜影视",
             "api": "csp_JianPian",
@@ -881,21 +845,23 @@
     ],
     "lives": [
     
-                        {
-            "name": "catvod",
-            "type": 0,
-            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
-             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
+
     
     
          {
             "name": "🐙港奥台国际",
             "type": 0,
             "url": "http://tv123.vvvv.ee/tv.m3u",
+            "playerType": 2,
+            "timeout": 10
+        },
+        
+         {
+            "name": "catvod",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
             "timeout": 10
         },
