@@ -24,17 +24,6 @@
             "changeable": 1
         },
         
-      {
-      "key": "HkybSpider",
-      "name": "🚀秒播┃世界影视",
-      "type": 3,
-      "jar":"./lib/f26f89c9230d39276e715f7283e1fa67.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
-      "api": "csp_HkybSpider",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": ""
-    },  
     
         {
       "key": "csp_Wwys",
