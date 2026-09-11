@@ -36,7 +36,15 @@
       "ext": ""
     },  
     
-
+        {
+      "key": "csp_Wwys",
+      "name": "🌾农民┃高清影视",
+      "type": 3,
+       "jar":"./lib/f26f89c9230d39276e715f7283e1fa67.jpg;md5;739eb01b9d30692d10d0afa5c6668e24",
+      "api": "csp_Wwys",
+      "timeout": 12,
+      "ext": "https://vip.wwgz.cn:5200"
+    },
     
         {
       "key": "csp_Bili",
