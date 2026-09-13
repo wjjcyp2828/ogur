@@ -847,7 +847,7 @@
          {
             "name": "🍒fuzy",
             "type": 0,
-            "url": "./lib/eazyfuzy.txt",
+            "url": "./live/eazyfuzy.txt",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
@@ -857,7 +857,7 @@
          {
             "name": "🎊livem3u",
             "type": 0,
-            "url": "./lib/livem3u.txt",
+            "url": "./live/livem3u.txt",
              "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
