@@ -55,7 +55,24 @@
     },
     
 
+        {
+      "key": "独播影视",
+      "name": "独播 • 影视",
+      "type": 3,
+      "jar": "./jar/spiderSs.jar;md5;9e5592497fe68e612486d0426b33a8bc",
+      "api": "csp_Duboku"
+    },
     
+        {
+      "key": "爱看机器人",
+      "name": "爱看 • 影视",
+      "type": 3,
+      "jar": "./jar/spiderSs.jar;md5;9e5592497fe68e612486d0426b33a8bc",
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     
     {
       "key": "柠檬",
@@ -67,19 +84,7 @@
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
     },
 
-    {
-      "key": "世界",
-      "name": "👑世界丨APP",
-      "type": 3,
-      "api": "csp_AppGet",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "url": "https://appcms.4ksj.app",
-        "dataKey": "O3K6rYx75Q4xtiIE",
-        "dataIv": "O3K6rYx75Q4xtiIE"
-      }
-    },
+
 
     {
       "key": "猎手",
@@ -231,6 +236,24 @@
     },
     
         {
+      "key": "jarcai",
+      "name": "文才|弹幕",
+      "type": 3,
+      "jar": "./jar/spiderShu.jar;md5;94853819c2821c2de34a4a64b07dfaa2",
+      "api": "csp_Wcai",
+      "ext": "https://www.jxshdzs.com/"
+    },
+    
+        {
+      "key": "天堂",
+      "name": "天堂|弹幕",
+      "type": 3,
+      "jar": "./jar/spiderShu.jar;md5;94853819c2821c2de34a4a64b07dfaa2",
+      "api": "csp_HBcms10",
+      "ext": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/m3u8/"
+    },
+    
+        {
       "key": "WexAiYiYs",
       "name": "💥伊影┃秒播💥",
       "type": 3,
@@ -247,6 +270,27 @@
       "type": 3,
       "jar": "./jar/spiderWtwo.jar;md5;9f55040b32bfe4a5c9a2353cdef51544",
       "api": "csp_WexAiBoBoGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    
+        {
+      "key": "AnimeAiMoDu",
+      "name": "🪭魔都┃动漫🪭",
+      "type": 3,
+      "jar": "./jar/spiderWtwo.jar;md5;9f55040b32bfe4a5c9a2353cdef51544",
+      "api": "csp_AnimeAiMoDuGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    
+        {
+      "key": "WexAiReBo",
+      "name": "💥热播┃秒播💥",
+      "type": 3,
+      "jar": "./jar/spiderWtwo.jar;md5;9f55040b32bfe4a5c9a2353cdef51544",
+      "api": "csp_WexAiReBoGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
