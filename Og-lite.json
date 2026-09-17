@@ -54,24 +54,8 @@
       "genre": "shortdrama"
     },
     
-        {
-      "key": "壹壹影视",
-      "name": "🪡壹壹 • 影视",
-      "type": 3,
-            "jar": "./jar/spiderSs.jar;md5;9e5592497fe68e612486d0426b33a8bc",
-      "api": "csp_YiYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      },
+
     
-        {
-      "key": "飞娱影视",
-      "name": "🎏飞娱 • 影视",
-      "type": 3,
-        "jar": "./jar/spiderSs.jar;md5;9e5592497fe68e612486d0426b33a8bc",
-      "api": "csp_Feiyu"
-      },
     
     {
       "key": "柠檬",
@@ -146,16 +130,7 @@
       "changeable": 0
     },
     
-        {
-      "name": "🐱囧途┃动漫",
-      "key": "DMcyc",
-      "type": 3,
-      "jar": "./jar/spiderDog.jar;md5;249047fab983b2fe5d716c2ea80a3c47",      
-      "api": "csp_DMcycAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
+
     
         {
       "name": "🧩杜北┃快速",
