@@ -169,18 +169,7 @@
       "ext": "http://www.英格里希嗷呜.top/Dubk"
     },
     
-        {
-      "key": "糯米",
-      "name": "🍙糯米[影视]",
-      "type": 3,
-       "jar": "./jar/spiderFamo.jar;md5;a3d2a65ce4d0e6f7aafd6565aefa8d56",
-      "api": "csp_Wwys",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://vip.wwgz.cn:5200"
-    },
-    
+
         {
       "key": "文才",
       "name": "✏️文才[影视]",
