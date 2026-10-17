@@ -918,7 +918,7 @@
                              {
             "name": "🇹🇼tw備用",
             "type": 0,
-            "url": "./live/new1014.txt",
+            "url": "./fourth/new1014.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "playerType": 2,
