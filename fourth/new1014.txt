@@ -1,135 +1,3 @@
-zby台湾,#genre#
-寰宇新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=74dff16b9a15e132f3f6f1e492798fdc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-寰宇新闻台湾,http://zby.lskk.top/cdnlive.php?mode=play&id=80f22eaf4939855166f51cb1d03ac8cb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-镜新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=621196a4058865fa2e59403c8caece23&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-AI新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=63962c2cc3dc34ea41b4b017b74cb796&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中天新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=4a789f0e146848bda0dee842cba28533&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中天亚洲,http://zby.lskk.top/cdnlive.php?mode=play&id=7b9606e7c3a30a73e44bc5f76d3608d6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中天综合,http://zby.lskk.top/cdnlive.php?mode=play&id=c0331d87d7f452e2b16f03a3b0a2b267&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中天综合,http://zby.lskk.top/cdnlive.php?mode=play&id=3525e2a679703119d442a9fe629faeee&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中天娱乐,http://zby.lskk.top/cdnlive.php?mode=play&id=9906b83f3d72734ea8db527527ea841a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中天娱乐,http://zby.lskk.top/cdnlive.php?mode=play&id=fc7ad76c4c1e493876beef7019fd3497&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中视,http://zby.lskk.top/cdnlive.php?mode=play&id=8ce4f7f396a14b5f0d5489053ab6c535&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中视新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=37aac0d83374389325d4b3e1e9b8f9b7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中视经典,http://zby.lskk.top/cdnlive.php?mode=play&id=ccc494fbbbf9a526ffe5dfa40aa86e1d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-中视菁采,http://zby.lskk.top/cdnlive.php?mode=play&id=becfc1b619191c8f324907067c1acd13&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVBS HD,http://zby.lskk.top/cdnlive.php?mode=play&id=0bd56183204431b5e504b83caf1b663e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVBS新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=f3818c484ecc5469690bbd713c31465d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVBS欢乐,http://zby.lskk.top/cdnlive.php?mode=play&id=a2309b6cbfc99db79ceefc6cdc56b325&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TVBS精采,http://zby.lskk.top/cdnlive.php?mode=play&id=d16f1ff42beb538881999aa58e103c9f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-东森新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=4a80586d55204ad1d9a0e7a0b8066fac&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-东森幼幼,http://zby.lskk.top/cdnlive.php?mode=play&id=70905dac749b7d3fa4c7e4858f0a470f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-东森综合,http://zby.lskk.top/cdnlive.php?mode=play&id=d8addab13f0194673777b66628b99461&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-东森财经,http://zby.lskk.top/cdnlive.php?mode=play&id=be1189740305fdb1520a692d37e940a4&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=61fa0ee02bc94cdd984a6673c27bcee0&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立LIVE,http://zby.lskk.top/cdnlive.php?mode=play&id=7f87b183d2fc14254c78c63883271264&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立iNEWS,http://zby.lskk.top/cdnlive.php?mode=play&id=e33696616f15fbec121f05d66fcb4eae&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立综合,http://zby.lskk.top/cdnlive.php?mode=play&id=8aecc82e93bfaa9d9af5be0ed451cc7a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立台湾,http://zby.lskk.top/cdnlive.php?mode=play&id=5bc6e57495b4d08a3ec4fdf5d875d30f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-三立都会,http://zby.lskk.top/cdnlive.php?mode=play&id=8126a2f0dfb0da5ec87431b39fb8b636&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-公视,http://zby.lskk.top/cdnlive.php?mode=play&id=960f72324544843971737b7010bebdd5&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-公视戏剧,http://zby.lskk.top/cdnlive.php?mode=play&id=d48208e1bde7acb7cb7cf7d09dc9f30c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-小公视,http://zby.lskk.top/cdnlive.php?mode=play&id=8651b17a1363647feeca041f0265354a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视,http://zby.lskk.top/cdnlive.php?mode=play&id=1f5cb7f8687ab60efbdb4cb4190d355b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=8a3146fd1b1204004ca552fb283c318d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视第一,http://zby.lskk.top/cdnlive.php?mode=play&id=b76755690d6750fa94321fcbfed67464&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视综艺,http://zby.lskk.top/cdnlive.php?mode=play&id=04079f48cbe86ce355ebdd255a715460&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视台湾,http://zby.lskk.top/cdnlive.php?mode=play&id=33ff2e131e511e896174ecbd0f45bed9&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视影剧,http://zby.lskk.top/cdnlive.php?mode=play&id=744de097f81d15478300732b8a640ae3&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-民视旅遊,http://zby.lskk.top/cdnlive.php?mode=play&id=73c20b6f33eefacf760556a87753bb24&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-台视,http://zby.lskk.top/cdnlive.php?mode=play&id=d1a92e4301097a73f284a279fcf4afbc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-台视新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=a17846b9e90602ba01c34fe8e8ec8698&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-台视新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=dfa730d8cc9556fa4a435083426192c8&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-台视财经,http://zby.lskk.top/cdnlive.php?mode=play&id=e4c8683379521ec0b21b2bf11b414a1a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-台视综合,http://zby.lskk.top/cdnlive.php?mode=play&id=ff355de55c9aa626e48da39cff8510b5&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-华视新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=f33de20f378bbcb4bbd1cc681a50458b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-年代新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=2c3aefae870d058ac9f18e9ad8496321&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-年代MUCH,http://zby.lskk.top/cdnlive.php?mode=play&id=0d8ed9cd9a4853288e1a68aa64cded0c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-非凡新闻,http://zby.lskk.top/cdnlive.php?mode=play&id=991cdb578c9d65405a125a43787d1013&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-客家電視,http://zby.lskk.top/cdnlive.php?mode=play&id=7d9d538db1341c82b1d97563fa81541c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-金光布袋戲,http://zby.lskk.top/cdnlive.php?mode=play&id=0a062815a54ac278dafb23d4c039ec1f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-猪哥亮歌厅秀,http://zby.lskk.top/cdnlive.php?mode=play&id=073b20dd05257e05ccc4f2ce4ab633ab&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-華藝中文台,http://zby.lskk.top/cdnlive.php?mode=play&id=e8eb9214c16eaa4dbd974727e4c8b160&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-八大精采,http://zby.lskk.top/cdnlive.php?mode=play&id=da8f2e2e074495d4775a9d22c1517f29&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-八大娱乐,http://zby.lskk.top/cdnlive.php?mode=play&id=7593e8da22272cb11a2dfde6e1e4ff82&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-八大综合,http://zby.lskk.top/cdnlive.php?mode=play&id=57304f1b743cb4299271bd12e5aa967d&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-八大综艺,http://zby.lskk.top/cdnlive.php?mode=play&id=3831ae147835333a274b639c1fc781f8&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达综合,http://zby.lskk.top/cdnlive.php?mode=play&id=6d24885c6262f7356f9c21b6ce5d76cc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达影剧,http://zby.lskk.top/cdnlive.php?mode=play&id=43a172400f0d651781f593843febc815&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达日韩,http://zby.lskk.top/cdnlive.php?mode=play&id=5f273ec339cd49535e7e428762b89b54&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育1,http://zby.lskk.top/cdnlive.php?mode=play&id=e6e8f1e0e5a494b9db3cf794bd39d09c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育2,http://zby.lskk.top/cdnlive.php?mode=play&id=d7e0bb604a5fdcdb15d7818a6fed2b97&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育3,http://zby.lskk.top/cdnlive.php?mode=play&id=3815fd95f39a66e549da95aefc0c0c7c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育4,http://zby.lskk.top/cdnlive.php?mode=play&id=78261674126a6b01d99b37f6e4a1ac61&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育Max1,http://zby.lskk.top/cdnlive.php?mode=play&id=17a2e953a464fa5ae502a821636fefba&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育Max2,http://zby.lskk.top/cdnlive.php?mode=play&id=430b728fff4e6a4a5b8f2fe3f529ee8b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育Max3,http://zby.lskk.top/cdnlive.php?mode=play&id=50dedb2249b6a9c668c8eb92e37542eb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-爱尔达体育Max4,http://zby.lskk.top/cdnlive.php?mode=play&id=3d78e7fd3f3dc888cc6cd75aa9c5b154&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-博斯網球,http://zby.lskk.top/cdnlive.php?mode=play&id=d83f001b2fb3b2f3280fea885aa998c7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-博斯运动1,http://zby.lskk.top/cdnlive.php?mode=play&id=753b7916fbb83bd2eb7027ad6f0a8c60&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-博斯高球1,http://zby.lskk.top/cdnlive.php?mode=play&id=3e5f97209b1939259e4eefa92d619349&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-博斯高球2,http://zby.lskk.top/cdnlive.php?mode=play&id=d77f4a118f1fa06bd2ce0624060d3f22&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天电影,http://zby.lskk.top/cdnlive.php?mode=play&id=f61adc3051393878503f5c0e6baa5983&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天国际,http://zby.lskk.top/cdnlive.php?mode=play&id=c5f820f0a624e3a1d98fab34e3d2360f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天资讯,http://zby.lskk.top/cdnlive.php?mode=play&id=14cc21b7b4bf570db94cd3b91fa9dea6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天戏剧,http://zby.lskk.top/cdnlive.php?mode=play&id=7523f262f2a702630ac401b50879c11c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天卡通,http://zby.lskk.top/cdnlive.php?mode=play&id=7121f93baf03c143dc88fcbe35b332e3&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天欢乐,http://zby.lskk.top/cdnlive.php?mode=play&id=edfbc25c34a0d10848731f323d77876f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖天育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=2838d50de5d50d2e46ba88589f494bc7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华日韩,http://zby.lskk.top/cdnlive.php?mode=play&id=6df0f1613e0095a7100beedb7eca7fdf&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华偶像,http://zby.lskk.top/cdnlive.php?mode=play&id=d83278857f07c25df0445f97cdae657a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华戏剧,http://zby.lskk.top/cdnlive.php?mode=play&id=c47a015df8a7d023b2aeb8e8ede6be2b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华洋片,http://zby.lskk.top/cdnlive.php?mode=play&id=498d7e72e2241e4dc8442c8a7843d4cc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华卡通,http://zby.lskk.top/cdnlive.php?mode=play&id=2d1d0e82d6fe8c559db4f73e40344a9f&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华电視,http://zby.lskk.top/cdnlive.php?mode=play&id=dbaf0c3e821465da8b67a1fc2c1c7aa5&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-龙华经典,http://zby.lskk.top/cdnlive.php?mode=play&id=feb7ba9ae4e3835f88efd731c0da1481&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-靖洋卡通,http://zby.lskk.top/cdnlive.php?mode=play&id=9e748e7e875da07f562ded22bfa5e1b2&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-纬来电影,http://zby.lskk.top/cdnlive.php?mode=play&id=79c7f8374ac31ebe8db8767247903099&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-纬来育乐,http://zby.lskk.top/cdnlive.php?mode=play&id=74cc4c3b644c367a8b56dea754e67692&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-纬来日本,http://zby.lskk.top/cdnlive.php?mode=play&id=4a808304b7f0e526b1812d1b880c37c6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-纬来综合,http://zby.lskk.top/cdnlive.php?mode=play&id=ec3baf9a66ce98433f6710f9527c3045&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-纬来体育,http://zby.lskk.top/cdnlive.php?mode=play&id=727fa47e10abaa40752552235048a554&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-幸福空间居家,http://zby.lskk.top/cdnlive.php?mode=play&id=73997634d3842f0bc4f577a8be3ad0af&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-時尚運動X,http://zby.lskk.top/cdnlive.php?mode=play&id=6f8b91a9b8ac15a49d25b6672178ced1&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-曼迪日本台,http://zby.lskk.top/cdnlive.php?mode=play&id=88e79fccf71b11db41ce3dc6f6b67412&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-空中英語教室,http://zby.lskk.top/cdnlive.php?mode=play&id=60b1d87e243c9b338d3b289406f3b500&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-影迷數位紀實,http://zby.lskk.top/cdnlive.php?mode=play&id=8bb0e729b98e41cd23acbaea392eae1e&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Aljazeera,http://zby.lskk.top/cdnlive.php?mode=play&id=8511807e58fc3d8a1c732e36a5bb79a6&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-amc电影,http://zby.lskk.top/cdnlive.php?mode=play&id=e430a4348c0e1fadf1a2dff61821c29c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Animaxa动漫,http://zby.lskk.top/cdnlive.php?mode=play&id=7a9d4e0a7771d3235fadd4751f2d7717&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-ASIA TRAVEL亚洲旅游,http://zby.lskk.top/cdnlive.php?mode=play&id=8a4f70c55fe2c1226d0ff966ce5169f4&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Bloomberg TV,http://zby.lskk.top/cdnlive.php?mode=play&id=7e0952f5cfd39520537aece05f6dcd20&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Cartoonito,http://zby.lskk.top/cdnlive.php?mode=play&id=b11cc9ad84502b27a63fa7a8d813ef6a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-CATCHPLAY,http://zby.lskk.top/cdnlive.php?mode=play&id=2a0b47b4932bf302da76adc053663c45&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-CN卡通,http://zby.lskk.top/cdnlive.php?mode=play&id=719f97d8d7f370913f80a4e5b92316cb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-CNA,http://zby.lskk.top/cdnlive.php?mode=play&id=d6873ce576957c64f936ba58c63d0485&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-CNBC,http://zby.lskk.top/cdnlive.php?mode=play&id=f860ec696cd59a8fb0448002cae0e5c0&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-CNEX視納華仁紀實,http://zby.lskk.top/cdnlive.php?mode=play&id=2ffa149412ab2dc5ec4d7aaa24c728cb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-ELTV生活英語,http://zby.lskk.top/cdnlive.php?mode=play&id=8efc490d426de82f5cb77261935ddc03&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-ESPN 3,http://zby.lskk.top/cdnlive.php?mode=play&id=a65faa238bcd8ba08e9a7aec2f4c150a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-EVE,http://zby.lskk.top/cdnlive.php?mode=play&id=3e46f60dc9ba4d282881b363ce772a46&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-FGM Gold电影,http://zby.lskk.top/cdnlive.php?mode=play&id=156a1cd807b17860cea57003204d3ff4&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-FOX NEWS,http://zby.lskk.top/cdnlive.php?mode=play&id=4678abfed193d1f4016562d975b6f1f8&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-FRANCE24,http://zby.lskk.top/cdnlive.php?mode=play&id=40b0165992c508339b5053c63ae02629&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-GINX TV,http://zby.lskk.top/cdnlive.php?mode=play&id=f9a48471de2879b0f104d60f88c0eebd&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Global Trekker,http://zby.lskk.top/cdnlive.php?mode=play&id=e9882445f629ec5a47d66b2b54ecbecf&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-HBO Family,http://zby.lskk.top/cdnlive.php?mode=play&id=24fbab5df54290fecb9969ef613a085c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-HBO HD,http://zby.lskk.top/cdnlive.php?mode=play&id=68a273c7a3ba7578a2ca58fe24f3c2be&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-HBO Hits,http://zby.lskk.top/cdnlive.php?mode=play&id=5bc9aa4c7e0ec2bff7da0b06d5ca85de&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-HBO Signature,http://zby.lskk.top/cdnlive.php?mode=play&id=e36d9ca9f7eb47bf9920fdb97539fb21&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-HGTV,http://zby.lskk.top/cdnlive.php?mode=play&id=6f38e0a053bd7aad52927c890baf994a&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-INULTRA,http://zby.lskk.top/cdnlive.php?mode=play&id=47d60cecdfe00230c7426317c3588ce4&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-JET综合,http://zby.lskk.top/cdnlive.php?mode=play&id=4611de94a73e7a20ea710c20ff03e1ad&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Magellan TV,http://zby.lskk.top/cdnlive.php?mode=play&id=1f6dda464cce90a0fb3176bca8bfa3dc&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-MCE电影,http://zby.lskk.top/cdnlive.php?mode=play&id=48373015a120ada6f934253eea6a32d0&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-MOMO親子台,http://zby.lskk.top/cdnlive.php?mode=play&id=5f4146cdbd7cdfdd7ec37e9532434dbb&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-NHK WORLD-JAPAN,http://zby.lskk.top/cdnlive.php?mode=play&id=33eec59f8338d5bca7074be67cb24747&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Pet Club TV,http://zby.lskk.top/cdnlive.php?mode=play&id=02fe7cf0f125a2b343582a63a8f9855b&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-Rollor,http://zby.lskk.top/cdnlive.php?mode=play&id=e0a07815c0135b40d44dc9c846f61b48&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TRACE Sport Stars,http://zby.lskk.top/cdnlive.php?mode=play&id=635b45fbf2cc2c7b8d9bef552fb54dc2&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-TSN 3,http://zby.lskk.top/cdnlive.php?mode=play&id=aef11144ac3826c4f233d0883d3183d7&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-WB TV,http://zby.lskk.top/cdnlive.php?mode=play&id=3a7f519d7a2db33033c06baddf76b3ae&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
-W SPORT,http://zby.lskk.top/cdnlive.php?mode=play&id=524d539ec5fb663b50a7ebdb075c2e8c&token=wUJLMUpsYJOdEdkpd5OwyC27t69vzy3W
 
 
 
@@ -470,3 +338,12 @@ Astro AEC,http://cdn3.123.rr.kg/stream/live/aec/
 TVB Plus(WebVTT字幕),http://cdn10.123.rr.kg/163189/tvbp/
 黄金华剧台(WebVTT字幕),http://cdn10.123.rr.kg/163189/hjhjt/
 
+
+VIP頻道1888_1888,#genre#
+
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
