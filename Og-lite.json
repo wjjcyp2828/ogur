@@ -933,6 +933,16 @@
   "lives": [
   
            {
+            "name": "🇹🇼tw備用",
+            "type": 0,
+            "url": "./fourth/new1014.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "playerType": 2,
+            "timeout": 10
+        },
+  
+           {
             "name": "🐱catvod",
             "type": 0,
             "url": "https://live.catvod.com/?tk=b32fedad26c4260cc16f5c043e32218c",
@@ -951,15 +961,6 @@
         },
         
   
-         {
-            "name": "🇹🇼tw備用",
-            "type": 0,
-            "url": "./fourth/new1014.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "playerType": 2,
-            "timeout": 10
-        },
         
         	    {
             "name": "🪂4GTV怡淳酒店(梯子台湾节点)720p",
