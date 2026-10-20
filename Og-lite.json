@@ -960,6 +960,16 @@
             "playerType": 2,
             "timeout": 10
         },
+        
+        	    {
+            "name": "🪂4GTV怡淳酒店(梯子台湾节点)720p",
+            "type": 0,
+            "ua": "okhttp",
+             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "url": "http://xtvantsc.xyz/4gtv.txt"
+            
+        },
   
               {
             "name": "🌌香雨TV直播58＆68",
