@@ -519,11 +519,7 @@ BS日テレ東(東京電視台衛星電視頻道),http://211.23.95.147:18881/liv
 ⚠️menu或長按ok都能選,https://live.catvod.com/?id=L2xyL2RMUTJkRTEyak5TV1Fjbkc2VXM0VkNxYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWY2NGQ2MzkzJmNuPTFlMGQ1ODRjJmNwPWNhY2U3MGZkJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=b32fedad26c4260cc16f5c043e32218c
 
 
-VIP頻道1888_1888,#genre#
 
-松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
-松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-松視3台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
-驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
-潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
-驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+
+
+
