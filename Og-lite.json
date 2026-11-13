@@ -6,6 +6,19 @@
     "sites": [
     
             {
+            "key": "py_豆瓣",
+            "name": "📱豆瓣ᵖʸ ",
+            "type": 3,
+            "api": "./py/豆瓣.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+
+    
+            {
             "key": "豆瓣",
             "name": "🥮中秋佳节丨月满人间",
             "type": 3,
