@@ -15,14 +15,7 @@
     },
 
     
-            {
-            "key": "豆瓣",
-            "name": "🥮中秋佳节丨月满人间",
-            "type": 3,
-            "api": "csp_Douban",
-            "indexs": 1,
-            "searchable": 0
-        },
+
         {
             "key": "globaltrack",
             "name": "Ⓜ️全球丨影视榜单",
