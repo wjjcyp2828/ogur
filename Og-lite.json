@@ -664,8 +664,68 @@
             "filterable": 1,
             "playerType": 2
           }, 
+          
+          
+         {
+            "key": "py_大海影视",
+            "name": "大海影视ᵖʸ ",
+            "type": 3,
+            "api": "./py/大海影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+          }, 
+          
+                   {
+            "key": "py_巨量",
+            "name": "巨量ᵖʸ ",
+            "type": 3,
+            "api": "./py/巨量.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+          }, 
 
-    
+          {
+            "key": "py_师兄407",
+            "name": "师兄407ᵖʸ ",
+            "type": 3,
+            "api": "./py/师兄407.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+          }, 
+
+          {
+            "key": "JS_免费AI剧场",
+            "name": "免费AI剧场JS ",
+            "type": 3,
+            "api": "./js/免费AI剧场.js",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+          },  
+
+          {
+            "key": "py_橘汁视频 新",
+            "name": "橘汁视频 新ᵖʸ ",
+            "type": 3,
+            "api": "./py/橘汁视频 新.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+          },
+          
     
             {
             "key": "农民影视",
